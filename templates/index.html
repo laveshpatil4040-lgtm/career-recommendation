@@ -1,0 +1,1179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Career Recommendation System</title>
+    <link rel="stylesheet" href="/static/main.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="topbar">
+            <div class="brand">
+                <h1>Career Recommendation System</h1>
+                <p>AI-powered guidance for students to explore the right path with better clarity.</p>
+            </div>
+
+            <div class="user-area">
+                <button id="themeToggle" class="theme-toggle">🌙 Dark Mode</button>
+                <div class="welcome-badge">Welcome, {{ user_name }}</div>
+                <a href="/logout" class="logout-btn">Logout</a>
+            </div>
+        </div>
+
+        <section class="hero">
+            <div class="hero-left">
+                <div class="tag">Student-Friendly Career Guidance</div>
+                <h2>Discover your best-fit career and what to improve next</h2>
+                <p>
+                    Fill only the important details, get a predicted career path, and click on recommendations
+                    to see courses, YouTube resources, project ideas, and internship guidance.
+                </p>
+
+                <div class="hero-points">
+                    <div class="hero-point">Get top role predictions from your profile.</div>
+                    <div class="hero-point">See clickable recommendations for skill improvement.</div>
+                    <div class="hero-point">If projects or internships are zero, get practical suggestions instantly.</div>
+                </div>
+            </div>
+
+            <div class="hero-right">
+                <div class="mini-stat">
+                    <h3>Rating style used in this form</h3>
+                    <p>Poor, Average, Good, Great, Best</p>
+                </div>
+                <div class="mini-stat">
+                    <h3>Extra learning support</h3>
+                    <p>Courses, YouTube, projects, internships</p>
+                </div>
+                <div class="mini-stat">
+                    <h3>Best for</h3>
+                    <p>12th, diploma, and early college students</p>
+                </div>
+            </div>
+        </section>
+
+        <div class="main-grid">
+            <div class="form-card">
+                <h2 class="section-title">Enter Your Details</h2>
+                <p class="section-sub">
+                    Keep the form simple, choose your ratings using labels, and let the system suggest the best career direction.
+                </p>
+
+                <form id="careerForm">
+                    <div class="form-grid">
+                        <div class="field">
+                            <label for="current_stage">Current Stage</label>
+                            <select id="current_stage" name="current_stage">
+                                <option value="Pursuing_12th">Pursuing 12th</option>
+                                <option value="Completed_12th">Completed 12th</option>
+                                <option value="Pursuing_Diploma" selected>Pursuing Diploma</option>
+                                <option value="Completed_Diploma">Completed Diploma</option>
+                                <option value="Pursuing_Graduation">Pursuing Graduation</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="current_course_or_class">Course / Class</label>
+                            <select id="current_course_or_class" name="current_course_or_class">
+                                <option value="12th_Science">12th Science</option>
+                                <option value="12th_Commerce">12th Commerce</option>
+                                <option value="12th_Arts">12th Arts</option>
+                                <option value="Diploma_CSE" selected>Diploma CSE</option>
+                                <option value="Diploma_IT">Diploma IT</option>
+                                <option value="BCA">BCA</option>
+                                <option value="BTech_CSE">BTech CSE</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="age">Age</label>
+                            <input type="number" id="age" name="age" min="15" max="35" value="18" required />
+                        </div>
+
+                        <div class="field">
+                            <label for="gender">Gender</label>
+                            <select id="gender" name="gender">
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="tenth_percentage">10th Percentage</label>
+                            <input type="number" id="tenth_percentage" name="tenth_percentage" min="0" max="100" value="70" />
+                        </div>
+
+                        <div class="field">
+                            <label for="twelfth_or_diploma_percentage">12th / Diploma Percentage</label>
+                            <input type="number" id="twelfth_or_diploma_percentage" name="twelfth_or_diploma_percentage" min="0" max="100" value="0" />
+                            <div class="rating-help">If result is not out yet, you can keep it as 0.</div>
+                        </div>
+
+                        <div class="field">
+                            <label for="programming_score">Programming Level</label>
+                            <select id="programming_score" name="programming_score">
+                                <option value="1">Poor</option>
+                                <option value="3">Average</option>
+                                <option value="5" selected>Good</option>
+                                <option value="7">Great</option>
+                                <option value="9">Best</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="communication_score">Communication Level</label>
+                            <select id="communication_score" name="communication_score">
+                                <option value="1">Poor</option>
+                                <option value="3">Average</option>
+                                <option value="5" selected>Good</option>
+                                <option value="7">Great</option>
+                                <option value="9">Best</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="logical_reasoning_score">Logical Reasoning</label>
+                            <select id="logical_reasoning_score" name="logical_reasoning_score">
+                                <option value="1">Poor</option>
+                                <option value="3">Average</option>
+                                <option value="5" selected>Good</option>
+                                <option value="7">Great</option>
+                                <option value="9">Best</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="problem_solving_score">Problem Solving</label>
+                            <select id="problem_solving_score" name="problem_solving_score">
+                                <option value="1">Poor</option>
+                                <option value="3">Average</option>
+                                <option value="5" selected>Good</option>
+                                <option value="7">Great</option>
+                                <option value="9">Best</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="coding_interest">Coding Interest</label>
+                            <select id="coding_interest" name="coding_interest">
+                                <option value="1">Poor</option>
+                                <option value="3">Average</option>
+                                <option value="5" selected>Good</option>
+                                <option value="7">Great</option>
+                                <option value="9">Best</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="design_interest">Design Interest</label>
+                            <select id="design_interest" name="design_interest">
+                                <option value="1">Poor</option>
+                                <option value="3">Average</option>
+                                <option value="5" selected>Good</option>
+                                <option value="7">Great</option>
+                                <option value="9">Best</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="management_interest">Management Interest</label>
+                            <select id="management_interest" name="management_interest">
+                                <option value="1">Poor</option>
+                                <option value="3">Average</option>
+                                <option value="5" selected>Good</option>
+                                <option value="7">Great</option>
+                                <option value="9">Best</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="preferred_work_type">Preferred Work Type</label>
+                            <select id="preferred_work_type" name="preferred_work_type">
+                                <option value="Software Development" selected>Software Development</option>
+                                <option value="Data Analysis">Data Analysis</option>
+                                <option value="Design">Design</option>
+                                <option value="Management">Management</option>
+                                <option value="Research">Research</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="preferred_subroles">Preferred Subrole</label>
+                            <select id="preferred_subroles" name="preferred_subroles">
+                                <option value="Web Developer" selected>Web Developer</option>
+                                <option value="Backend Developer">Backend Developer</option>
+                                <option value="Data Analyst">Data Analyst</option>
+                                <option value="Data Scientist">Data Scientist</option>
+                                <option value="UI/UX Designer">UI/UX Designer</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="project_count">Projects Done</label>
+                            <select id="project_count" name="project_count">
+                                <option value="0" selected>0</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4+</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="internship_experience">Internship Experience</label>
+                            <select id="internship_experience" name="internship_experience">
+                                <option value="0" selected>0</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3+</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="certifications_count">Certifications</label>
+                            <select id="certifications_count" name="certifications_count">
+                                <option value="0">0</option>
+                                <option value="1">1</option>
+                                <option value="2" selected>2</option>
+                                <option value="3">3</option>
+                                <option value="4">4+</option>
+                            </select>
+                        </div>
+
+                        <div class="field">
+                            <label for="favorite_subject">Favorite Subject</label>
+                            <input type="text" id="favorite_subject" name="favorite_subject" value="Programming" placeholder="Example: Programming" />
+                        </div>
+
+                        <div class="field full-width">
+                            <label for="current_skills">Current Skills</label>
+                            <textarea id="current_skills" name="current_skills" placeholder="Example: HTML, CSS, Python basics, SQL">Basic Computer Knowledge</textarea>
+                        </div>
+
+                        <div class="full-width">
+                            <button type="submit" id="submitBtn" class="btn-primary">Get Career Recommendation</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="result-card">
+                <h2 class="section-title">Your Result</h2>
+                <p class="section-sub">Prediction, confidence, top matches, and clickable growth recommendations will appear here.</p>
+
+                <div id="resultArea" class="placeholder-box">
+                    Submit the form to see your best-fit career path and next-step recommendations.
+                </div>
+
+                <div class="result-block" style="margin-top:16px;">
+                    <h3>My Insights</h3>
+                    <div id="insightStats" class="notice">Loading your analytics...</div>
+                </div>
+
+                <div class="result-block">
+                    <h3>Recent Predictions</h3>
+                    <div id="historyList" class="notice">No history yet.</div>
+                    <button id="exportHistoryBtn" type="button" class="btn-primary" style="margin-top:14px;">Export History CSV</button>
+                </div>
+            </div>
+        </div>
+        <!-- ===== CAREER IMPROVEMENT CHART SECTION ===== -->
+<div class="chart-section">
+    <div class="chart-header">
+        <div>
+            <h2 class="section-title">Your Skill Profile Chart</h2>
+            <p class="section-sub">Visual breakdown of your strengths and areas to improve. Updates every time you submit the form.</p>
+        </div>
+        <span class="chart-badge">Live Preview</span>
+    </div>
+
+    <div class="chart-grid">
+        <!-- Radar Chart -->
+        <div class="chart-card">
+            <h3 class="chart-card-title">Skills Radar</h3>
+            <p class="chart-card-sub">How your 5 key skills compare against each other</p>
+            <div class="radar-wrap">
+                <canvas id="radarChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Bar Chart -->
+        <div class="chart-card">
+            <h3 class="chart-card-title">Improvement Areas</h3>
+            <p class="chart-card-sub">Gap between your current level and the ideal level (9)</p>
+            <div class="bar-wrap">
+                <canvas id="barChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Profile Score Card -->
+        <div class="chart-card profile-score-card">
+            <h3 class="chart-card-title">Profile Strength</h3>
+            <p class="chart-card-sub">Overall readiness score based on your inputs</p>
+
+            <div class="score-ring-wrap">
+                <canvas id="doughnutChart"></canvas>
+                <div class="score-ring-label" id="profileScoreLabel">—</div>
+            </div>
+
+            <div class="score-breakdown" id="scoreBreakdown">
+                <div class="score-row"><span>Skills Average</span><span id="sb-skills">—</span></div>
+                <div class="score-row"><span>Projects</span><span id="sb-projects">—</span></div>
+                <div class="score-row"><span>Internships</span><span id="sb-internships">—</span></div>
+                <div class="score-row"><span>Certifications</span><span id="sb-certs">—</span></div>
+                <div class="score-row"><span>Academics</span><span id="sb-academics">—</span></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ===== END CHART SECTION ===== -->
+        <div class="footer-card">
+            <strong>Note:</strong> This platform is for educational guidance and project use. Final career decisions should also consider your interests, mentors, and real-world exploration.
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="resourceModal">
+        <div class="modal-box">
+            <div class="modal-top">
+                <div>
+                    <h2 id="modalTitle">Learning Resources</h2>
+                    <p id="modalSubtitle">Courses, YouTube, and practical steps to improve this area.</p>
+                </div>
+                <button class="close-btn" id="closeModalBtn">&times;</button>
+            </div>
+
+            <div class="modal-section">
+                <h3>Courses / Learning Platforms</h3>
+                <div class="modal-list" id="modalCourses"></div>
+            </div>
+
+            <div class="modal-section">
+                <h3>YouTube Resources</h3>
+                <div class="modal-list" id="modalYoutube"></div>
+            </div>
+
+            <div class="modal-section">
+                <h3>Practice / Next Steps</h3>
+                <div class="modal-list" id="modalSteps"></div>
+            </div>
+        </div>
+    </div>
+    <!-- Chatbot Toggle Button -->
+<button id="chatbotToggle" class="chatbot-toggle">💬</button>
+
+<!-- Chatbot Box -->
+<div id="chatbotBox" class="chatbot-box">
+    <div class="chatbot-header">
+        <div>
+            <h3>Career Assistant</h3>
+            <p>Ask about careers, skills, projects, internships</p>
+        </div>
+        <button id="closeChatbot" class="chatbot-close">&times;</button>
+    </div>
+
+    <div id="chatMessages" class="chatbot-messages">
+        <div class="bot-message">
+            Hi! I am your career assistant. Ask me things like:
+            <br><br>
+            - Which skill should I improve?<br>
+            - How to get internship?<br>
+            - Best projects for web development?
+        </div>
+    </div>
+
+    <div class="chatbot-input-area">
+        <input
+            type="text"
+            id="chatInput"
+            placeholder="Type your message..."
+            autocomplete="off"
+        />
+        <button id="sendChatBtn">Send</button>
+    </div>
+</div>
+
+    <script>
+        // --- MAIN APP LOGIC ---
+        const careerForm = document.getElementById("careerForm");
+        const resultArea = document.getElementById("resultArea");
+        const submitBtn = document.getElementById("submitBtn");
+        const historyList = document.getElementById("historyList");
+        const insightStats = document.getElementById("insightStats");
+        const exportHistoryBtn = document.getElementById("exportHistoryBtn");
+        let currentPredictedCareer = "";
+
+        const resourceModal = document.getElementById("resourceModal");
+        const closeModalBtn = document.getElementById("closeModalBtn");
+        const modalTitle = document.getElementById("modalTitle");
+        const modalSubtitle = document.getElementById("modalSubtitle");
+        const modalCourses = document.getElementById("modalCourses");
+        const modalYoutube = document.getElementById("modalYoutube");
+        const modalSteps = document.getElementById("modalSteps");
+
+        const resourceData = {
+            "Python": {
+                subtitle: "Build Python foundations for software, data, and automation roles.",
+                courses: [
+                    { text: "freeCodeCamp - Scientific Computing with Python", link: "https://www.freecodecamp.org/learn/scientific-computing-with-python/" },
+                    { text: "Coursera - Python for Everybody", link: "https://www.coursera.org/specializations/python" },
+                    { text: "W3Schools Python Tutorial", link: "https://www.w3schools.com/python/" }
+                ],
+                youtube: [
+                    { text: "CodeWithHarry Python Playlist", link: "https://www.youtube.com/results?search_query=codewithharry+python+playlist" },
+                    { text: "Apna College Python", link: "https://www.youtube.com/results?search_query=apna+college+python" },
+                    { text: "freeCodeCamp Python Full Course", link: "https://www.youtube.com/results?search_query=freecodecamp+python+full+course" }
+                ],
+                steps: [
+                    "Complete Python basics: variables, loops, functions, lists, dictionaries.",
+                    "Practice 20 to 30 beginner problems.",
+                    "Build small projects like calculator, to-do app, or student record system."
+                ]
+            },
+            "SQL": {
+                subtitle: "Develop database skills useful in analyst and backend roles.",
+                courses: [
+                    { text: "SQLBolt", link: "https://sqlbolt.com/" },
+                    { text: "Mode SQL Tutorial", link: "https://mode.com/sql-tutorial/" },
+                    { text: "W3Schools SQL Tutorial", link: "https://www.w3schools.com/sql/" }
+                ],
+                youtube: [
+                    { text: "Alex The Analyst SQL", link: "https://www.youtube.com/results?search_query=alex+the+analyst+sql" },
+                    { text: "Apna College SQL", link: "https://www.youtube.com/results?search_query=apna+college+sql" },
+                    { text: "freeCodeCamp SQL Full Course", link: "https://www.youtube.com/results?search_query=freecodecamp+sql+full+course" }
+                ],
+                steps: [
+                    "Learn SELECT, WHERE, GROUP BY, JOIN, and subqueries.",
+                    "Practice queries on student or sales datasets.",
+                    "Add SQL to one project and write 10 useful queries."
+                ]
+            },
+            "Communication": {
+                subtitle: "Improve speaking, confidence, and interview communication.",
+                courses: [
+                    { text: "Coursera - Improving Communication Skills", link: "https://www.coursera.org/learn/wharton-communication-skills" },
+                    { text: "Great Learning communication courses", link: "https://www.mygreatlearning.com/academy" },
+                    { text: "LinkedIn Learning communication topics", link: "https://www.linkedin.com/learning/" }
+                ],
+                youtube: [
+                    { text: "Communication skills YouTube search", link: "https://www.youtube.com/results?search_query=communication+skills+for+students" },
+                    { text: "Interview communication tips", link: "https://www.youtube.com/results?search_query=interview+communication+skills" },
+                    { text: "English speaking practice", link: "https://www.youtube.com/results?search_query=english+speaking+practice+for+students" }
+                ],
+                steps: [
+                    "Speak for 2 minutes daily on one topic.",
+                    "Practice self-introduction and mock interview answers.",
+                    "Join presentations, viva practice, or group discussions."
+                ]
+            },
+            "Projects": {
+                subtitle: "Projects prove your skills even before internships.",
+                courses: [
+                    { text: "freeCodeCamp project-based learning", link: "https://www.freecodecamp.org/" },
+                    { text: "GeeksforGeeks project ideas", link: "https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/" },
+                    { text: "GitHub student project inspiration", link: "https://github.com/topics/student-project" }
+                ],
+                youtube: [
+                    { text: "Python project ideas", link: "https://www.youtube.com/results?search_query=python+beginner+projects" },
+                    { text: "Web development projects", link: "https://www.youtube.com/results?search_query=web+development+projects+for+students" },
+                    { text: "Data analyst projects", link: "https://www.youtube.com/results?search_query=data+analyst+projects+for+beginners" }
+                ],
+                steps: [
+                    "Start with one mini project and one resume-ready project.",
+                    "Upload your code to GitHub with screenshots and short description.",
+                    "Choose projects related to your target role like web, data, or ML."
+                ]
+            },
+            "Internships": {
+                subtitle: "Internships can begin with small remote or virtual opportunities.",
+                courses: [
+                    { text: "Internshala student guide", link: "https://internshala.com/" },
+                    { text: "LinkedIn job and internship section", link: "https://www.linkedin.com/jobs/" },
+                    { text: "Naukri internships and fresher roles", link: "https://www.naukri.com/" }
+                ],
+                youtube: [
+                    { text: "How to get internship as student", link: "https://www.youtube.com/results?search_query=how+to+get+internship+as+a+student" },
+                    { text: "LinkedIn profile for internships", link: "https://www.youtube.com/results?search_query=linkedin+profile+for+internship" },
+                    { text: "Internshala guide", link: "https://www.youtube.com/results?search_query=internshala+how+to+apply" }
+                ],
+                steps: [
+                    "Create a one-page resume and LinkedIn profile.",
+                    "Apply to 5 to 10 internships every week.",
+                    "Use projects and certifications to support applications if experience is zero."
+                ]
+            },
+            "JavaScript": {
+                subtitle: "Essential for frontend and full-stack roles.",
+                courses: [
+                    { text: "javascript.info", link: "https://javascript.info/" },
+                    { text: "freeCodeCamp JavaScript Algorithms", link: "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/" },
+                    { text: "W3Schools JavaScript", link: "https://www.w3schools.com/js/" }
+                ],
+                youtube: [
+                    { text: "Namaste JavaScript", link: "https://www.youtube.com/results?search_query=namaste+javascript" },
+                    { text: "CodeWithHarry JavaScript", link: "https://www.youtube.com/results?search_query=codewithharry+javascript" },
+                    { text: "Apna College JavaScript", link: "https://www.youtube.com/results?search_query=apna+college+javascript" }
+                ],
+                steps: [
+                    "Learn DOM, events, arrays, objects, and functions well.",
+                    "Build interactive pages like quiz app or weather app.",
+                    "Use JavaScript in at least 2 frontend projects."
+                ]
+            },
+            "HTML/CSS": {
+                subtitle: "Start here for web development basics.",
+                courses: [
+                    { text: "freeCodeCamp Responsive Web Design", link: "https://www.freecodecamp.org/learn/2022/responsive-web-design/" },
+                    { text: "MDN HTML Guides", link: "https://developer.mozilla.org/en-US/docs/Learn/HTML" },
+                    { text: "MDN CSS Guides", link: "https://developer.mozilla.org/en-US/docs/Learn/CSS" }
+                ],
+                youtube: [
+                    { text: "HTML CSS full course", link: "https://www.youtube.com/results?search_query=html+css+full+course" },
+                    { text: "CodeWithHarry HTML CSS", link: "https://www.youtube.com/results?search_query=codewithharry+html+css" },
+                    { text: "Thapa Technical HTML CSS", link: "https://www.youtube.com/results?search_query=thapa+technical+html+css" }
+                ],
+                steps: [
+                    "Build clean responsive pages using flexbox and grid.",
+                    "Recreate 2 good landing pages for practice.",
+                    "Learn forms, cards, sections, navbar, and media queries."
+                ]
+            },
+            "React": {
+                subtitle: "Useful for modern frontend roles.",
+                courses: [
+                    { text: "React official docs", link: "https://react.dev/learn" },
+                    { text: "Scrimba Learn React", link: "https://scrimba.com/learn/learnreact" },
+                    { text: "freeCodeCamp Front End Libraries", link: "https://www.freecodecamp.org/learn/front-end-development-libraries/" }
+                ],
+                youtube: [
+                    { text: "React full course", link: "https://www.youtube.com/results?search_query=react+full+course" },
+                    { text: "CodeWithHarry React", link: "https://www.youtube.com/results?search_query=codewithharry+react" },
+                    { text: "Apna College React", link: "https://www.youtube.com/results?search_query=apna+college+react" }
+                ],
+                steps: [
+                    "Learn components, props, state, hooks, and routing.",
+                    "Build a portfolio, to-do app, and API project.",
+                    "Connect React frontend with Flask or Node backend."
+                ]
+            },
+            "Machine Learning": {
+                subtitle: "A strong next step for data and AI roles.",
+                courses: [
+                    { text: "Coursera - Machine Learning Specialization", link: "https://www.coursera.org/specializations/machine-learning-introduction" },
+                    { text: "Kaggle micro-courses", link: "https://www.kaggle.com/learn" },
+                    { text: "Google ML Crash Course", link: "https://developers.google.com/machine-learning/crash-course" }
+                ],
+                youtube: [
+                    { text: "Krish Naik Machine Learning", link: "https://www.youtube.com/results?search_query=krish+naik+machine+learning" },
+                    { text: "CampusX Machine Learning", link: "https://www.youtube.com/results?search_query=campusx+machine+learning" },
+                    { text: "Andrew Ng machine learning videos", link: "https://www.youtube.com/results?search_query=andrew+ng+machine+learning" }
+                ],
+                steps: [
+                    "Learn pandas, numpy, data cleaning, and model basics first.",
+                    "Practice regression, classification, and model evaluation.",
+                    "Build 2 end-to-end ML mini projects."
+                ]
+            },
+            "Deep Learning": {
+                subtitle: "Helpful after machine learning basics are strong.",
+                courses: [
+                    { text: "DeepLearning.AI", link: "https://www.deeplearning.ai/courses/" },
+                    { text: "PyTorch tutorials", link: "https://pytorch.org/tutorials/" },
+                    { text: "TensorFlow tutorials", link: "https://www.tensorflow.org/tutorials" }
+                ],
+                youtube: [
+                    { text: "Krish Naik Deep Learning", link: "https://www.youtube.com/results?search_query=krish+naik+deep+learning" },
+                    { text: "CampusX Deep Learning", link: "https://www.youtube.com/results?search_query=campusx+deep+learning" },
+                    { text: "freeCodeCamp Deep Learning", link: "https://www.youtube.com/results?search_query=freecodecamp+deep+learning" }
+                ],
+                steps: [
+                    "Finish ML basics before neural networks.",
+                    "Learn tensors, ANN, CNN basics, and training process.",
+                    "Build one image or text project."
+                ]
+            },
+            "APIs": {
+                subtitle: "Important for backend and full-stack development.",
+                courses: [
+                    { text: "MDN APIs", link: "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction" },
+                    { text: "Postman API fundamentals", link: "https://www.postman.com/api-platform/api-testing/" },
+                    { text: "REST API tutorial", link: "https://restfulapi.net/" }
+                ],
+                youtube: [
+                    { text: "REST API tutorial", link: "https://www.youtube.com/results?search_query=rest+api+tutorial" },
+                    { text: "Flask API tutorial", link: "https://www.youtube.com/results?search_query=flask+api+tutorial" },
+                    { text: "Postman beginner tutorial", link: "https://www.youtube.com/results?search_query=postman+tutorial+for+beginners" }
+                ],
+                steps: [
+                    "Learn GET, POST, PUT, DELETE clearly.",
+                    "Test APIs using Postman.",
+                    "Create one CRUD API project."
+                ]
+            },
+            "Power BI": {
+                subtitle: "Useful for analytics and dashboard work.",
+                courses: [
+                    { text: "Microsoft Power BI learning", link: "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/" },
+                    { text: "Great Learning Power BI", link: "https://www.mygreatlearning.com/academy" },
+                    { text: "Simplilearn Power BI resources", link: "https://www.simplilearn.com/" }
+                ],
+                youtube: [
+                    { text: "Power BI tutorial for beginners", link: "https://www.youtube.com/results?search_query=power+bi+tutorial+for+beginners" },
+                    { text: "Alex The Analyst Power BI", link: "https://www.youtube.com/results?search_query=alex+the+analyst+power+bi" },
+                    { text: "CodeBasics Power BI", link: "https://www.youtube.com/results?search_query=codebasics+power+bi" }
+                ],
+                steps: [
+                    "Learn data loading, cleaning, visuals, and DAX basics.",
+                    "Build one student dashboard and one sales dashboard.",
+                    "Add screenshots to your resume or portfolio."
+                ]
+            }
+        };
+
+        function createLinkItem(item) {
+            return `<div>• <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.text}</a></div>`;
+        }
+
+        function createTextItem(text) {
+            return `<div>• ${text}</div>`;
+        }
+
+        function escapeHtml(value) {
+            return String(value)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#39;");
+        }
+
+        function normalizeSkillKey(skill) {
+            const map = {
+                "python communication": "Communication",
+                "python communications": "Communication",
+                "communications": "Communication",
+                "communication skills": "Communication",
+                "project": "Projects",
+                "projects": "Projects",
+                "internship": "Internships",
+                "internships": "Internships",
+                "html": "HTML/CSS",
+                "css": "HTML/CSS",
+                "html/css": "HTML/CSS",
+                "ml": "Machine Learning"
+            };
+
+            const lower = String(skill).trim().toLowerCase();
+            if (map[lower]) return map[lower];
+
+            for (const key of Object.keys(resourceData)) {
+                if (lower === key.toLowerCase()) return key;
+            }
+
+            return skill;
+        }
+
+        function openResourceModal(skillName) {
+            const normalized = normalizeSkillKey(skillName);
+            const data = resourceData[normalized] || {
+                subtitle: "Suggested resources for improving this area.",
+                courses: [
+                    { text: `${skillName} beginner search`, link: `https://www.google.com/search?q=${encodeURIComponent(skillName + " beginner course")}` }
+                ],
+                youtube: [
+                    { text: `${skillName} YouTube search`, link: `https://www.youtube.com/results?search_query=${encodeURIComponent(skillName + " tutorial")}` }
+                ],
+                steps: [
+                    `Search beginner resources for ${skillName}.`,
+                    `Practice small tasks regularly.`,
+                    `Use ${skillName} in at least one project.`
+                ]
+            };
+
+            modalTitle.textContent = normalized;
+            modalSubtitle.textContent = data.subtitle;
+            modalCourses.innerHTML = data.courses.map(createLinkItem).join("");
+            modalYoutube.innerHTML = data.youtube.map(createLinkItem).join("");
+            modalSteps.innerHTML = data.steps.map(createTextItem).join("");
+            resourceModal.classList.add("active");
+            document.body.style.overflow = "hidden";
+        }
+
+        function closeResourceModal() {
+            resourceModal.classList.remove("active");
+            document.body.style.overflow = "";
+        }
+
+        closeModalBtn.addEventListener("click", closeResourceModal);
+        resourceModal.addEventListener("click", function (e) {
+            if (e.target === resourceModal) closeResourceModal();
+        });
+
+        document.addEventListener("keydown", function (e) {
+            if (e.key === "Escape") closeResourceModal();
+        });
+
+        function getFormData() {
+            const formData = new FormData(careerForm);
+            const data = Object.fromEntries(formData.entries());
+
+            return {
+                current_stage: data.current_stage,
+                current_course_or_class: data.current_course_or_class,
+                age: parseInt(data.age || 18),
+                gender: data.gender,
+                tenth_percentage: parseFloat(data.tenth_percentage || 0),
+                twelfth_or_diploma_percentage: parseFloat(data.twelfth_or_diploma_percentage || 0),
+
+                math_score: 5,
+                programming_score: parseInt(data.programming_score || 5),
+                communication_score: parseInt(data.communication_score || 5),
+                logical_reasoning_score: parseInt(data.logical_reasoning_score || 5),
+                creativity_score: 5,
+                leadership_score: 5,
+                teamwork_score: 5,
+                problem_solving_score: parseInt(data.problem_solving_score || 5),
+
+                coding_interest: parseInt(data.coding_interest || 5),
+                design_interest: parseInt(data.design_interest || 5),
+                business_interest: 5,
+                healthcare_interest: 1,
+                research_interest: 5,
+                management_interest: parseInt(data.management_interest || 5),
+                finance_interest: 3,
+                education_interest: 3,
+
+                cloud_interest: 5,
+                security_interest: 3,
+                data_interest: 7,
+                graduation_percentage: 0,
+
+                preferred_work_type: data.preferred_work_type,
+                preferred_subroles: data.preferred_subroles,
+                preferred_domain: "IT",
+                personality_type: "Ambivert",
+                certifications_count: parseInt(data.certifications_count || 0),
+                project_count: parseInt(data.project_count || 0),
+                internship_experience: parseInt(data.internship_experience || 0),
+                favorite_subject: data.favorite_subject || "Programming",
+                current_skills: data.current_skills || "Basic Computer Knowledge"
+            };
+        }
+
+        function buildRecommendationChips(skills, projectCount, internshipCount) {
+            let chips = [];
+
+            (skills || []).forEach(skill => {
+                const escapedSkill = escapeHtml(skill);
+                const quotedSkill = String(skill).replace(/'/g, "\\'");
+                chips.push(`
+                    <button type="button" class="recommend-chip" onclick="openResourceModal('${quotedSkill}')">
+                        ${escapedSkill}
+                    </button>
+                `);
+            });
+
+            if (Number(projectCount) === 0) {
+                chips.push(`
+                    <button type="button" class="recommend-chip" onclick="openResourceModal('Projects')">
+                        Projects to Start
+                    </button>
+                `);
+            }
+
+            if (Number(internshipCount) === 0) {
+                chips.push(`
+                    <button type="button" class="recommend-chip" onclick="openResourceModal('Internships')">
+                        Internship Guidance
+                    </button>
+                `);
+            }
+
+            return chips.join("");
+        }
+
+        function buildResultHTML(result, inputData) {
+            const top3HTML = (result.top3 || []).map(item => `
+                <div class="top-item">
+                    <span>${escapeHtml(item.career)}</span>
+                    <strong>${escapeHtml(item.score)}</strong>
+                </div>
+            `).join("");
+
+            const recommendationChips = buildRecommendationChips(
+                result.skills_needed || [],
+                inputData.project_count,
+                inputData.internship_experience
+            );
+
+            const zeroNotes = [];
+            if (Number(inputData.project_count) === 0) {
+                zeroNotes.push("You currently have 0 projects, so project ideas and beginner portfolio guidance are included.");
+            }
+            if (Number(inputData.internship_experience) === 0) {
+                zeroNotes.push("You currently have 0 internships, so internship search and profile-building guidance are included.");
+            }
+
+            return `
+                <div class="result-block">
+                    <h3>Predicted Career</h3>
+                    <div class="career-name">${escapeHtml(result.career || "N/A")}</div>
+                    <div class="confidence">Confidence: ${escapeHtml(result.confidence || "N/A")}</div>
+                </div>
+
+                <div class="result-block">
+                    <h3>Top Matches</h3>
+                    <div class="top-list">
+                        ${top3HTML || "<div class='top-item'><span>No top matches available</span><strong>-</strong></div>"}
+                    </div>
+                </div>
+
+                <div class="result-block">
+                    <h3>Recommendations</h3>
+                    <div class="chip-wrap">
+                        ${recommendationChips || "<span>No recommendations available</span>"}
+                    </div>
+                    <div class="notice">
+                        Click any recommendation to open a small learning window with courses, YouTube resources, and next steps.
+                    </div>
+                    ${zeroNotes.map(note => `<div class="empty-note">${note}</div>`).join("")}
+                </div>
+            `;
+        }
+
+        async function loadHistory() {
+            try {
+                const response = await fetch("/history");
+                const payload = await response.json();
+                if (!response.ok) throw new Error(payload.error || "Failed to load history");
+                const items = payload.history || [];
+                if (!items.length) {
+                    historyList.innerHTML = "No history yet. Make your first prediction.";
+                    return;
+                }
+                historyList.innerHTML = items.map((item) => {
+                    const time = new Date(item.created_at).toLocaleString();
+                    return `<div class="top-item"><span>${escapeHtml(item.career)}</span><strong>${escapeHtml(item.confidence)} (${escapeHtml(time)})</strong></div>`;
+                }).join("");
+            } catch (error) {
+                historyList.textContent = "Unable to load history right now.";
+            }
+        }
+
+        async function loadInsights() {
+            try {
+                const response = await fetch("/insights");
+                const payload = await response.json();
+                if (!response.ok) throw new Error(payload.error || "Failed to load insights");
+                insightStats.innerHTML = `
+                    Total predictions: <strong>${escapeHtml(payload.total_predictions)}</strong><br>
+                    Top career trend: <strong>${escapeHtml(payload.top_career)}</strong>
+                    (${escapeHtml(payload.top_career_count)} times)
+                `;
+            } catch (error) {
+                insightStats.textContent = "Unable to load insights right now.";
+            }
+        }
+
+        careerForm.addEventListener("submit", async function (e) {
+            e.preventDefault();
+
+            const inputData = getFormData();
+
+            submitBtn.disabled = true;
+            submitBtn.textContent = "Checking your best fit...";
+            resultArea.innerHTML = `
+                <div class="placeholder-box">
+                    Please wait while the system analyzes your profile and prepares career suggestions.
+                </div>
+            `;
+
+            try {
+                const response = await fetch("/predict", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(inputData)
+                });
+
+                const result = await response.json();
+
+                if (!response.ok) {
+                    throw new Error(result.error || "Something went wrong while getting prediction.");
+                }
+
+                resultArea.innerHTML = buildResultHTML(result, inputData);
+                currentPredictedCareer = result.career || "";
+                loadHistory();
+                loadInsights();
+            } catch (error) {
+                resultArea.innerHTML = `
+                    <div class="error-box">
+                        <strong>Error:</strong> ${escapeHtml(error.message)}
+                    </div>
+                `;
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.textContent = "Get Career Recommendation";
+            }
+        });
+
+        window.openResourceModal = openResourceModal;
+        exportHistoryBtn.addEventListener("click", function () {
+            window.location.href = "/export-history";
+        });
+        loadHistory();
+        loadInsights();
+
+        // --- THEME SWITCHER ---
+        const themeBtn = document.getElementById('themeToggle');
+        const htmlBody = document.body;
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        htmlBody.setAttribute('data-theme', savedTheme);
+        themeBtn.innerText = savedTheme === 'dark' ? '☀️ Light Mode' : '🌙 Dark Mode';
+        themeBtn.addEventListener('click', () => {
+            const isDark = htmlBody.getAttribute('data-theme') === 'dark';
+            const newTheme = isDark ? 'light' : 'dark';
+            htmlBody.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            themeBtn.innerText = newTheme === 'dark' ? '☀️ Light Mode' : '🌙 Dark Mode';
+        });
+
+        // --- CHATBOT ---
+        const chatbotToggle = document.getElementById("chatbotToggle");
+        const chatbotBox = document.getElementById("chatbotBox");
+        const closeChatbot = document.getElementById("closeChatbot");
+        const chatMessages = document.getElementById("chatMessages");
+        const chatInput = document.getElementById("chatInput");
+        const sendChatBtn = document.getElementById("sendChatBtn");
+
+        chatbotToggle.addEventListener("click", (e) => {
+            chatbotBox.classList.add("active");
+            e.stopPropagation();
+        });
+        closeChatbot.addEventListener("click", () => chatbotBox.classList.remove("active"));
+        window.addEventListener('click', (e) => {
+            if (chatbotBox.classList.contains('active') && !chatbotBox.contains(e.target) && e.target !== chatbotToggle) {
+                chatbotBox.classList.remove('active');
+            }
+        });
+
+        function addChatMessage(message, type) {
+            const div = document.createElement("div");
+            div.className = type === "user" ? "user-message" : "bot-message";
+            div.textContent = message;
+            chatMessages.appendChild(div);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        function addTypingMessage() {
+            const div = document.createElement("div");
+            div.className = "typing-message";
+            div.id = "typingMessage";
+            div.textContent = "Thinking...";
+            chatMessages.appendChild(div);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        function removeTypingMessage() {
+            const typing = document.getElementById("typingMessage");
+            if (typing) typing.remove();
+        }
+
+        async function handleChat() {
+            const message = chatInput.value.trim();
+            if (!message) return;
+
+            addChatMessage(message, "user");
+            chatInput.value = "";
+            sendChatBtn.disabled = true;
+            addTypingMessage();
+
+            try {
+                const response = await fetch("/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ message, career: currentPredictedCareer })
+                });
+                const result = await response.json();
+                removeTypingMessage();
+                if (!response.ok) {
+                    addChatMessage(result.error || "Unable to get assistant reply right now.", "bot");
+                } else {
+                    addChatMessage(result.reply || "No reply generated.", "bot");
+                }
+            } catch (error) {
+                removeTypingMessage();
+                addChatMessage("Network error while contacting assistant.", "bot");
+            } finally {
+                sendChatBtn.disabled = false;
+            }
+        }
+
+        sendChatBtn.addEventListener("click", handleChat);
+        chatInput.addEventListener("keypress", function (e) {
+            if (e.key === "Enter") handleChat();
+        });
+
+        // ===== CHART SECTION =====
+const CHART_LABELS = ["Programming", "Communication", "Logical", "Problem Solving", "Coding Interest"];
+const CHART_IDS    = ["programming_score", "communication_score", "logical_reasoning_score", "problem_solving_score", "coding_interest"];
+const CHART_MAX    = 9;
+
+let radarChartInst = null, barChartInst = null, doughnutChartInst = null;
+
+function getChartColors() {
+    const dark = document.body.getAttribute("data-theme") === "dark";
+    return {
+        gridColor:  dark ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.07)",
+        tickColor:  dark ? "#94a3b8" : "#64748b",
+        labelColor: dark ? "#cbd5e1" : "#334155",
+        radarFill:  dark ? "rgba(45,212,191,0.18)" : "rgba(15,118,110,0.13)",
+        radarBorder:dark ? "#2dd4bf" : "#0f766e",
+        barFill:    dark ? "rgba(45,212,191,0.75)" : "rgba(15,118,110,0.75)",
+        gapFill:    dark ? "rgba(239,68,68,0.55)"  : "rgba(239,68,68,0.5)",
+        doughnutFill: ["#0f766e","#2dd4bf","#2563eb","#16a34a","#d97706"],
+    };
+}
+
+function readSkillValues() {
+    return CHART_IDS.map(id => parseInt(document.getElementById(id)?.value || 5));
+}
+
+function calcProfileScore() {
+    const skills = readSkillValues();
+    const skillsAvg = skills.reduce((a,b) => a+b, 0) / skills.length;
+    const projects   = parseInt(document.getElementById("project_count")?.value || 0);
+    const internships= parseInt(document.getElementById("internship_experience")?.value || 0);
+    const certs      = parseInt(document.getElementById("certifications_count")?.value || 0);
+    const tenth      = parseFloat(document.getElementById("tenth_percentage")?.value || 0);
+    const twelfth    = parseFloat(document.getElementById("twelfth_or_diploma_percentage")?.value || 0);
+    const academics  = Math.max(tenth, twelfth);
+
+    // Weighted score out of 100
+    const score = Math.round(
+        (skillsAvg / 9) * 40 +
+        Math.min(projects / 4, 1) * 20 +
+        Math.min(internships / 3, 1) * 15 +
+        Math.min(certs / 4, 1) * 10 +
+        (academics / 100) * 15
+    );
+
+    return {
+        score,
+        skillsAvg: skillsAvg.toFixed(1),
+        projects,
+        internships,
+        certs,
+        academics: academics > 0 ? academics + "%" : "—"
+    };
+}
+
+function renderCharts() {
+    if (typeof Chart === "undefined") return;
+    const vals   = readSkillValues();
+    const gaps   = vals.map(v => Math.max(0, CHART_MAX - v));
+    const c      = getChartColors();
+    const prof   = calcProfileScore();
+
+    // Update score labels
+    document.getElementById("profileScoreLabel").textContent = prof.score + "%";
+    document.getElementById("sb-skills").textContent       = prof.skillsAvg + " / 9";
+    document.getElementById("sb-projects").textContent     = prof.projects;
+    document.getElementById("sb-internships").textContent  = prof.internships;
+    document.getElementById("sb-certs").textContent        = prof.certs;
+    document.getElementById("sb-academics").textContent    = prof.academics;
+
+    const sharedTick = { color: c.tickColor, font: { size: 11, family: "Inter, sans-serif" } };
+    const sharedGrid = { color: c.gridColor };
+
+    // --- Radar ---
+    if (radarChartInst) radarChartInst.destroy();
+    radarChartInst = new Chart(document.getElementById("radarChart"), {
+        type: "radar",
+        data: {
+            labels: CHART_LABELS,
+            datasets: [{
+                label: "Your Level",
+                data: vals,
+                backgroundColor: c.radarFill,
+                borderColor: c.radarBorder,
+                borderWidth: 2,
+                pointBackgroundColor: c.radarBorder,
+                pointRadius: 4,
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: { legend: { display: false } },
+            scales: {
+                r: {
+                    min: 0, max: 9, ticks: { stepSize: 3, ...sharedTick, backdropColor: "transparent" },
+                    grid: sharedGrid,
+                    angleLines: { color: c.gridColor },
+                    pointLabels: { color: c.labelColor, font: { size: 11, family: "Inter, sans-serif" } }
+                }
+            }
+        }
+    });
+
+    // --- Bar ---
+    if (barChartInst) barChartInst.destroy();
+    barChartInst = new Chart(document.getElementById("barChart"), {
+        type: "bar",
+        data: {
+            labels: CHART_LABELS,
+            datasets: [
+                { label: "Current", data: vals, backgroundColor: c.barFill, borderRadius: 6 },
+                { label: "Gap to ideal", data: gaps, backgroundColor: c.gapFill, borderRadius: 6 }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: { legend: { labels: { color: c.labelColor, font: { size: 11 } } } },
+            scales: {
+                x: { stacked: true, ticks: sharedTick, grid: { display: false } },
+                y: { stacked: true, max: 9, ticks: sharedTick, grid: sharedGrid }
+            }
+        }
+    });
+
+    // --- Doughnut ---
+    if (doughnutChartInst) doughnutChartInst.destroy();
+    doughnutChartInst = new Chart(document.getElementById("doughnutChart"), {
+        type: "doughnut",
+        data: {
+            labels: CHART_LABELS,
+            datasets: [{
+                data: vals,
+                backgroundColor: c.doughnutFill,
+                borderWidth: 2,
+                borderColor: document.body.getAttribute("data-theme") === "dark" ? "#1e293b" : "#fff"
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            cutout: "70%",
+            plugins: { legend: { position: "bottom", labels: { color: c.labelColor, font: { size: 11 }, padding: 10 } } }
+        }
+    });
+}
+
+// Load Chart.js then render
+const chartScript = document.createElement("script");
+chartScript.src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js";
+chartScript.onload = () => renderCharts();
+document.head.appendChild(chartScript);
+
+// Re-render on form submit and on theme toggle
+careerForm.addEventListener("submit", () => setTimeout(renderCharts, 100));
+document.getElementById("themeToggle").addEventListener("click", () => setTimeout(renderCharts, 150));
+// ===== END CHART SECTION =====
+    </script>
+</body>
+</html>

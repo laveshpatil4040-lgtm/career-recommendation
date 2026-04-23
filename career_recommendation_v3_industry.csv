@@ -1,0 +1,1053 @@
+student_id,age,gender,tenth_percentage,twelfth_or_diploma_percentage,math_score,programming_score,communication_score,logical_reasoning_score,creativity_score,leadership_score,teamwork_score,problem_solving_score,coding_interest,design_interest,data_interest,business_interest,security_interest,cloud_interest,preferred_work_type,preferred_domain,personality_type,certifications_count,project_count,internship_experience,favorite_subject,career_label
+S0270,20,Female,78.85,80.61,41,67,81,58,35,38,84,74,2,3,6,3,1,6,Technical,Web,Logical,1,5,Yes,Web,AI/ML Engineer Trainee
+S0193,24,Male,84.19,97.85,99,87,73,85,52,62,50,91,9,1,5,6,6,1,Technical,AI-ML,Logical,0,1,Yes,Python,Junior ML Engineer
+S0917,17,Male,83.03,89.37,75,54,71,74,79,79,79,73,6,4,1,8,3,4,Management,Data,Leader,0,1,Yes,Statistics,Junior Business Analyst
+S0386,19,Male,78.92,74.59,60,44,51,79,75,51,65,72,5,9,1,5,4,3,Creative,Web,Creative,2,3,Yes,Web,Frontend Developer
+S0425,17,Male,87.03,75.49,79,68,62,70,60,80,92,97,8,6,4,5,4,2,Technical,Web,Logical,3,1,No,DBMS,Backend Developer
+S0701,17,Female,75.53,62.6,82,71,49,69,86,31,90,51,2,10,3,2,2,6,Creative,Web,Creative,1,0,No,Web,UI/UX Designer
+S0958,22,Female,69.63,79.8,68,67,67,78,83,58,83,95,2,6,3,2,3,8,Technical,Cloud,Logical,1,5,Yes,Python,Junior DevOps Engineer
+S0951,19,Female,75.95,74.03,99,70,46,97,56,68,71,88,1,2,6,5,3,8,Technical,Cloud,Logical,3,4,No,Python,Junior DevOps Engineer
+S0526,19,Male,70.27,65.32,94,91,94,74,56,64,66,81,8,4,1,2,6,6,Technical,Web,Logical,2,5,Yes,Python,Full Stack Developer
+S0896,21,Other,73.8,90.07,72,60,93,82,55,77,100,63,6,4,2,8,2,6,Management,Data,Leader,3,2,No,DBMS,Junior Business Analyst
+S0368,17,Male,73.54,69.28,58,45,70,67,78,62,70,81,5,10,1,4,5,2,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S0232,17,Male,78.18,73.0,46,70,70,68,80,69,72,89,5,2,6,2,1,3,Technical,Data,Logical,2,4,No,Web,AI/ML Engineer Trainee
+S0761,19,Female,65.12,80.58,46,46,62,80,80,57,77,81,4,9,2,3,4,3,Creative,Web,Creative,2,5,Yes,Web,UI/UX Designer
+S0478,21,Female,85.34,71.27,99,70,53,88,38,34,70,81,7,4,3,3,2,1,Technical,Web,Logical,1,3,Yes,Python,Backend Developer
+S0168,20,Male,77.23,76.13,94,68,75,83,42,66,82,76,9,3,4,4,5,2,Technical,AI-ML,Logical,2,3,No,Python,Junior ML Engineer
+S0385,24,Male,76.76,77.62,83,74,72,70,93,54,55,59,1,8,1,6,2,2,Creative,Web,Creative,3,1,No,Web,Frontend Developer
+S1026,20,Female,67.36,68.89,63,72,93,90,70,50,55,72,5,2,8,3,3,2,Technical,Data,Logical,0,1,No,DBMS,Database Administrator
+S0180,19,Female,84.38,82.1,69,85,56,74,54,41,72,75,10,1,1,4,5,4,Technical,AI-ML,Logical,4,2,Yes,Math,Junior ML Engineer
+S0894,18,Other,72.76,80.39,62,77,96,58,72,83,85,69,3,3,3,9,6,3,Management,Data,Leader,2,3,No,DBMS,Junior Business Analyst
+S0367,21,Female,90.4,85.23,70,63,72,70,89,75,65,78,2,10,2,4,2,4,Creative,Web,Creative,3,6,Yes,Web,Frontend Developer
+S0716,17,Male,80.05,91.37,74,44,90,62,95,33,98,68,6,7,5,6,6,6,Creative,Web,Creative,2,1,No,Web,UI/UX Designer
+S0070,21,Other,69.08,91.59,71,40,95,67,84,74,54,87,1,6,9,3,4,4,Analytical,Data,Analytical,1,5,Yes,DBMS,Associate Data Analyst
+S0022,19,Male,72.96,82.6,83,70,67,56,83,74,100,81,5,5,8,3,6,5,Analytical,Data,Analytical,2,4,No,Statistics,Junior Data Scientist
+S0328,18,Female,80.57,78.89,92,87,58,84,58,60,80,98,7,1,6,4,6,4,Technical,Web,Logical,3,3,Yes,Web,Junior Web Developer
+S0848,19,Male,83.6,81.75,93,96,54,72,46,77,99,80,9,6,1,6,3,5,Technical,Web,Analytical,1,5,Yes,Web,Quality Assurance Tester
+S0725,17,Female,92.24,73.9,53,45,76,58,82,78,85,58,4,5,1,6,2,3,Creative,AI-ML,Creative,1,4,No,Python,UI/UX Designer
+S0743,21,Female,85.82,63.51,57,40,67,58,89,77,59,62,5,7,6,5,4,6,Creative,Web,Creative,1,4,No,Web,UI/UX Designer
+S0384,19,Male,82.3,66.38,58,44,87,60,84,40,52,78,1,8,5,3,4,4,Creative,Web,Creative,1,5,Yes,Web,Frontend Developer
+S0562,20,Female,89.12,69.46,85,73,78,87,41,40,78,72,7,6,2,6,1,3,Technical,Web,Logical,1,1,Yes,DBMS,Full Stack Developer
+S0954,19,Other,86.27,60.24,91,65,67,78,37,80,75,72,3,5,5,4,6,9,Technical,Cloud,Logical,0,5,Yes,DBMS,Junior DevOps Engineer
+S0446,18,Male,78.16,85.01,73,79,53,75,36,50,81,91,7,1,4,4,5,6,Technical,Web,Logical,4,1,No,DBMS,Backend Developer
+S0508,20,Female,96.33,59.69,62,68,85,76,52,32,98,78,8,2,2,5,4,3,Technical,Web,Logical,2,0,No,Web,Full Stack Developer
+S0465,21,Male,78.24,85.06,91,86,47,74,36,60,90,84,9,6,1,1,2,2,Technical,Web,Logical,0,5,Yes,DBMS,Backend Developer
+S0009,19,Male,81.67,76.66,49,43,60,47,37,71,57,72,3,2,1,3,5,4,Analytical,Security,Analytical,2,2,No,Python,Junior Data Scientist
+S0096,20,Female,68.49,92.0,90,57,60,90,82,41,75,95,3,3,8,1,5,2,Analytical,Data,Analytical,0,5,Yes,DBMS,Associate Data Analyst
+S0595,18,Male,79.58,72.66,71,99,58,72,41,32,99,93,4,1,1,1,5,9,Technical,Cloud,Logical,1,4,No,DBMS,Cloud Operations Engineer
+S0846,22,Male,85.26,83.87,99,73,81,58,39,67,51,76,8,2,6,2,6,1,Technical,Web,Analytical,2,4,No,Web,Quality Assurance Tester
+S0507,18,Female,77.83,72.01,80,100,80,83,36,40,66,85,8,1,6,2,2,2,Technical,Web,Logical,1,5,Yes,Python,Full Stack Developer
+S0420,20,Male,80.61,94.01,64,59,68,69,77,42,86,88,4,4,6,6,1,6,Creative,Web,Creative,5,6,Yes,Web,Frontend Developer
+S0105,17,Male,81.37,74.55,72,51,53,74,79,69,56,99,4,1,8,3,3,1,Analytical,Data,Analytical,0,6,Yes,Statistics,Associate Data Analyst
+S0276,17,Male,80.04,82.31,79,80,79,96,74,48,61,91,3,5,9,2,1,3,Technical,AI-ML,Logical,3,3,No,Math,AI/ML Engineer Trainee
+S0204,19,Male,69.22,86.92,73,85,70,70,84,32,81,100,7,3,3,2,3,1,Technical,AI-ML,Logical,2,2,No,Python,Junior ML Engineer
+S0320,22,Female,69.92,89.36,89,80,80,71,69,49,63,92,7,3,3,1,4,6,Technical,Web,Logical,2,6,Yes,Python,Junior Web Developer
+S0169,17,Female,74.49,84.88,70,98,93,97,36,65,65,93,8,4,5,2,6,6,Technical,AI-ML,Logical,3,3,No,Python,Junior ML Engineer
+S0774,18,Male,81.97,88.85,63,71,75,62,47,57,79,95,8,3,4,3,5,2,Technical,Web,Analytical,0,1,No,Python,Quality Assurance Tester
+S0582,17,Female,91.24,71.32,84,73,54,84,37,78,61,71,4,2,4,3,2,9,Technical,Cloud,Logical,3,0,No,DBMS,Cloud Operations Engineer
+S0855,19,Female,78.31,56.6,60,78,84,83,81,79,86,74,5,2,5,10,5,1,Management,Data,Leader,1,3,No,Statistics,Junior Business Analyst
+S0257,18,Female,77.56,75.28,86,85,64,70,56,44,56,80,6,3,9,1,1,2,Technical,AI-ML,Logical,3,4,No,Math,AI/ML Engineer Trainee
+S0695,17,Male,67.48,82.66,75,88,78,89,84,61,86,90,4,3,5,4,8,5,Technical,Security,Logical,2,3,No,DBMS,Security Analyst Trainee
+S0280,18,Male,88.62,85.08,62,98,67,70,51,74,75,84,5,5,8,4,2,4,Technical,AI-ML,Logical,1,5,Yes,Python,AI/ML Engineer Trainee
+S0620,21,Male,80.97,82.93,90,95,54,91,66,72,92,73,1,3,4,1,1,7,Technical,Cloud,Logical,2,4,No,Python,Cloud Operations Engineer
+S1030,18,Other,85.97,72.69,79,65,80,82,58,48,99,84,4,5,10,6,1,2,Technical,Data,Logical,3,4,No,DBMS,Database Administrator
+S0019,20,Other,79.83,99.0,94,56,80,78,42,39,70,72,4,3,10,1,5,1,Analytical,Data,Analytical,2,2,No,Statistics,Junior Data Scientist
+S0949,19,Female,80.17,73.19,66,54,45,54,81,68,62,85,1,6,6,4,3,4,Technical,Cloud,Logical,3,1,No,Python,Junior DevOps Engineer
+S0827,21,Female,74.05,71.78,87,93,95,76,46,60,62,77,7,1,2,6,5,2,Technical,Web,Analytical,3,3,No,Python,Quality Assurance Tester
+S0995,20,Female,92.35,72.44,66,88,58,85,49,43,70,73,1,1,9,2,2,3,Technical,Data,Logical,1,1,Yes,DBMS,Database Administrator
+S0459,19,Female,89.01,75.89,75,68,77,95,46,75,97,70,10,1,2,3,2,5,Technical,Web,Logical,3,2,No,Python,Backend Developer
+S0512,18,Female,70.61,84.67,89,76,47,96,41,52,60,84,9,5,5,1,2,4,Technical,Web,Logical,2,5,Yes,Web,Full Stack Developer
+S0289,18,Male,85.34,83.62,72,100,75,82,68,34,80,95,4,6,7,2,1,2,Technical,AI-ML,Logical,1,3,No,Math,AI/ML Engineer Trainee
+S0417,21,Female,76.2,77.04,77,74,76,69,85,44,65,66,1,9,4,6,2,5,Creative,Web,Creative,0,2,No,Web,Frontend Developer
+S0041,19,Male,68.62,72.22,84,49,47,84,72,48,82,100,1,1,9,6,2,5,Analytical,Data,Analytical,0,2,Yes,Statistics,Junior Data Scientist
+S0059,18,Male,77.29,70.76,62,70,95,58,69,65,79,79,4,4,9,5,1,2,Analytical,Data,Analytical,3,1,No,Python,Junior Data Scientist
+S0466,19,Other,71.1,79.6,62,88,77,83,70,74,53,80,9,4,6,4,5,2,Technical,Web,Logical,1,4,No,Python,Backend Developer
+S0221,17,Female,79.57,75.63,72,78,82,81,59,76,85,90,6,6,10,6,1,4,Technical,AI-ML,Logical,2,8,Yes,Python,AI/ML Engineer Trainee
+S0347,19,Male,78.09,67.98,68,97,54,96,36,74,71,71,9,5,3,4,5,2,Technical,Web,Logical,1,2,Yes,Python,Junior Web Developer
+S0326,21,Female,67.7,85.49,88,82,85,71,62,73,56,70,8,2,6,4,3,6,Technical,Web,Logical,0,1,No,Web,Junior Web Developer
+S0068,18,Female,93.64,89.26,97,77,53,64,83,80,55,98,6,4,10,6,3,1,Analytical,Data,Analytical,3,2,Yes,DBMS,Associate Data Analyst
+S0617,20,Male,94.75,96.21,84,67,57,88,57,65,91,72,1,3,1,6,3,9,Technical,Cloud,Logical,2,2,No,Python,Cloud Operations Engineer
+S0173,21,Male,90.89,83.96,84,94,58,73,77,51,95,96,9,6,4,4,5,1,Technical,AI-ML,Logical,1,3,No,Python,Junior ML Engineer
+S0401,21,Male,88.81,91.83,51,67,76,80,93,53,86,71,3,7,6,6,5,2,Creative,Web,Creative,1,4,Yes,Web,Frontend Developer
+S0885,19,Male,81.29,65.78,47,58,89,57,48,80,97,64,6,5,2,4,3,4,Management,Security,Leader,0,0,No,Math,Junior Business Analyst
+S0390,19,Female,65.17,82.61,78,67,84,81,98,59,72,77,2,10,6,6,1,4,Creative,Web,Creative,1,2,No,Web,Frontend Developer
+S0820,17,Female,77.89,78.24,72,80,68,66,67,67,90,99,9,6,2,6,1,3,Technical,Web,Analytical,3,2,Yes,Python,Quality Assurance Tester
+S0893,19,Male,82.77,87.6,50,80,95,85,77,96,83,75,6,2,6,7,1,1,Management,Data,Leader,1,8,Yes,Statistics,Junior Business Analyst
+S1043,20,Female,74.93,82.0,63,86,90,75,68,38,74,90,1,5,7,3,6,5,Technical,Data,Logical,4,3,No,DBMS,Database Administrator
+S0964,21,Male,70.87,65.59,84,80,93,82,54,60,78,84,5,6,3,1,4,9,Technical,Cloud,Logical,1,2,No,Python,Junior DevOps Engineer
+S0982,19,Male,77.17,74.08,73,99,78,88,50,68,54,77,1,1,4,3,4,10,Technical,Cloud,Logical,1,1,No,Python,Junior DevOps Engineer
+S0631,17,Female,87.11,97.22,88,73,87,71,70,51,96,84,1,2,5,4,3,10,Technical,Cloud,Logical,1,1,No,Python,Cloud Operations Engineer
+S0082,19,Female,72.12,88.16,84,63,88,77,40,47,90,100,6,4,7,4,6,6,Analytical,Data,Analytical,2,4,No,DBMS,Associate Data Analyst
+S0152,19,Female,77.0,69.74,63,90,60,89,36,41,88,86,8,5,5,1,2,2,Technical,AI-ML,Logical,1,1,No,Python,Junior ML Engineer
+S0558,22,Male,79.13,95.39,64,66,92,94,84,70,68,88,7,4,6,1,2,3,Technical,Web,Logical,4,4,No,Python,Full Stack Developer
+S1018,21,Male,85.35,83.52,63,73,45,70,58,70,60,79,1,2,9,5,2,3,Technical,Data,Logical,1,6,Yes,DBMS,Database Administrator
+S0166,20,Female,81.06,88.41,60,87,70,75,74,80,69,96,10,6,6,5,4,1,Technical,AI-ML,Logical,0,1,Yes,Math,Junior ML Engineer
+S0021,20,Female,85.39,86.84,60,64,57,58,62,56,80,99,2,2,9,6,6,6,Analytical,Data,Analytical,3,5,Yes,Math,Junior Data Scientist
+S0729,19,Female,79.08,75.29,80,52,49,61,80,63,83,78,3,7,1,5,5,6,Creative,Web,Creative,1,3,No,Web,UI/UX Designer
+S0916,21,Male,71.68,85.68,48,52,93,65,80,77,53,84,6,2,1,8,2,4,Management,Data,Leader,2,6,Yes,Statistics,Junior Business Analyst
+S0500,17,Female,81.55,79.14,74,86,95,80,69,49,71,99,10,5,3,2,6,5,Technical,Web,Logical,1,5,Yes,DBMS,Full Stack Developer
+S0272,21,Male,81.4,90.84,82,67,85,96,82,64,90,75,2,3,10,2,3,5,Technical,AI-ML,Logical,1,3,No,Math,AI/ML Engineer Trainee
+S0372,19,Female,81.48,78.48,48,56,50,80,79,42,88,82,5,10,1,1,5,6,Creative,Web,Creative,2,3,Yes,Web,Frontend Developer
+S0603,20,Male,80.31,57.49,93,98,77,75,63,50,68,97,2,4,5,6,5,7,Technical,Cloud,Logical,2,6,Yes,Python,Cloud Operations Engineer
+S0448,21,Female,66.69,79.31,70,99,84,71,36,55,89,86,10,6,5,4,2,5,Technical,Web,Logical,1,5,Yes,Python,Backend Developer
+S0623,21,Other,74.2,63.34,62,52,94,59,61,73,70,76,3,4,3,3,6,5,Technical,Security,Logical,4,0,No,Python,Cloud Operations Engineer
+S0734,20,Other,86.79,75.39,48,61,54,66,92,31,72,60,4,10,5,5,6,6,Creative,Web,Creative,0,8,Yes,Web,UI/UX Designer
+S0319,20,Female,78.57,76.72,86,92,45,95,42,59,57,71,10,2,5,6,5,1,Technical,Web,Logical,3,3,No,Python,Junior Web Developer
+S0348,18,Male,79.8,75.64,96,77,93,100,41,54,69,98,9,5,5,1,5,4,Technical,Web,Logical,0,2,No,Python,Junior Web Developer
+S0510,20,Female,70.88,80.64,82,78,87,70,80,79,53,78,10,2,1,3,4,2,Technical,Web,Logical,2,2,No,Web,Full Stack Developer
+S0350,18,Female,78.98,81.61,74,67,48,74,39,45,92,84,8,4,2,4,1,1,Technical,Web,Logical,2,6,Yes,Python,Junior Web Developer
+S0062,18,Female,84.43,57.31,47,49,61,63,71,76,90,88,6,3,3,2,1,3,Analytical,AI-ML,Analytical,1,3,No,Web,Associate Data Analyst
+S0709,17,Female,67.52,68.92,46,54,58,77,89,79,68,69,1,10,6,4,4,3,Creative,Web,Creative,0,3,No,Web,UI/UX Designer
+S0680,19,Male,86.9,82.59,83,72,45,71,77,69,65,99,5,5,3,3,9,5,Technical,Security,Logical,3,4,No,DBMS,Security Analyst Trainee
+S0255,19,Female,83.06,73.16,62,68,76,98,83,36,90,99,3,2,8,5,1,5,Technical,AI-ML,Logical,1,5,Yes,Python,AI/ML Engineer Trainee
+S0431,19,Male,82.57,73.66,99,76,88,81,56,41,52,71,10,6,4,6,2,1,Technical,Web,Logical,3,2,No,Python,Backend Developer
+S0131,19,Male,91.47,81.61,65,97,63,100,78,69,75,70,7,5,2,6,2,1,Technical,AI-ML,Logical,4,7,Yes,Math,Junior ML Engineer
+S0216,21,Female,80.05,77.55,67,88,49,77,58,71,87,72,4,4,7,3,4,5,Technical,AI-ML,Logical,2,3,No,Math,AI/ML Engineer Trainee
+S0171,18,Male,80.92,71.97,92,68,55,79,60,51,67,89,7,1,2,5,3,1,Technical,AI-ML,Logical,1,3,No,Math,Junior ML Engineer
+S0383,19,Female,75.94,97.34,82,78,74,82,77,56,79,80,6,8,6,6,2,3,Creative,Web,Creative,1,2,No,Web,Frontend Developer
+S0802,17,Female,79.72,64.16,77,89,63,77,63,43,59,71,10,1,2,6,5,1,Technical,Web,Analytical,1,5,Yes,Web,Quality Assurance Tester
+S0005,18,Male,94.73,74.85,77,49,65,64,65,54,63,82,5,1,8,1,1,5,Analytical,Data,Analytical,1,1,Yes,Python,Junior Data Scientist
+S0299,19,Female,89.09,64.83,67,65,71,99,75,55,92,83,7,4,4,5,1,4,Technical,Web,Logical,3,1,No,Web,Junior Web Developer
+S1023,20,Male,80.65,89.77,86,93,77,83,71,58,98,76,1,1,10,4,4,5,Technical,Data,Logical,2,1,Yes,DBMS,Database Administrator
+S1049,21,Female,80.79,77.12,73,90,93,90,59,37,88,89,5,2,9,6,3,5,Technical,Data,Logical,3,1,Yes,DBMS,Database Administrator
+S1052,21,Male,87.45,59.67,94,83,48,92,84,42,66,93,1,4,8,3,5,4,Technical,Data,Logical,3,4,No,DBMS,Database Administrator
+S0121,19,Female,88.6,71.21,68,48,62,67,83,31,57,90,2,2,8,5,3,5,Analytical,Data,Analytical,2,1,No,Statistics,Associate Data Analyst
+S0124,18,Female,87.28,86.05,49,70,48,67,78,45,50,89,3,5,3,1,5,3,Analytical,AI-ML,Analytical,2,5,Yes,Python,Associate Data Analyst
+S0669,19,Female,90.57,83.36,85,76,63,97,74,32,62,100,2,1,4,3,10,1,Technical,Security,Logical,3,6,Yes,DBMS,Security Analyst Trainee
+S0750,19,Female,72.0,80.01,43,62,77,49,77,30,78,82,6,3,6,3,5,1,Creative,AI-ML,Creative,3,1,No,Statistics,UI/UX Designer
+S0523,19,Male,71.79,80.63,67,86,55,87,69,45,58,86,8,1,2,4,5,3,Technical,Web,Logical,1,2,Yes,Python,Full Stack Developer
+S0602,20,Other,80.35,58.93,77,71,59,88,42,64,57,77,2,6,6,4,2,7,Technical,Cloud,Logical,1,5,Yes,DBMS,Cloud Operations Engineer
+S0659,20,Female,78.99,83.55,95,91,49,88,55,35,60,93,3,2,5,5,9,6,Technical,Security,Logical,0,2,No,DBMS,Security Analyst Trainee
+S0161,19,Female,92.75,82.39,75,77,94,76,74,47,61,93,9,3,3,5,3,3,Technical,AI-ML,Logical,0,3,No,Math,Junior ML Engineer
+S0381,20,Male,84.87,99.0,68,63,49,64,97,57,73,55,5,5,4,5,3,2,Creative,Data,Creative,1,3,No,Math,Frontend Developer
+S0703,19,Female,75.48,89.18,65,78,92,63,97,63,61,80,5,8,3,3,1,1,Creative,Web,Creative,4,2,No,Web,UI/UX Designer
+S0357,21,Male,68.64,82.49,75,73,82,71,86,43,80,82,1,10,3,3,4,4,Creative,Web,Creative,3,3,No,Web,Frontend Developer
+S0392,18,Other,69.82,67.26,54,51,85,48,81,37,51,59,2,5,1,5,1,6,Creative,Web,Creative,1,1,No,DBMS,Frontend Developer
+S0489,18,Female,74.07,94.18,83,76,93,100,84,74,81,78,10,5,5,1,5,5,Technical,Web,Logical,2,2,No,DBMS,Full Stack Developer
+S0785,20,Male,73.77,66.49,63,98,57,62,65,43,50,83,7,3,5,6,2,1,Technical,Web,Analytical,2,2,No,Web,Quality Assurance Tester
+S0207,17,Male,95.09,81.66,74,79,88,81,74,68,52,71,7,3,6,2,5,2,Technical,AI-ML,Logical,1,3,No,Math,Junior ML Engineer
+S0770,22,Male,76.59,91.33,50,47,59,74,98,59,72,83,4,9,2,5,6,6,Creative,Web,Creative,1,3,No,Web,UI/UX Designer
+S0740,19,Male,84.43,94.24,54,68,62,78,98,62,97,78,6,7,4,1,4,3,Creative,Web,Creative,1,1,No,Web,UI/UX Designer
+S0888,20,Female,87.26,80.84,47,64,73,65,35,89,97,78,4,3,2,10,6,3,Management,Data,Leader,0,5,Yes,Statistics,Junior Business Analyst
+S0256,21,Male,81.02,69.02,98,97,90,97,46,73,80,71,1,4,10,3,4,2,Technical,AI-ML,Logical,3,4,No,Python,AI/ML Engineer Trainee
+S0601,22,Female,63.49,63.05,90,69,56,71,80,80,63,95,3,3,1,5,3,8,Technical,Cloud,Logical,4,5,Yes,DBMS,Cloud Operations Engineer
+S0132,17,Male,78.39,77.73,67,91,63,72,79,34,70,84,8,2,2,6,1,1,Technical,AI-ML,Logical,3,5,Yes,Math,Junior ML Engineer
+S0149,20,Male,73.49,77.72,85,82,92,94,55,78,73,98,7,2,4,1,1,2,Technical,AI-ML,Logical,2,0,No,Math,Junior ML Engineer
+S0950,20,Other,94.59,90.0,95,80,76,84,73,53,88,71,6,5,4,6,4,8,Technical,Cloud,Logical,1,3,No,DBMS,Junior DevOps Engineer
+S0847,20,Male,66.78,93.85,94,96,59,67,37,41,89,96,8,2,3,2,4,4,Technical,Web,Analytical,1,2,Yes,Web,Quality Assurance Tester
+S0163,20,Female,83.44,58.31,65,97,88,97,80,80,71,93,10,1,2,1,4,5,Technical,AI-ML,Logical,2,6,Yes,Python,Junior ML Engineer
+S0306,20,Female,82.03,67.65,64,85,82,76,77,80,57,84,7,6,2,6,3,3,Technical,Web,Logical,0,0,No,Web,Junior Web Developer
+S0563,19,Male,63.5,83.75,60,74,47,72,50,33,60,86,9,6,4,5,3,3,Technical,Web,Logical,0,1,No,Python,Full Stack Developer
+S0865,17,Male,78.49,59.87,63,51,73,79,46,90,76,86,3,4,6,7,4,4,Management,Data,Leader,0,2,No,DBMS,Junior Business Analyst
+S0104,19,Female,74.37,82.31,81,61,76,88,56,54,78,82,1,4,7,2,4,1,Analytical,Data,Analytical,1,1,No,DBMS,Associate Data Analyst
+S0140,22,Male,65.25,92.78,42,54,66,65,78,67,51,81,2,5,4,6,1,5,Technical,Data,Logical,0,1,No,Math,Junior ML Engineer
+S0780,22,Male,71.05,85.82,83,94,92,84,51,74,69,96,7,3,1,2,2,3,Technical,Web,Analytical,2,4,No,Python,Quality Assurance Tester
+S0435,20,Male,79.43,67.66,86,82,67,95,64,53,92,87,9,5,4,1,1,2,Technical,Web,Logical,1,2,No,Python,Backend Developer
+S0273,19,Male,80.22,84.46,85,74,81,91,46,71,57,70,1,4,10,1,4,3,Technical,AI-ML,Logical,0,2,No,Python,AI/ML Engineer Trainee
+S0660,18,Female,94.77,82.76,92,87,76,83,38,67,56,75,6,6,4,1,8,1,Technical,Security,Logical,7,0,No,DBMS,Security Analyst Trainee
+S0838,20,Other,83.34,71.32,77,68,60,82,53,75,92,93,10,6,4,1,3,4,Technical,Web,Analytical,2,1,No,Web,Quality Assurance Tester
+S0778,20,Male,78.19,78.38,95,94,95,72,78,69,51,83,8,2,4,2,3,2,Technical,Web,Analytical,2,4,Yes,Web,Quality Assurance Tester
+S0110,19,Male,72.52,82.53,84,65,48,63,67,32,87,75,3,2,8,4,1,5,Analytical,Data,Analytical,6,1,No,DBMS,Associate Data Analyst
+S1046,19,Female,78.94,73.26,60,90,62,95,77,72,79,79,4,1,7,2,5,3,Technical,Data,Logical,3,2,No,DBMS,Database Administrator
+S0683,20,Male,80.39,95.17,46,69,60,51,72,62,59,80,1,2,4,6,2,6,Technical,Web,Logical,3,3,No,Statistics,Security Analyst Trainee
+S0345,18,Female,92.47,59.88,96,82,83,77,79,63,54,95,10,5,5,2,5,1,Technical,Web,Logical,1,2,No,Python,Junior Web Developer
+S0230,18,Male,85.92,85.13,65,74,53,72,38,33,83,88,3,3,8,6,6,3,Technical,AI-ML,Logical,4,4,No,Math,AI/ML Engineer Trainee
+S0646,19,Male,78.79,62.96,90,82,92,72,41,79,56,86,5,2,2,3,8,3,Technical,Security,Logical,2,1,No,DBMS,Security Analyst Trainee
+S0227,18,Female,81.48,95.59,99,80,82,98,68,72,59,84,4,6,10,3,4,3,Technical,AI-ML,Logical,1,0,Yes,Math,AI/ML Engineer Trainee
+S0195,23,Female,81.88,72.32,89,100,63,97,69,41,69,81,7,1,2,2,2,1,Technical,AI-ML,Logical,4,2,No,Math,Junior ML Engineer
+S0908,17,Male,84.32,77.99,68,71,96,61,45,95,83,53,4,3,5,10,4,3,Management,Data,Leader,2,3,No,DBMS,Junior Business Analyst
+S0938,19,Female,84.54,85.99,98,99,86,86,40,73,65,76,5,5,6,1,5,7,Technical,Cloud,Logical,3,2,Yes,DBMS,Junior DevOps Engineer
+S0621,17,Male,82.87,80.27,88,82,46,98,57,37,71,100,6,1,5,6,4,10,Technical,Cloud,Logical,2,0,Yes,Python,Cloud Operations Engineer
+S0844,17,Male,67.68,71.89,87,92,72,83,65,56,53,96,8,1,6,2,5,5,Technical,Web,Analytical,1,3,No,Python,Quality Assurance Tester
+S0469,19,Male,82.48,86.87,81,88,92,86,49,55,97,78,10,2,3,2,1,5,Technical,Web,Logical,1,2,Yes,DBMS,Backend Developer
+S0505,20,Female,87.95,75.78,76,95,58,94,60,39,71,83,9,6,1,6,5,2,Technical,Web,Logical,1,3,No,Web,Full Stack Developer
+S0546,19,Female,65.7,72.32,74,87,55,80,85,41,72,87,9,5,3,5,5,3,Technical,Web,Logical,5,1,Yes,Python,Full Stack Developer
+S0704,20,Female,86.03,86.75,66,54,58,63,80,55,86,55,5,9,1,1,2,2,Creative,Web,Creative,3,5,Yes,Web,UI/UX Designer
+S1013,17,Male,80.75,75.1,89,93,47,85,49,66,58,76,5,2,8,6,1,1,Technical,Data,Logical,3,4,No,DBMS,Database Administrator
+S0069,21,Female,79.61,91.6,80,63,61,62,85,64,68,74,4,2,7,3,3,3,Analytical,Data,Analytical,3,2,No,Statistics,Associate Data Analyst
+S0065,18,Other,84.85,77.51,74,47,52,74,59,33,60,83,4,2,9,6,6,5,Analytical,Data,Analytical,0,4,No,Statistics,Associate Data Analyst
+S0426,21,Male,73.3,78.56,84,86,95,82,48,59,54,86,10,2,2,5,3,6,Technical,Web,Logical,3,3,No,Python,Backend Developer
+S0492,17,Female,81.92,74.31,84,72,79,80,51,33,59,90,7,3,6,3,3,1,Technical,Web,Logical,3,1,No,Python,Full Stack Developer
+S0732,19,Female,80.82,77.51,61,60,75,56,93,61,76,67,4,9,4,5,3,1,Creative,Web,Creative,1,3,No,Web,UI/UX Designer
+S0735,18,Female,76.88,81.53,56,53,52,67,77,55,93,78,2,10,4,3,1,5,Creative,Web,Creative,2,3,No,Web,UI/UX Designer
+S0440,19,Male,76.45,90.55,93,69,80,98,44,68,90,84,10,1,6,6,6,1,Technical,Web,Logical,2,3,Yes,DBMS,Backend Developer
+S0343,24,Male,87.15,66.08,65,98,87,90,64,34,72,89,7,4,1,2,4,3,Technical,Web,Logical,2,1,No,Web,Junior Web Developer
+S0806,21,Female,75.35,87.49,95,84,58,82,35,37,85,91,10,1,4,1,5,3,Technical,Web,Analytical,2,2,No,Python,Quality Assurance Tester
+S0942,18,Male,81.35,75.83,92,78,73,99,67,47,99,71,5,6,5,6,1,10,Technical,Cloud,Logical,2,4,No,Python,Junior DevOps Engineer
+S0153,19,Male,75.19,69.97,76,92,61,72,55,76,81,94,7,1,1,3,3,5,Technical,AI-ML,Logical,4,1,Yes,Math,Junior ML Engineer
+S0136,22,Female,75.86,70.11,88,96,55,99,53,32,97,91,9,6,6,5,1,3,Technical,AI-ML,Logical,0,0,No,Math,Junior ML Engineer
+S0111,19,Male,80.93,72.86,64,73,71,65,77,62,85,76,4,2,9,5,3,3,Analytical,Data,Analytical,2,6,Yes,DBMS,Associate Data Analyst
+S0943,21,Male,68.17,71.1,51,41,82,46,55,56,75,91,1,4,4,4,6,2,Technical,Web,Logical,2,4,No,Python,Junior DevOps Engineer
+S0220,18,Male,86.91,69.67,84,80,48,73,65,55,79,76,2,2,7,1,4,4,Technical,AI-ML,Logical,2,1,Yes,Python,AI/ML Engineer Trainee
+S0264,21,Male,77.69,65.46,73,89,56,70,66,67,77,90,5,6,8,4,6,6,Technical,AI-ML,Logical,3,0,No,Math,AI/ML Engineer Trainee
+S0756,17,Male,73.06,85.12,67,49,66,65,76,30,92,70,3,10,4,6,1,3,Creative,Web,Creative,2,2,Yes,Web,UI/UX Designer
+S0671,19,Female,89.76,55.0,64,91,47,99,80,32,73,93,6,6,5,3,7,4,Technical,Security,Logical,1,3,No,DBMS,Security Analyst Trainee
+S0034,20,Female,82.69,81.54,89,42,78,62,78,49,80,80,5,4,10,1,6,5,Analytical,Data,Analytical,2,3,No,Python,Junior Data Scientist
+S0999,19,Female,85.36,69.15,98,67,82,71,53,41,50,74,3,2,9,4,3,1,Technical,Data,Logical,0,7,Yes,DBMS,Database Administrator
+S0087,18,Male,71.41,80.96,60,71,84,62,61,31,91,91,3,1,8,1,6,4,Analytical,Data,Analytical,1,2,No,Statistics,Associate Data Analyst
+S0369,20,Female,80.08,73.05,57,53,82,63,95,41,90,57,3,7,5,2,4,3,Creative,Web,Creative,5,3,No,Web,Frontend Developer
+S0057,22,Male,87.24,63.82,60,40,95,75,49,35,77,73,2,3,10,3,4,1,Analytical,Data,Analytical,0,7,Yes,Statistics,Junior Data Scientist
+S1017,21,Male,93.73,70.41,64,71,50,88,44,37,70,79,5,4,7,5,1,5,Technical,Data,Logical,2,7,Yes,DBMS,Database Administrator
+S0344,20,Male,77.02,68.32,77,86,94,78,82,69,86,74,10,6,6,5,2,3,Technical,Web,Logical,2,4,No,Web,Junior Web Developer
+S0283,18,Female,79.57,75.11,80,93,56,71,60,59,78,90,6,2,7,4,2,3,Technical,AI-ML,Logical,0,2,No,Python,AI/ML Engineer Trainee
+S0976,19,Female,82.94,65.37,58,45,71,44,83,77,52,82,4,6,6,4,5,6,Technical,Data,Logical,0,2,Yes,Python,Junior DevOps Engineer
+S0775,21,Male,90.81,68.09,80,71,79,86,73,75,94,74,7,5,4,2,6,4,Technical,Web,Analytical,2,3,No,Web,Quality Assurance Tester
+S1007,19,Male,70.92,99.0,91,90,95,82,50,38,80,91,2,5,10,5,6,2,Technical,Data,Logical,1,5,Yes,DBMS,Database Administrator
+S0597,20,Male,82.98,85.21,100,74,85,98,38,67,84,87,1,2,5,3,3,9,Technical,Cloud,Logical,2,6,Yes,Python,Cloud Operations Engineer
+S0444,22,Other,88.23,85.43,97,93,63,86,52,78,59,84,7,6,1,5,3,1,Technical,Web,Logical,4,4,Yes,DBMS,Backend Developer
+S0449,19,Other,89.8,80.45,81,74,81,72,38,54,75,95,7,5,6,6,1,4,Technical,Web,Logical,2,0,No,DBMS,Backend Developer
+S0157,17,Male,81.57,62.53,70,67,47,88,36,41,84,90,8,3,3,6,4,5,Technical,AI-ML,Logical,1,2,No,Python,Junior ML Engineer
+S0142,20,Male,85.17,78.6,93,92,80,84,64,73,91,89,10,1,3,6,6,6,Technical,AI-ML,Logical,2,3,No,Math,Junior ML Engineer
+S0267,18,Male,82.64,55.89,65,79,75,75,58,35,52,83,2,6,7,2,3,4,Technical,AI-ML,Logical,3,3,No,Math,AI/ML Engineer Trainee
+S0029,17,Male,75.99,72.52,66,70,71,80,81,48,81,76,5,2,10,6,6,4,Analytical,Data,Analytical,0,5,Yes,Math,Junior Data Scientist
+S0016,19,Female,90.31,73.95,82,40,86,62,40,74,90,70,4,5,9,3,4,6,Analytical,Data,Analytical,1,2,No,Statistics,Junior Data Scientist
+S0250,18,Male,92.16,74.28,76,77,71,72,84,68,56,75,1,5,10,1,4,3,Technical,AI-ML,Logical,0,3,Yes,Python,AI/ML Engineer Trainee
+S1050,17,Male,80.05,81.93,98,66,73,82,66,51,99,98,2,2,7,3,6,2,Technical,Data,Logical,0,3,Yes,DBMS,Database Administrator
+S0081,19,Female,75.03,59.22,64,61,76,87,49,32,61,76,5,5,8,5,6,5,Analytical,Data,Analytical,2,3,No,DBMS,Associate Data Analyst
+S0325,18,Female,73.1,79.18,94,78,75,96,72,52,97,100,7,4,3,6,4,4,Technical,Web,Logical,0,1,No,Python,Junior Web Developer
+S0694,18,Male,84.39,80.9,84,90,87,99,57,32,79,71,2,3,6,2,8,6,Technical,Security,Logical,1,4,No,DBMS,Security Analyst Trainee
+S0766,20,Female,81.11,84.54,73,57,77,76,94,31,60,77,4,9,1,3,4,4,Creative,Web,Creative,2,3,Yes,Web,UI/UX Designer
+S0407,20,Male,87.27,99.0,72,79,45,76,82,57,94,83,1,9,1,6,5,1,Creative,Web,Creative,4,5,Yes,Web,Frontend Developer
+S1033,19,Female,81.22,71.12,61,93,89,72,75,44,78,78,1,6,10,2,3,1,Technical,Data,Logical,2,3,No,DBMS,Database Administrator
+S0866,20,Female,86.33,62.56,47,59,85,82,60,71,55,72,2,1,2,7,5,1,Management,Data,Leader,3,5,Yes,DBMS,Junior Business Analyst
+S0120,21,Male,87.81,81.78,67,67,48,55,71,46,52,93,4,6,4,2,2,3,Analytical,Web,Analytical,1,6,Yes,Statistics,Associate Data Analyst
+S0506,19,Female,75.42,80.48,84,87,78,76,70,50,80,82,8,1,2,5,4,5,Technical,Web,Logical,1,3,No,Python,Full Stack Developer
+S0642,20,Female,62.71,70.92,77,91,45,94,42,35,79,77,1,5,3,6,10,6,Technical,Security,Logical,1,3,No,DBMS,Security Analyst Trainee
+S0608,17,Male,99.0,71.39,85,82,80,98,81,79,73,93,3,4,1,3,3,9,Technical,Cloud,Logical,4,2,No,Python,Cloud Operations Engineer
+S0739,21,Female,95.36,91.21,81,69,47,79,97,65,77,58,3,8,6,2,5,3,Creative,Web,Creative,1,5,Yes,Web,UI/UX Designer
+S0536,20,Male,65.9,87.16,94,75,48,90,73,43,95,87,10,2,5,6,4,5,Technical,Web,Logical,2,0,No,Web,Full Stack Developer
+S0746,20,Female,72.41,77.39,83,55,74,71,80,55,52,53,6,8,5,6,2,1,Creative,Web,Creative,4,3,Yes,Web,UI/UX Designer
+S0422,18,Male,80.94,81.91,81,76,84,82,94,75,52,59,3,7,6,3,2,2,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S0023,19,Female,77.84,77.99,76,57,54,71,78,67,62,75,3,4,10,1,6,2,Analytical,Data,Analytical,2,5,Yes,Math,Junior Data Scientist
+S0296,19,Male,74.01,82.19,93,77,69,84,79,38,54,70,9,3,3,4,2,4,Technical,Web,Logical,3,4,No,Web,Junior Web Developer
+S0382,18,Female,69.01,80.8,83,69,80,58,85,40,89,54,2,8,4,3,6,6,Creative,Web,Creative,4,4,No,Web,Frontend Developer
+S0824,21,Female,61.23,75.59,73,90,83,83,73,79,52,75,10,2,5,3,5,2,Technical,Web,Analytical,3,5,Yes,Web,Quality Assurance Tester
+S0145,21,Female,78.5,81.39,76,98,88,76,80,66,54,84,8,4,4,3,2,6,Technical,AI-ML,Logical,2,3,Yes,Math,Junior ML Engineer
+S0544,20,Male,75.47,86.78,86,71,61,90,78,60,85,82,10,3,4,3,3,3,Technical,Web,Logical,1,5,Yes,Web,Full Stack Developer
+S0996,18,Female,93.56,73.87,90,78,87,89,54,49,100,92,2,6,10,1,1,1,Technical,Data,Logical,2,2,No,DBMS,Database Administrator
+S0786,18,Female,89.35,71.83,85,73,45,70,43,41,60,95,8,5,5,1,6,2,Technical,Web,Analytical,6,2,No,Web,Quality Assurance Tester
+S0751,21,Female,73.64,93.14,55,56,60,68,94,78,81,60,4,4,5,6,1,5,Creative,Cloud,Creative,1,1,Yes,Python,UI/UX Designer
+S0514,21,Female,92.57,87.02,89,94,74,81,72,51,99,78,9,4,2,1,1,6,Technical,Web,Logical,3,3,No,Python,Full Stack Developer
+S0769,20,Female,88.29,67.78,61,65,74,43,95,62,83,61,5,6,1,3,5,2,Creative,AI-ML,Creative,0,5,Yes,DBMS,UI/UX Designer
+S1037,18,Male,86.46,81.49,94,93,93,77,51,43,97,91,1,1,8,4,6,4,Technical,Data,Logical,3,0,No,DBMS,Database Administrator
+S0957,18,Other,76.37,77.73,84,65,45,93,62,31,59,84,5,3,2,3,6,7,Technical,Cloud,Logical,3,2,No,DBMS,Junior DevOps Engineer
+S0592,19,Male,81.22,68.47,60,59,65,55,53,71,51,77,1,6,5,1,3,4,Technical,Web,Logical,3,3,Yes,Web,Cloud Operations Engineer
+S0678,19,Female,82.78,55.0,59,56,65,63,38,56,59,85,1,6,1,1,6,1,Technical,Cloud,Logical,2,3,No,Python,Security Analyst Trainee
+S0192,20,Female,99.0,64.71,91,93,95,93,37,59,73,88,8,6,6,6,4,2,Technical,AI-ML,Logical,0,3,No,Python,Junior ML Engineer
+S0781,19,Female,69.73,65.78,74,88,48,73,38,67,66,98,8,1,1,1,2,2,Technical,Web,Analytical,0,3,No,Web,Quality Assurance Tester
+S0355,22,Female,77.86,74.47,64,80,77,96,62,78,68,78,7,2,5,1,2,4,Technical,Web,Logical,1,5,Yes,Python,Junior Web Developer
+S0726,19,Male,79.53,75.51,51,63,68,60,75,35,52,76,5,10,1,2,1,3,Creative,Web,Creative,2,1,Yes,Web,UI/UX Designer
+S0269,18,Female,81.55,88.49,98,76,68,100,62,36,69,73,4,3,10,3,4,6,Technical,AI-ML,Logical,1,1,No,Math,AI/ML Engineer Trainee
+S0495,20,Female,81.49,75.36,95,86,74,99,59,50,57,80,9,4,4,2,4,6,Technical,Web,Logical,0,1,No,Web,Full Stack Developer
+S0493,21,Female,82.05,68.97,82,66,74,84,39,71,68,93,8,1,4,3,4,1,Technical,Web,Logical,5,3,No,Python,Full Stack Developer
+S0533,18,Male,75.78,91.89,90,66,45,92,72,49,67,73,7,1,6,6,2,2,Technical,Web,Logical,1,5,Yes,Web,Full Stack Developer
+S0430,21,Female,83.71,66.45,67,98,75,80,41,51,73,98,10,2,2,1,6,5,Technical,Web,Logical,1,2,Yes,DBMS,Backend Developer
+S0797,20,Male,79.18,89.86,69,81,87,83,55,34,71,73,10,2,4,1,2,2,Technical,Web,Analytical,1,2,No,Web,Quality Assurance Tester
+S0754,20,Female,71.04,66.92,60,62,74,77,86,55,75,65,6,7,4,2,5,1,Creative,Web,Creative,1,1,No,Web,UI/UX Designer
+S0181,19,Female,86.52,69.78,58,50,76,43,85,60,93,81,5,5,1,2,1,6,Technical,AI-ML,Logical,2,1,No,Python,Junior ML Engineer
+S0575,20,Male,86.85,86.26,89,85,72,89,50,41,67,78,5,2,4,1,3,9,Technical,Cloud,Logical,1,1,No,DBMS,Cloud Operations Engineer
+S0183,20,Female,80.84,78.88,80,98,71,88,66,52,81,90,7,1,5,5,4,5,Technical,AI-ML,Logical,3,5,Yes,Python,Junior ML Engineer
+S0349,18,Female,85.14,83.66,89,91,90,93,39,76,60,83,10,6,2,6,4,2,Technical,Web,Logical,1,4,No,Web,Junior Web Developer
+S0822,17,Male,76.71,84.71,93,85,67,69,66,30,90,89,7,6,3,3,2,4,Technical,Web,Analytical,1,1,Yes,Python,Quality Assurance Tester
+S0036,20,Male,84.56,72.67,61,73,64,65,77,58,83,95,3,6,9,5,4,3,Analytical,Data,Analytical,3,3,No,Statistics,Junior Data Scientist
+S0304,19,Female,63.73,99.0,78,86,84,81,40,60,78,76,10,6,2,2,4,4,Technical,Web,Logical,2,2,No,Web,Junior Web Developer
+S0354,19,Male,73.83,99.0,63,90,48,93,45,53,62,71,7,6,5,1,1,1,Technical,Web,Logical,2,4,No,Web,Junior Web Developer
+S0614,17,Male,76.17,80.9,71,93,95,93,43,33,83,81,5,6,4,4,2,7,Technical,Cloud,Logical,2,3,No,DBMS,Cloud Operations Engineer
+S0187,20,Male,81.46,82.85,54,66,46,52,69,69,68,85,1,2,5,1,1,5,Technical,Security,Logical,2,0,No,Statistics,Junior ML Engineer
+S0279,19,Other,83.46,59.42,87,94,45,99,55,66,75,72,1,6,10,3,3,6,Technical,AI-ML,Logical,2,4,No,Python,AI/ML Engineer Trainee
+S0099,20,Male,76.08,66.43,54,43,59,55,84,46,91,83,2,1,2,6,1,2,Analytical,Cloud,Analytical,2,1,No,Math,Associate Data Analyst
+S0260,21,Female,80.13,89.48,70,71,69,82,78,49,60,75,2,6,8,3,6,2,Technical,AI-ML,Logical,1,3,No,Math,AI/ML Engineer Trainee
+S0321,19,Female,99.0,84.87,97,71,93,87,63,36,70,81,9,2,1,2,4,3,Technical,Web,Logical,1,0,No,Python,Junior Web Developer
+S0203,17,Male,89.55,82.41,88,98,94,97,63,67,96,73,9,3,3,4,3,4,Technical,AI-ML,Logical,2,2,No,Math,Junior ML Engineer
+S0811,21,Male,88.78,85.28,86,95,67,63,54,37,70,94,7,2,2,3,6,2,Technical,Web,Analytical,0,1,No,Web,Quality Assurance Tester
+S0651,20,Male,65.02,91.6,71,67,88,94,46,35,93,91,2,5,2,4,10,4,Technical,Security,Logical,3,2,Yes,DBMS,Security Analyst Trainee
+S0527,21,Male,86.09,58.12,100,83,73,89,53,49,86,87,7,6,4,2,2,1,Technical,Web,Logical,1,4,No,Python,Full Stack Developer
+S0841,21,Female,76.32,83.61,74,99,71,83,62,31,65,95,8,2,3,1,6,5,Technical,Web,Analytical,1,3,Yes,Python,Quality Assurance Tester
+S0984,19,Male,69.82,76.43,100,84,95,78,80,80,70,86,2,2,4,1,3,7,Technical,Cloud,Logical,2,5,Yes,Python,Junior DevOps Engineer
+S0835,18,Male,85.14,99.0,74,84,65,86,41,67,70,90,10,6,4,2,3,2,Technical,Web,Analytical,5,2,No,Python,Quality Assurance Tester
+S0554,18,Other,76.81,89.18,97,95,92,91,40,67,93,84,10,2,2,5,4,6,Technical,Web,Logical,2,8,Yes,Python,Full Stack Developer
+S0588,18,Female,76.69,95.88,76,75,89,97,54,41,56,70,6,3,2,4,4,10,Technical,Cloud,Logical,2,4,No,DBMS,Cloud Operations Engineer
+S0870,21,Male,86.54,81.41,84,45,85,55,39,89,75,82,5,1,4,9,1,4,Management,Data,Leader,1,2,No,Statistics,Junior Business Analyst
+S0481,19,Female,77.13,61.51,100,87,60,89,79,33,54,96,9,6,6,6,2,5,Technical,Web,Logical,1,6,Yes,DBMS,Backend Developer
+S0265,22,Male,64.58,72.17,83,100,87,89,62,74,78,85,3,2,7,1,5,4,Technical,AI-ML,Logical,3,4,No,Python,AI/ML Engineer Trainee
+S0648,23,Male,86.54,75.19,48,45,88,40,71,72,51,92,2,4,4,4,4,5,Technical,Security,Logical,3,0,No,Python,Security Analyst Trainee
+S0812,20,Other,99.0,55.0,74,94,90,78,41,71,100,93,9,6,5,1,3,1,Technical,Web,Analytical,1,5,Yes,Python,Quality Assurance Tester
+S0373,20,Female,65.44,73.61,51,57,59,77,82,50,96,71,2,9,4,5,1,5,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S0594,20,Female,88.62,76.69,89,75,66,84,65,66,85,83,1,5,3,2,3,7,Technical,Cloud,Logical,1,4,No,Python,Cloud Operations Engineer
+S0832,19,Female,86.78,79.88,70,74,70,84,69,55,90,85,8,1,4,5,1,6,Technical,Web,Analytical,0,5,Yes,Python,Quality Assurance Tester
+S0632,21,Male,90.74,87.4,93,93,74,91,69,35,84,76,4,4,3,6,1,10,Technical,Cloud,Logical,1,0,No,Python,Cloud Operations Engineer
+S0727,18,Male,67.4,69.62,47,59,70,68,83,65,94,73,5,1,2,6,1,5,Creative,Web,Creative,3,1,No,DBMS,UI/UX Designer
+S0007,21,Male,90.97,83.7,71,41,62,86,73,60,93,79,1,6,9,5,1,4,Analytical,Data,Analytical,2,3,No,Math,Junior Data Scientist
+S0103,18,Female,81.03,85.75,71,66,68,69,77,71,91,71,5,2,8,4,1,2,Analytical,Data,Analytical,1,2,Yes,Statistics,Associate Data Analyst
+S0274,17,Male,81.42,84.64,98,73,69,74,64,64,55,70,1,5,7,3,5,1,Technical,AI-ML,Logical,1,2,Yes,Math,AI/ML Engineer Trainee
+S0330,19,Female,82.51,93.19,76,65,79,77,58,37,72,90,7,2,6,2,3,2,Technical,Web,Logical,2,3,Yes,Web,Junior Web Developer
+S0116,18,Female,75.9,92.13,67,58,51,66,42,34,70,76,4,6,7,1,3,3,Analytical,Data,Analytical,1,3,No,DBMS,Associate Data Analyst
+S0217,18,Male,88.97,75.62,98,77,95,73,66,42,67,92,1,6,10,5,5,2,Technical,AI-ML,Logical,3,6,Yes,Python,AI/ML Engineer Trainee
+S0584,18,Female,91.85,70.47,68,62,50,42,71,34,96,78,2,1,5,6,2,6,Technical,AI-ML,Logical,1,1,No,DBMS,Cloud Operations Engineer
+S0302,18,Female,71.35,79.67,79,81,46,81,73,70,90,77,10,6,1,4,5,2,Technical,Web,Logical,0,2,No,Python,Junior Web Developer
+S0852,20,Male,74.99,85.75,85,73,95,82,62,48,97,88,7,6,1,6,4,1,Technical,Web,Analytical,2,1,No,Web,Quality Assurance Tester
+S0242,19,Male,72.83,91.54,67,75,58,91,38,42,53,84,4,3,8,5,6,6,Technical,AI-ML,Logical,2,0,No,Math,AI/ML Engineer Trainee
+S0539,19,Female,78.81,83.36,79,76,78,93,62,65,82,84,10,2,1,2,1,6,Technical,Web,Logical,2,1,Yes,Python,Full Stack Developer
+S0765,20,Male,79.65,79.71,76,64,91,82,82,71,73,75,2,7,6,1,6,1,Creative,Web,Creative,2,6,Yes,Web,UI/UX Designer
+S0341,19,Female,80.43,83.02,85,72,49,83,59,47,72,88,9,2,3,5,2,6,Technical,Web,Logical,2,2,No,Python,Junior Web Developer
+S0960,19,Other,71.27,82.84,91,98,81,78,79,39,91,91,2,2,6,6,6,8,Technical,Cloud,Logical,1,0,No,Python,Junior DevOps Engineer
+S0025,21,Male,86.98,87.99,92,64,60,79,55,33,94,72,3,5,9,1,2,5,Analytical,Data,Analytical,2,3,No,Python,Junior Data Scientist
+S0924,17,Male,81.28,77.35,79,88,50,92,85,32,51,96,1,3,2,1,4,8,Technical,Cloud,Logical,0,2,No,DBMS,Junior DevOps Engineer
+S0225,19,Male,88.58,93.0,68,94,84,83,80,43,54,94,5,4,10,4,6,3,Technical,AI-ML,Logical,2,2,No,Python,AI/ML Engineer Trainee
+S0389,17,Male,71.31,55.75,48,41,52,79,100,76,91,66,6,10,1,4,1,2,Creative,Web,Creative,2,3,No,Web,Frontend Developer
+S0262,18,Female,78.69,93.08,92,89,74,77,43,61,55,88,4,5,9,4,3,2,Technical,AI-ML,Logical,1,6,Yes,Math,AI/ML Engineer Trainee
+S0055,18,Male,77.93,87.08,67,42,78,46,38,44,81,72,2,3,5,3,6,5,Analytical,AI-ML,Analytical,5,2,No,Web,Junior Data Scientist
+S0432,19,Other,84.3,72.66,75,94,58,78,67,70,64,94,10,2,1,6,2,2,Technical,Web,Logical,2,3,Yes,Python,Backend Developer
+S0165,17,Female,87.34,75.93,63,40,63,68,47,37,99,90,4,5,5,5,6,6,Technical,Cloud,Logical,0,2,No,DBMS,Junior ML Engineer
+S0246,20,Female,84.59,77.95,67,94,83,80,63,73,56,88,1,2,8,3,5,3,Technical,AI-ML,Logical,1,5,Yes,Python,AI/ML Engineer Trainee
+S0859,18,Male,83.99,97.67,77,51,80,76,61,91,70,71,6,5,5,7,2,1,Management,Data,Leader,2,2,Yes,Statistics,Junior Business Analyst
+S0831,21,Female,81.54,84.55,73,97,47,68,62,78,79,78,8,1,1,6,3,3,Technical,Web,Analytical,0,3,No,Web,Quality Assurance Tester
+S0890,18,Female,77.28,72.36,64,68,85,70,84,85,67,62,6,6,1,2,5,6,Management,Security,Leader,0,3,No,DBMS,Junior Business Analyst
+S0443,17,Male,76.75,76.44,76,86,65,85,42,44,50,72,8,2,4,1,3,2,Technical,Web,Logical,1,2,No,Python,Backend Developer
+S0298,21,Female,63.11,69.88,75,97,88,86,76,33,86,98,9,3,1,1,4,4,Technical,Web,Logical,1,2,Yes,Python,Junior Web Developer
+S0438,20,Male,75.85,85.09,71,84,47,98,35,37,90,92,7,2,1,4,6,1,Technical,Web,Logical,2,1,Yes,Python,Backend Developer
+S0817,20,Female,73.74,67.1,91,66,70,80,81,67,54,72,9,5,2,6,1,1,Technical,Web,Analytical,0,1,No,Python,Quality Assurance Tester
+S0738,20,Female,92.26,72.57,78,65,90,90,95,46,99,76,5,8,1,2,6,1,Creative,Web,Creative,2,1,No,Web,UI/UX Designer
+S0452,19,Female,79.04,58.99,63,77,73,72,40,78,76,93,7,3,3,5,6,6,Technical,Web,Logical,2,2,No,DBMS,Backend Developer
+S0178,20,Male,58.12,73.55,99,79,63,96,41,60,60,91,8,6,1,1,1,5,Technical,AI-ML,Logical,3,3,No,Math,Junior ML Engineer
+S0803,21,Male,85.2,80.73,69,85,92,89,77,48,85,89,7,1,4,4,6,6,Technical,Web,Analytical,3,2,No,Python,Quality Assurance Tester
+S0522,19,Male,93.74,74.14,92,90,83,77,45,64,69,85,10,2,2,6,5,1,Technical,Web,Logical,2,3,Yes,Web,Full Stack Developer
+S0994,21,Female,79.23,87.65,80,93,68,76,72,31,71,98,6,3,10,3,4,1,Technical,Data,Logical,2,1,No,DBMS,Database Administrator
+S1028,20,Male,79.98,79.69,61,72,48,98,60,53,72,82,4,3,10,2,5,1,Technical,Data,Logical,0,3,Yes,DBMS,Database Administrator
+S0639,19,Female,62.11,67.78,79,71,91,72,54,30,68,82,1,1,3,5,7,5,Technical,Security,Logical,3,5,Yes,DBMS,Security Analyst Trainee
+S0127,18,Female,66.99,85.52,89,58,84,57,83,66,98,92,3,3,10,2,1,3,Analytical,Data,Analytical,0,5,Yes,Statistics,Associate Data Analyst
+S0907,19,Male,62.55,71.2,74,57,81,66,85,86,53,71,2,3,5,8,2,1,Management,Data,Leader,1,5,Yes,Statistics,Junior Business Analyst
+S0460,20,Male,85.07,70.89,83,93,84,70,60,53,60,100,7,4,6,4,1,3,Technical,Web,Logical,0,2,Yes,DBMS,Backend Developer
+S0213,20,Male,80.61,87.59,53,64,79,40,55,45,98,72,5,2,1,4,1,6,Technical,Security,Logical,2,5,Yes,Web,AI/ML Engineer Trainee
+S0424,21,Female,86.51,62.32,49,59,72,54,91,53,90,73,6,1,2,6,6,1,Creative,Cloud,Creative,2,1,No,DBMS,Frontend Developer
+S0906,21,Female,91.25,82.0,49,61,98,87,36,74,65,63,4,3,2,8,5,2,Management,Data,Leader,1,4,Yes,Statistics,Junior Business Analyst
+S0913,23,Female,82.95,79.5,60,48,72,56,69,84,90,74,6,4,5,10,4,3,Management,Data,Leader,0,2,Yes,DBMS,Junior Business Analyst
+S0406,19,Female,76.9,75.65,55,79,80,86,98,77,66,54,3,10,1,4,2,1,Creative,Web,Creative,4,2,No,Web,Frontend Developer
+S0663,18,Other,77.99,75.04,60,70,55,74,61,56,73,94,6,5,5,4,9,2,Technical,Security,Logical,2,2,No,DBMS,Security Analyst Trainee
+S0031,21,Female,61.92,94.96,97,78,49,82,85,80,60,100,4,4,7,4,1,3,Analytical,Data,Analytical,2,4,No,Math,Junior Data Scientist
+S0862,20,Female,84.36,77.8,63,60,75,90,48,88,51,88,6,2,2,8,2,6,Management,Data,Leader,0,2,No,Statistics,Junior Business Analyst
+S0675,17,Female,90.94,77.95,74,99,50,88,61,65,72,82,1,6,3,6,7,4,Technical,Security,Logical,1,2,No,DBMS,Security Analyst Trainee
+S0397,17,Female,79.61,84.32,50,66,83,82,87,34,54,66,6,10,1,3,2,4,Creative,Web,Creative,2,1,No,Web,Frontend Developer
+S0134,18,Female,79.13,87.77,99,76,61,94,40,60,88,92,9,6,6,4,4,6,Technical,AI-ML,Logical,1,4,No,Python,Junior ML Engineer
+S0391,19,Male,88.34,70.55,69,80,93,74,76,67,71,86,2,8,3,5,6,5,Creative,Web,Creative,0,4,No,Web,Frontend Developer
+S0837,21,Female,87.11,62.47,88,66,63,77,65,68,58,88,7,2,2,4,2,2,Technical,Web,Analytical,1,6,Yes,Python,Quality Assurance Tester
+S0625,20,Female,88.46,81.42,84,95,89,87,66,65,61,92,2,4,6,1,3,8,Technical,Cloud,Logical,5,5,Yes,Python,Cloud Operations Engineer
+S0356,18,Female,89.41,68.88,63,87,48,91,61,77,77,81,8,3,3,3,1,3,Technical,Web,Logical,1,5,Yes,Python,Junior Web Developer
+S0515,20,Female,80.27,83.69,88,70,54,92,69,37,94,94,9,6,2,1,5,6,Technical,Web,Logical,2,1,Yes,DBMS,Full Stack Developer
+S0346,20,Female,81.19,65.75,89,83,54,77,51,78,69,91,10,3,6,2,2,6,Technical,Web,Logical,2,2,Yes,Python,Junior Web Developer
+S0275,19,Female,86.78,73.97,54,56,57,45,58,36,57,72,6,5,5,2,3,2,Technical,AI-ML,Logical,3,5,Yes,Statistics,AI/ML Engineer Trainee
+S0850,19,Male,99.0,77.57,86,95,95,74,43,73,61,96,8,2,1,4,5,5,Technical,Web,Analytical,1,4,No,Python,Quality Assurance Tester
+S1041,20,Female,84.23,81.42,90,82,83,79,36,70,55,86,2,5,7,1,5,4,Technical,Data,Logical,0,3,No,DBMS,Database Administrator
+S0156,18,Male,75.18,88.65,72,86,78,97,42,46,76,76,10,3,1,3,5,5,Technical,AI-ML,Logical,3,1,No,Math,Junior ML Engineer
+S0814,20,Female,80.6,82.86,73,77,64,65,45,35,63,81,8,2,6,5,3,2,Technical,Web,Analytical,5,1,No,Web,Quality Assurance Tester
+S0084,21,Male,83.34,75.43,55,61,84,57,42,34,95,77,2,6,1,3,1,5,Analytical,Data,Analytical,0,1,No,Python,Associate Data Analyst
+S0026,21,Female,79.62,83.92,53,54,87,51,67,44,60,97,2,5,1,5,6,5,Analytical,AI-ML,Analytical,1,5,Yes,DBMS,Junior Data Scientist
+S0018,21,Male,68.82,67.09,70,43,77,84,46,55,57,100,3,3,9,2,6,1,Analytical,Data,Analytical,2,3,Yes,Statistics,Junior Data Scientist
+S0331,18,Male,90.21,84.25,86,80,94,89,64,71,88,78,7,6,2,2,1,3,Technical,Web,Logical,0,1,No,Web,Junior Web Developer
+S0542,19,Female,79.85,72.08,58,65,92,66,52,45,67,99,3,3,5,6,1,1,Technical,Web,Logical,4,2,No,Math,Full Stack Developer
+S0710,19,Male,64.65,69.14,75,64,74,66,91,67,72,51,1,10,6,2,2,1,Creative,Web,Creative,2,2,No,Web,UI/UX Designer
+S0662,17,Female,87.68,68.65,90,66,77,84,37,36,66,72,1,4,1,3,10,3,Technical,Security,Logical,1,1,No,DBMS,Security Analyst Trainee
+S0989,18,Male,82.7,75.47,60,69,85,71,49,74,67,74,4,4,4,4,4,9,Technical,Cloud,Logical,2,5,Yes,DBMS,Junior DevOps Engineer
+S0210,20,Female,79.74,59.85,88,73,58,83,57,62,69,91,5,3,7,5,5,4,Technical,AI-ML,Logical,1,1,No,Math,AI/ML Engineer Trainee
+S0224,20,Female,97.36,85.95,92,83,88,70,74,46,94,75,6,4,10,1,4,3,Technical,AI-ML,Logical,2,1,No,Math,AI/ML Engineer Trainee
+S0698,19,Female,84.39,85.51,52,61,66,48,76,59,54,70,5,3,6,3,2,2,Creative,Security,Creative,5,3,No,Web,UI/UX Designer
+S0685,20,Female,75.63,73.88,92,73,69,70,58,66,64,73,2,2,1,5,9,3,Technical,Security,Logical,1,4,No,DBMS,Security Analyst Trainee
+S0223,20,Female,76.09,72.41,91,67,54,79,67,80,56,79,1,2,9,4,2,3,Technical,AI-ML,Logical,1,4,Yes,Math,AI/ML Engineer Trainee
+S0968,17,Female,86.43,76.17,93,75,65,80,43,62,85,81,5,2,5,2,6,8,Technical,Cloud,Logical,2,4,No,Python,Junior DevOps Engineer
+S0376,20,Male,62.15,60.77,45,72,62,82,91,76,53,65,5,7,3,1,6,5,Creative,Web,Creative,1,3,Yes,Web,Frontend Developer
+S0647,19,Male,75.74,73.81,100,83,90,86,49,68,98,81,2,4,2,4,8,2,Technical,Security,Logical,3,4,No,DBMS,Security Analyst Trainee
+S0050,20,Male,74.86,89.54,79,75,82,81,56,36,65,71,3,5,9,1,2,6,Analytical,Data,Analytical,2,4,Yes,Python,Junior Data Scientist
+S0543,21,Female,76.52,87.55,58,47,74,62,84,45,73,73,6,4,2,3,5,5,Technical,Web,Logical,3,3,No,Statistics,Full Stack Developer
+S0983,18,Female,89.59,94.59,94,69,89,70,45,55,79,75,3,3,5,5,5,7,Technical,Cloud,Logical,1,2,No,DBMS,Junior DevOps Engineer
+S0654,17,Male,99.0,87.16,84,75,70,97,69,78,89,96,4,2,3,2,8,4,Technical,Security,Logical,4,1,No,DBMS,Security Analyst Trainee
+S1012,22,Female,91.04,77.78,78,81,68,96,81,67,71,91,3,3,9,3,1,6,Technical,Data,Logical,3,4,No,DBMS,Database Administrator
+S0618,19,Male,92.75,78.81,90,81,54,89,52,61,79,86,1,2,6,1,3,7,Technical,Cloud,Logical,4,1,No,DBMS,Cloud Operations Engineer
+S0413,20,Female,69.16,81.04,54,79,57,77,89,63,76,84,5,9,3,2,4,3,Creative,Web,Creative,2,3,No,Web,Frontend Developer
+S0665,18,Female,75.02,72.8,65,80,49,74,59,69,58,80,6,1,1,6,9,5,Technical,Security,Logical,3,0,No,DBMS,Security Analyst Trainee
+S0858,18,Male,85.62,73.85,74,72,88,74,81,95,98,65,6,4,6,10,3,2,Management,Data,Leader,1,2,No,Statistics,Junior Business Analyst
+S0076,19,Male,78.23,56.76,92,77,79,59,38,32,70,76,1,3,7,2,2,5,Analytical,Data,Analytical,2,5,Yes,Statistics,Associate Data Analyst
+S0934,18,Female,72.3,79.6,80,98,95,98,38,36,76,70,6,2,1,1,4,9,Technical,Cloud,Logical,4,2,No,DBMS,Junior DevOps Engineer
+S0322,19,Female,87.29,73.3,80,72,47,70,68,41,68,70,9,5,1,4,2,4,Technical,Web,Logical,5,4,No,Web,Junior Web Developer
+S0468,19,Male,77.09,89.68,77,90,49,100,70,69,69,80,10,2,6,3,1,4,Technical,Web,Logical,0,3,Yes,Python,Backend Developer
+S1051,19,Male,78.89,92.85,100,67,69,75,38,65,72,77,5,3,10,5,5,4,Technical,Data,Logical,2,4,No,DBMS,Database Administrator
+S0677,20,Female,97.26,73.47,65,93,57,92,72,43,80,79,2,6,1,6,7,1,Technical,Security,Logical,4,3,No,DBMS,Security Analyst Trainee
+S0679,20,Female,78.23,77.85,73,94,69,89,66,61,74,88,5,6,3,1,8,2,Technical,Security,Logical,1,1,No,DBMS,Security Analyst Trainee
+S0051,19,Male,76.89,79.59,86,41,85,89,58,45,89,78,6,4,8,5,6,6,Analytical,Data,Analytical,2,2,No,Python,Junior Data Scientist
+S0020,17,Female,94.78,63.51,60,40,88,44,39,36,60,87,5,2,6,3,5,3,Analytical,Web,Analytical,2,2,No,DBMS,Junior Data Scientist
+S0649,18,Male,69.2,60.69,88,98,74,80,80,63,64,95,3,4,2,3,9,4,Technical,Security,Logical,2,1,Yes,DBMS,Security Analyst Trainee
+S0730,17,Female,83.34,92.25,77,80,83,90,85,79,55,83,1,8,5,4,3,6,Creative,Web,Creative,2,2,No,Web,UI/UX Designer
+S0052,19,Female,74.84,67.62,50,60,68,70,82,38,83,98,4,5,4,1,2,5,Analytical,Data,Analytical,3,2,No,Statistics,Junior Data Scientist
+S0122,19,Male,79.57,99.0,97,71,62,80,61,40,67,100,6,6,9,1,3,1,Analytical,Data,Analytical,0,6,Yes,Statistics,Associate Data Analyst
+S0292,18,Male,73.23,67.04,83,77,61,70,68,80,100,79,6,2,9,6,4,4,Technical,AI-ML,Logical,1,5,Yes,Math,AI/ML Engineer Trainee
+S0972,19,Male,92.71,72.48,75,78,46,99,39,58,62,100,6,3,4,3,5,8,Technical,Cloud,Logical,1,2,No,Python,Junior DevOps Engineer
+S0293,21,Female,88.91,75.0,78,87,93,76,80,67,81,91,5,4,8,6,2,5,Technical,AI-ML,Logical,3,5,Yes,Math,AI/ML Engineer Trainee
+S0063,17,Male,88.23,67.44,96,72,90,67,36,64,58,95,3,5,10,3,3,6,Analytical,Data,Analytical,2,3,No,DBMS,Associate Data Analyst
+S0749,20,Female,65.83,73.06,72,44,77,68,91,59,71,89,3,8,1,5,3,6,Creative,Web,Creative,2,2,No,Web,UI/UX Designer
+S0825,19,Male,76.03,89.77,77,80,55,82,67,39,65,87,7,2,6,1,2,5,Technical,Web,Analytical,1,2,No,Python,Quality Assurance Tester
+S0146,18,Male,79.53,72.39,96,70,93,73,53,70,94,98,9,3,2,5,3,6,Technical,AI-ML,Logical,1,3,Yes,Python,Junior ML Engineer
+S0826,20,Female,86.41,82.67,93,81,54,78,64,33,82,76,9,5,6,2,5,6,Technical,Web,Analytical,1,3,Yes,Python,Quality Assurance Tester
+S0201,21,Female,82.41,70.13,88,66,67,76,54,79,78,94,9,3,4,4,3,4,Technical,AI-ML,Logical,2,3,No,Python,Junior ML Engineer
+S0851,22,Male,70.8,90.81,80,67,88,57,51,34,95,85,9,2,2,3,6,6,Technical,Web,Analytical,2,1,Yes,Python,Quality Assurance Tester
+S0011,19,Female,78.62,78.32,72,52,46,87,60,54,87,92,1,1,10,5,6,1,Analytical,Data,Analytical,1,1,No,Python,Junior Data Scientist
+S0453,20,Male,95.51,75.11,82,76,64,72,60,59,65,73,8,6,1,4,5,2,Technical,Web,Logical,4,4,No,DBMS,Backend Developer
+S0548,22,Female,71.1,89.93,69,81,94,70,48,63,57,76,7,2,5,5,5,4,Technical,Web,Logical,3,3,No,Web,Full Stack Developer
+S0311,20,Male,71.38,71.1,87,91,76,87,84,35,53,74,10,3,4,1,4,1,Technical,Web,Logical,2,4,No,Python,Junior Web Developer
+S0278,21,Other,85.76,80.34,83,72,73,71,85,43,81,94,4,3,10,2,5,3,Technical,AI-ML,Logical,1,4,No,Python,AI/ML Engineer Trainee
+S0212,17,Male,97.36,70.07,93,83,57,80,74,39,55,78,6,3,7,5,3,2,Technical,AI-ML,Logical,4,1,No,Math,AI/ML Engineer Trainee
+S0605,22,Other,68.52,83.51,83,91,69,70,81,65,63,77,2,5,3,5,6,9,Technical,Cloud,Logical,2,4,No,Python,Cloud Operations Engineer
+S0491,21,Male,80.36,75.28,79,66,89,77,84,72,89,99,8,5,2,2,5,6,Technical,Web,Logical,0,1,No,DBMS,Full Stack Developer
+S0437,20,Female,93.95,92.25,66,86,69,89,74,46,69,92,9,3,1,6,5,6,Technical,Web,Logical,2,5,Yes,Python,Backend Developer
+S0362,20,Male,80.54,65.58,54,42,88,82,93,48,63,74,1,9,4,6,6,1,Creative,Web,Creative,1,2,No,Web,Frontend Developer
+S0106,21,Female,80.76,70.89,79,50,95,65,53,56,61,80,2,1,9,3,3,3,Analytical,Data,Analytical,1,2,No,Statistics,Associate Data Analyst
+S0878,20,Male,76.36,76.41,55,67,77,58,70,84,75,80,3,2,3,1,1,4,Management,Cloud,Leader,2,3,No,DBMS,Junior Business Analyst
+S0879,20,Female,74.65,71.36,58,56,76,86,42,91,94,54,1,3,2,8,4,6,Management,Data,Leader,1,0,No,DBMS,Junior Business Analyst
+S0816,19,Other,84.42,82.8,84,71,48,78,46,52,53,90,9,1,3,4,4,5,Technical,Web,Analytical,1,2,No,Web,Quality Assurance Tester
+S0374,19,Female,74.94,73.07,73,61,79,61,76,41,57,64,2,8,6,3,1,2,Creative,Web,Creative,3,0,No,Web,Frontend Developer
+S0209,19,Male,81.94,57.26,83,74,93,78,46,69,51,100,8,5,5,3,3,5,Technical,AI-ML,Logical,1,6,Yes,Python,Junior ML Engineer
+S0377,18,Male,89.6,79.24,56,40,74,71,86,42,100,60,1,9,3,2,6,4,Creative,Web,Creative,3,2,No,Web,Frontend Developer
+S0944,20,Male,78.38,75.53,63,91,90,73,70,44,64,85,3,6,1,1,6,7,Technical,Cloud,Logical,1,5,Yes,DBMS,Junior DevOps Engineer
+S0240,20,Male,71.55,81.63,97,84,74,80,52,59,62,83,1,2,10,1,2,3,Technical,AI-ML,Logical,3,1,No,Python,AI/ML Engineer Trainee
+S0479,18,Female,71.43,64.67,85,87,45,77,36,42,90,93,7,2,2,6,3,3,Technical,Web,Logical,1,0,No,Python,Backend Developer
+S0128,17,Male,75.53,89.31,63,40,49,70,82,38,93,75,5,1,10,1,3,5,Analytical,Data,Analytical,1,2,No,DBMS,Associate Data Analyst
+S0724,17,Female,68.64,73.34,63,50,93,66,84,52,64,61,3,6,2,3,3,6,Creative,Data,Creative,1,3,No,Statistics,UI/UX Designer
+S1002,20,Female,85.38,63.11,85,95,69,88,45,60,64,88,6,4,7,6,6,3,Technical,Data,Logical,3,4,No,DBMS,Database Administrator
+S0410,18,Male,76.68,67.31,68,72,78,71,77,31,92,59,3,9,2,4,2,3,Creative,Web,Creative,1,2,No,Web,Frontend Developer
+S1009,17,Male,83.89,86.64,64,92,79,81,56,43,73,95,3,4,7,2,6,2,Technical,Data,Logical,3,1,No,DBMS,Database Administrator
+S0129,20,Male,73.96,90.84,94,49,59,83,78,67,65,83,4,6,9,4,4,1,Analytical,Data,Analytical,5,4,No,Statistics,Associate Data Analyst
+S0086,20,Female,92.09,67.4,74,72,94,79,62,48,87,92,3,6,8,1,2,2,Analytical,Data,Analytical,3,3,No,DBMS,Associate Data Analyst
+S0962,18,Female,85.58,79.17,99,73,94,83,85,62,71,93,6,6,1,3,2,7,Technical,Cloud,Logical,1,3,No,Python,Junior DevOps Engineer
+S0457,19,Male,84.6,71.11,64,82,95,92,59,34,81,78,7,1,3,6,5,3,Technical,Web,Logical,3,2,No,Python,Backend Developer
+S0849,19,Female,82.32,61.05,62,88,82,88,47,64,67,93,8,3,3,6,3,6,Technical,Web,Analytical,4,1,No,Web,Quality Assurance Tester
+S1045,18,Male,90.97,70.61,84,80,64,100,77,53,87,95,3,4,9,6,5,4,Technical,Data,Logical,2,1,No,DBMS,Database Administrator
+S1005,21,Male,73.17,76.19,64,98,62,78,74,47,83,82,4,1,8,1,2,6,Technical,Data,Logical,1,3,Yes,DBMS,Database Administrator
+S0828,21,Male,76.5,77.31,65,96,66,55,76,48,67,85,10,4,3,6,1,1,Technical,Web,Analytical,1,4,No,Python,Quality Assurance Tester
+S0095,22,Male,83.96,86.02,74,60,89,75,83,50,75,85,3,1,10,6,5,3,Analytical,Data,Analytical,1,0,No,Statistics,Associate Data Analyst
+S0060,22,Male,67.47,92.69,72,79,76,58,83,54,67,87,4,2,8,3,2,3,Analytical,Data,Analytical,3,4,No,Statistics,Junior Data Scientist
+S0696,20,Female,95.12,87.9,99,74,71,88,82,51,84,100,1,3,1,6,10,2,Technical,Security,Logical,1,2,No,DBMS,Security Analyst Trainee
+S0990,21,Male,82.66,77.75,76,83,47,98,75,52,67,94,2,2,8,1,2,3,Technical,Data,Logical,3,2,No,DBMS,Database Administrator
+S0519,21,Male,87.32,83.17,85,94,84,78,37,56,57,100,10,2,4,2,1,5,Technical,Web,Logical,1,4,No,Python,Full Stack Developer
+S0920,18,Male,88.59,89.36,63,93,76,87,44,36,87,71,5,1,6,2,3,10,Technical,Cloud,Logical,2,4,No,Python,Junior DevOps Engineer
+S0796,17,Male,69.81,81.75,49,65,67,62,72,55,94,80,4,1,3,1,1,1,Technical,Security,Analytical,0,4,Yes,Statistics,Quality Assurance Tester
+S0184,19,Female,88.44,83.48,59,52,48,55,73,37,57,86,4,6,4,1,3,6,Technical,Cloud,Logical,3,2,Yes,Math,Junior ML Engineer
+S0394,20,Female,86.86,81.57,59,59,63,56,75,53,91,73,1,7,3,1,4,3,Creative,Web,Creative,0,1,No,Web,Frontend Developer
+S0351,17,Female,87.5,93.71,64,79,83,70,64,32,52,73,8,2,6,3,3,4,Technical,Web,Logical,1,1,No,Python,Junior Web Developer
+S0809,21,Male,87.3,86.02,86,87,78,68,72,62,57,81,10,5,1,3,1,6,Technical,Web,Analytical,1,3,Yes,Web,Quality Assurance Tester
+S0404,22,Male,77.27,87.98,81,65,88,82,89,65,87,70,5,9,1,6,4,1,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S0986,21,Male,97.87,88.59,98,93,47,70,50,33,56,96,5,6,5,5,2,10,Technical,Cloud,Logical,0,2,No,Python,Junior DevOps Engineer
+S0520,19,Male,90.24,88.86,68,68,64,77,81,80,98,98,9,4,6,5,5,5,Technical,Web,Logical,2,3,No,Web,Full Stack Developer
+S0830,18,Male,75.28,70.59,84,71,62,70,35,48,52,90,10,1,3,2,4,1,Technical,Web,Analytical,4,4,No,Web,Quality Assurance Tester
+S0658,19,Male,69.86,55.0,89,84,86,84,63,80,56,95,2,2,1,2,9,4,Technical,Security,Logical,2,4,No,DBMS,Security Analyst Trainee
+S0927,20,Female,80.22,91.79,85,89,69,97,41,79,96,99,6,1,5,4,6,10,Technical,Cloud,Logical,4,3,No,Python,Junior DevOps Engineer
+S0609,19,Female,79.35,77.0,64,99,48,85,61,71,70,82,1,1,5,1,4,9,Technical,Cloud,Logical,4,3,No,DBMS,Cloud Operations Engineer
+S0375,20,Female,77.72,73.8,53,74,58,58,100,63,55,63,4,10,4,2,4,5,Creative,Web,Creative,3,3,No,Web,Frontend Developer
+S0997,21,Female,84.33,63.72,68,73,79,85,60,50,66,100,4,6,10,5,3,3,Technical,Data,Logical,2,4,No,DBMS,Database Administrator
+S0667,20,Female,77.84,85.26,92,80,93,74,37,51,67,77,4,5,4,2,8,1,Technical,Security,Logical,1,4,No,DBMS,Security Analyst Trainee
+S0504,18,Female,74.07,84.91,76,85,51,91,63,69,98,98,9,6,5,6,2,1,Technical,Web,Logical,5,3,No,Python,Full Stack Developer
+S0175,17,Female,72.04,74.63,88,100,86,96,81,51,58,75,10,1,5,5,2,3,Technical,AI-ML,Logical,2,5,Yes,Python,Junior ML Engineer
+S0395,17,Male,80.9,83.13,62,71,91,81,83,33,67,84,4,10,2,2,6,1,Creative,Web,Creative,1,5,Yes,Web,Frontend Developer
+S0910,18,Male,70.21,69.91,69,68,71,58,76,76,62,81,3,2,4,10,4,1,Management,Data,Leader,5,3,Yes,Statistics,Junior Business Analyst
+S0318,20,Male,72.77,59.0,100,87,72,93,35,74,65,86,10,5,6,6,4,5,Technical,Web,Logical,2,2,Yes,Web,Junior Web Developer
+S0502,20,Male,80.93,61.16,75,66,57,94,59,55,52,86,10,6,5,1,4,5,Technical,Web,Logical,3,6,Yes,Python,Full Stack Developer
+S1035,18,Male,80.36,66.36,61,56,80,70,42,76,66,71,2,5,6,2,4,3,Technical,Data,Logical,4,3,Yes,Python,Database Administrator
+S0948,18,Other,81.14,85.68,90,72,66,82,43,48,97,94,1,3,4,1,2,7,Technical,Cloud,Logical,2,2,No,DBMS,Junior DevOps Engineer
+S0670,18,Female,98.18,82.4,75,66,58,79,62,80,66,93,2,3,6,5,10,3,Technical,Security,Logical,1,2,No,DBMS,Security Analyst Trainee
+S0093,23,Male,88.63,64.96,65,46,80,67,59,77,65,81,4,3,2,1,4,4,Analytical,AI-ML,Analytical,3,3,No,Web,Associate Data Analyst
+S0185,20,Female,77.45,77.31,49,52,92,67,36,39,50,99,6,5,6,3,5,4,Technical,Security,Logical,1,3,No,Python,Junior ML Engineer
+S0107,19,Male,80.89,75.45,78,74,82,69,69,80,85,92,3,1,7,1,3,6,Analytical,Data,Analytical,1,3,No,Statistics,Associate Data Analyst
+S0900,21,Male,74.65,66.09,77,50,70,66,61,72,89,56,4,2,5,8,4,5,Management,Data,Leader,2,0,No,DBMS,Junior Business Analyst
+S0645,19,Female,72.5,94.06,90,85,64,82,79,45,66,70,4,6,1,4,10,1,Technical,Security,Logical,0,2,No,DBMS,Security Analyst Trainee
+S0138,20,Other,90.77,80.82,89,90,84,72,48,51,51,73,10,1,1,6,2,1,Technical,AI-ML,Logical,2,4,No,Python,Junior ML Engineer
+S0263,22,Male,79.49,91.84,69,86,63,89,43,37,78,93,2,5,10,6,5,2,Technical,AI-ML,Logical,2,0,No,Math,AI/ML Engineer Trainee
+S0843,18,Female,75.15,82.21,95,68,85,68,54,64,60,93,10,3,3,6,4,4,Technical,Web,Analytical,2,5,Yes,Python,Quality Assurance Tester
+S0712,21,Male,83.73,77.9,50,50,90,57,95,53,60,60,1,9,5,5,2,1,Creative,Web,Creative,1,2,No,Web,UI/UX Designer
+S0476,17,Male,82.77,84.31,90,93,54,76,49,67,79,96,10,3,6,6,3,5,Technical,Web,Logical,3,5,Yes,Python,Backend Developer
+S0970,20,Male,94.1,71.26,72,73,58,71,68,63,59,71,2,1,6,3,5,10,Technical,Cloud,Logical,4,3,No,DBMS,Junior DevOps Engineer
+S0612,18,Female,74.92,85.55,69,80,50,88,56,31,69,72,1,3,2,5,4,10,Technical,Cloud,Logical,2,0,Yes,DBMS,Cloud Operations Engineer
+S0768,19,Female,96.77,78.41,52,47,79,64,79,42,66,55,1,8,3,2,3,1,Creative,Web,Creative,5,1,No,Web,UI/UX Designer
+S0941,21,Other,92.18,69.06,66,69,57,80,82,60,67,74,3,5,2,3,2,7,Technical,Cloud,Logical,2,4,No,Python,Junior DevOps Engineer
+S0856,19,Female,94.47,90.46,72,54,70,69,84,81,58,54,5,1,2,9,2,2,Management,Data,Leader,3,2,No,Statistics,Junior Business Analyst
+S0147,18,Female,81.22,57.39,79,91,67,70,59,75,96,100,7,1,3,2,4,5,Technical,AI-ML,Logical,7,5,Yes,Python,Junior ML Engineer
+S0030,20,Male,80.16,77.05,91,43,51,66,72,70,95,85,5,3,10,5,1,1,Analytical,Data,Analytical,3,5,Yes,Math,Junior Data Scientist
+S0550,19,Male,99.0,63.38,75,100,56,85,47,59,80,84,9,5,3,5,1,1,Technical,Web,Logical,4,0,Yes,DBMS,Full Stack Developer
+S0705,19,Male,92.03,73.77,51,76,72,56,86,39,63,78,4,7,1,3,2,2,Creative,Web,Creative,1,2,Yes,Web,UI/UX Designer
+S0573,20,Male,92.98,72.33,48,55,57,53,79,59,95,82,2,2,1,6,1,4,Technical,Data,Logical,1,5,Yes,DBMS,Cloud Operations Engineer
+S0672,17,Female,73.73,61.74,93,77,82,99,58,62,87,80,6,5,6,6,8,2,Technical,Security,Logical,1,4,No,DBMS,Security Analyst Trainee
+S0358,19,Female,79.52,55.0,61,53,59,44,77,55,94,70,3,2,4,4,3,3,Creative,Cloud,Creative,1,4,No,DBMS,Frontend Developer
+S1020,18,Male,79.62,79.18,95,96,85,72,84,53,51,81,5,1,8,1,1,4,Technical,Data,Logical,3,6,Yes,DBMS,Database Administrator
+S0139,21,Female,82.58,70.16,74,77,58,96,59,71,92,71,8,1,3,3,3,6,Technical,AI-ML,Logical,3,2,No,Python,Junior ML Engineer
+S0135,18,Male,85.35,73.43,41,45,68,45,66,44,77,81,2,3,6,1,3,1,Technical,Security,Logical,4,1,Yes,Python,Junior ML Engineer
+S0868,23,Male,79.82,65.57,68,68,70,57,40,71,81,74,5,6,4,9,4,2,Management,Data,Leader,4,1,No,Statistics,Junior Business Analyst
+S0606,22,Female,67.12,72.41,68,68,86,74,65,73,52,81,5,5,5,5,1,7,Technical,Cloud,Logical,3,4,No,DBMS,Cloud Operations Engineer
+S0196,19,Female,93.06,78.64,77,66,45,74,67,45,52,90,7,1,2,4,2,6,Technical,AI-ML,Logical,1,3,No,Python,Junior ML Engineer
+S0591,17,Female,90.76,76.94,79,76,45,80,55,58,74,81,5,2,1,6,1,7,Technical,Cloud,Logical,1,3,No,Python,Cloud Operations Engineer
+S0556,20,Male,79.92,55.0,67,77,67,90,47,79,65,96,10,6,1,4,6,3,Technical,Web,Logical,1,2,No,Web,Full Stack Developer
+S1022,21,Female,74.09,69.91,73,89,87,76,70,72,85,98,4,6,9,2,1,3,Technical,Data,Logical,4,5,Yes,DBMS,Database Administrator
+S0744,23,Male,69.2,75.68,49,60,71,68,79,61,68,66,3,10,2,5,1,6,Creative,Web,Creative,1,1,Yes,Web,UI/UX Designer
+S0097,19,Female,86.33,77.13,85,48,94,64,84,69,78,91,4,5,10,5,4,3,Analytical,Data,Analytical,1,4,No,DBMS,Associate Data Analyst
+S0643,20,Male,78.18,87.31,67,76,71,97,64,68,82,83,6,2,2,6,7,1,Technical,Security,Logical,0,1,No,DBMS,Security Analyst Trainee
+S0282,23,Female,79.5,94.49,78,69,94,99,36,59,53,76,1,1,9,5,1,4,Technical,AI-ML,Logical,2,5,Yes,Math,AI/ML Engineer Trainee
+S0245,20,Female,71.03,59.41,75,94,56,90,71,47,61,71,4,1,9,1,4,4,Technical,AI-ML,Logical,1,1,No,Math,AI/ML Engineer Trainee
+S0762,19,Male,75.1,91.78,83,61,93,78,81,42,80,77,5,9,4,4,2,3,Creative,Web,Creative,1,4,No,Web,UI/UX Designer
+S0177,19,Male,78.14,91.49,89,74,52,81,79,44,71,83,9,4,6,1,2,6,Technical,AI-ML,Logical,1,6,Yes,Python,Junior ML Engineer
+S0301,17,Other,65.44,82.14,91,71,62,91,65,41,95,91,7,4,2,3,5,6,Technical,Web,Logical,0,1,No,Python,Junior Web Developer
+S0882,18,Female,76.63,62.37,80,75,77,70,42,78,83,69,1,2,6,7,5,5,Management,Data,Leader,2,4,No,Statistics,Junior Business Analyst
+S0226,25,Female,72.25,77.13,73,76,88,88,67,31,89,78,1,5,7,6,1,3,Technical,AI-ML,Logical,2,2,No,Python,AI/ML Engineer Trainee
+S0690,18,Female,86.46,85.68,63,99,76,96,74,54,88,89,5,3,3,2,10,6,Technical,Security,Logical,3,1,No,DBMS,Security Analyst Trainee
+S0010,18,Female,80.21,88.41,98,80,49,71,55,51,90,98,4,4,10,4,1,6,Analytical,Data,Analytical,2,6,Yes,Python,Junior Data Scientist
+S0092,17,Male,74.46,84.67,63,40,87,69,61,75,59,83,2,5,9,5,6,6,Analytical,Data,Analytical,2,3,No,DBMS,Associate Data Analyst
+S0810,21,Female,85.5,79.64,100,71,86,83,45,59,64,74,9,5,6,4,6,1,Technical,Web,Analytical,1,4,No,Web,Quality Assurance Tester
+S1025,20,Male,79.02,77.15,68,96,49,96,85,58,51,76,6,5,7,4,5,6,Technical,Data,Logical,3,1,No,DBMS,Database Administrator
+S0450,22,Other,78.28,73.31,66,96,67,74,67,38,95,91,9,5,5,2,4,1,Technical,Web,Logical,5,2,Yes,Python,Backend Developer
+S0875,19,Male,84.11,69.86,73,41,76,66,64,93,52,86,5,2,2,10,4,1,Management,Data,Leader,1,1,No,Statistics,Junior Business Analyst
+S0731,18,Male,79.79,66.21,64,66,56,79,81,39,83,74,1,8,5,3,5,4,Creative,Web,Creative,1,2,No,Web,UI/UX Designer
+S0339,19,Female,83.29,91.09,92,95,88,91,52,54,72,93,10,3,1,6,4,2,Technical,Web,Logical,3,1,No,Web,Junior Web Developer
+S0684,19,Male,84.58,70.43,62,82,59,97,45,64,69,91,2,5,5,6,7,3,Technical,Security,Logical,2,2,No,DBMS,Security Analyst Trainee
+S0945,20,Female,74.0,74.62,86,99,51,86,49,30,67,73,4,1,4,6,6,10,Technical,Cloud,Logical,3,4,No,Python,Junior DevOps Engineer
+S0517,19,Female,86.05,65.36,79,84,92,98,50,41,98,72,9,4,5,2,3,1,Technical,Web,Logical,1,1,No,DBMS,Full Stack Developer
+S0586,21,Female,78.98,72.99,100,72,91,74,44,71,58,74,6,5,6,5,4,10,Technical,Cloud,Logical,2,2,Yes,Python,Cloud Operations Engineer
+S0819,19,Male,77.03,80.85,80,83,51,89,55,66,73,75,7,2,4,6,1,1,Technical,Web,Analytical,1,8,Yes,Web,Quality Assurance Tester
+S0379,17,Other,90.42,80.34,47,58,73,60,87,70,82,71,4,10,6,3,3,4,Creative,Web,Creative,1,1,No,Web,Frontend Developer
+S0798,20,Male,80.6,82.54,76,95,54,67,66,64,89,95,9,2,5,4,6,5,Technical,Web,Analytical,2,0,No,Web,Quality Assurance Tester
+S0427,19,Male,79.84,70.99,98,89,89,87,83,50,51,84,8,2,1,3,6,4,Technical,Web,Logical,1,2,No,Python,Backend Developer
+S0641,18,Male,78.6,75.19,100,84,55,75,40,64,62,84,5,3,4,5,10,3,Technical,Security,Logical,3,2,No,DBMS,Security Analyst Trainee
+S1031,22,Female,80.52,83.87,97,66,47,90,81,44,59,95,3,3,10,2,1,3,Technical,Data,Logical,3,1,Yes,DBMS,Database Administrator
+S0863,18,Male,84.03,68.98,77,59,91,89,44,88,59,87,5,4,4,10,1,3,Management,Data,Leader,3,1,No,Statistics,Junior Business Analyst
+S0312,21,Female,81.08,83.19,85,97,87,86,79,35,76,77,8,1,3,6,4,5,Technical,Web,Logical,1,4,No,Python,Junior Web Developer
+S0673,22,Female,80.1,71.15,62,88,82,78,82,48,53,99,4,1,2,4,9,6,Technical,Security,Logical,1,5,Yes,DBMS,Security Analyst Trainee
+S0083,18,Female,76.76,79.77,93,55,81,88,53,59,85,85,3,4,7,2,3,2,Analytical,Data,Analytical,1,2,No,DBMS,Associate Data Analyst
+S0758,17,Male,86.53,81.14,44,52,66,49,86,35,79,64,5,2,5,6,4,4,Creative,Data,Creative,1,1,Yes,Python,UI/UX Designer
+S0637,24,Female,75.92,59.37,94,81,49,100,58,53,97,76,1,2,5,6,10,6,Technical,Security,Logical,1,2,No,DBMS,Security Analyst Trainee
+S0463,19,Male,78.98,70.93,86,86,90,94,60,31,80,86,9,3,1,1,3,2,Technical,Web,Logical,5,2,Yes,DBMS,Backend Developer
+S0718,23,Male,82.62,58.78,70,57,71,84,90,72,87,70,3,8,1,3,6,5,Creative,Web,Creative,4,5,Yes,Web,UI/UX Designer
+S0772,19,Female,85.34,89.6,92,88,54,73,49,56,73,76,8,3,1,4,6,3,Technical,Web,Analytical,4,3,No,Web,Quality Assurance Tester
+S0412,21,Other,63.08,84.97,70,48,78,79,79,62,66,86,5,9,3,4,3,2,Creative,Web,Creative,1,7,Yes,Web,Frontend Developer
+S0396,20,Male,80.73,73.98,47,79,88,81,92,75,84,61,4,7,2,3,5,5,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S0854,20,Female,86.01,87.48,68,64,90,62,48,74,95,85,5,1,4,10,2,3,Management,Data,Leader,1,5,Yes,DBMS,Junior Business Analyst
+S0629,18,Male,91.63,87.73,66,86,84,70,78,49,79,99,4,2,6,3,1,8,Technical,Cloud,Logical,0,3,No,DBMS,Cloud Operations Engineer
+S0155,19,Female,64.46,78.11,86,93,62,73,49,50,60,95,8,3,1,3,2,2,Technical,AI-ML,Logical,0,1,No,Python,Junior ML Engineer
+S0429,18,Female,55.48,73.64,99,74,47,79,83,39,80,72,10,1,1,2,3,2,Technical,Web,Logical,4,3,No,DBMS,Backend Developer
+S0179,17,Female,78.61,68.87,68,47,66,57,53,69,87,88,1,5,3,2,1,3,Technical,Web,Logical,2,4,Yes,Math,Junior ML Engineer
+S0784,20,Male,85.9,82.76,70,85,54,83,72,48,59,87,9,3,2,3,5,5,Technical,Web,Analytical,3,6,Yes,Python,Quality Assurance Tester
+S0248,20,Male,72.09,80.92,92,95,64,100,78,44,90,99,6,4,10,5,3,6,Technical,AI-ML,Logical,4,4,No,Math,AI/ML Engineer Trainee
+S0767,18,Female,84.21,85.82,79,71,92,88,97,70,73,54,4,10,1,4,4,1,Creative,Web,Creative,4,1,No,Web,UI/UX Designer
+S0315,18,Male,78.67,82.02,62,96,67,80,61,70,96,93,9,2,3,5,1,6,Technical,Web,Logical,3,5,Yes,Python,Junior Web Developer
+S0981,18,Female,90.24,83.3,79,100,83,90,72,38,85,76,5,3,3,1,3,8,Technical,Cloud,Logical,1,1,No,DBMS,Junior DevOps Engineer
+S0150,17,Other,91.85,80.37,65,98,84,97,45,61,89,100,7,2,3,3,6,6,Technical,AI-ML,Logical,1,1,No,Python,Junior ML Engineer
+S0897,17,Male,78.28,67.19,70,59,96,87,73,71,87,52,6,2,3,8,4,3,Management,Data,Leader,2,4,Yes,DBMS,Junior Business Analyst
+S0569,19,Other,70.92,90.36,84,82,95,72,55,75,83,77,8,6,2,6,2,2,Technical,Web,Logical,2,1,No,DBMS,Full Stack Developer
+S0593,17,Female,74.13,78.4,89,87,57,79,50,43,98,92,6,2,1,1,5,10,Technical,Cloud,Logical,2,2,No,DBMS,Cloud Operations Engineer
+S0681,20,Male,80.25,92.59,66,100,60,80,52,32,70,97,1,1,6,1,7,5,Technical,Security,Logical,1,2,No,DBMS,Security Analyst Trainee
+S0418,21,Male,82.01,66.88,70,67,53,75,98,52,50,88,2,9,4,1,6,1,Creative,Web,Creative,4,2,No,Web,Frontend Developer
+S1034,20,Female,70.23,92.39,88,93,67,72,76,74,95,84,5,4,9,5,4,6,Technical,Data,Logical,0,2,No,DBMS,Database Administrator
+S0144,20,Female,78.28,70.71,81,92,54,81,44,68,74,93,10,2,4,4,5,2,Technical,AI-ML,Logical,3,2,No,Python,Junior ML Engineer
+S0247,18,Male,75.21,92.51,76,97,84,82,37,40,54,73,1,5,9,4,6,6,Technical,AI-ML,Logical,2,2,No,Python,AI/ML Engineer Trainee
+S0921,18,Male,73.14,81.26,80,74,86,86,50,67,95,81,2,3,4,4,5,7,Technical,Cloud,Logical,7,0,No,Python,Junior DevOps Engineer
+S0113,20,Male,83.5,82.76,64,42,45,57,76,35,63,80,3,3,10,2,4,6,Analytical,Data,Analytical,2,2,No,Statistics,Associate Data Analyst
+S0243,18,Female,73.78,93.74,84,70,48,72,68,35,93,82,2,4,9,1,6,2,Technical,AI-ML,Logical,3,1,No,Math,AI/ML Engineer Trainee
+S1016,21,Female,77.53,86.75,96,77,50,88,84,78,68,97,3,2,10,4,2,3,Technical,Data,Logical,4,4,Yes,DBMS,Database Administrator
+S0919,17,Female,82.56,87.18,71,66,55,87,82,58,73,93,3,6,1,5,1,9,Technical,Cloud,Logical,2,1,No,DBMS,Junior DevOps Engineer
+S0017,19,Male,69.69,76.83,86,74,58,63,39,37,87,96,2,1,7,5,5,4,Analytical,Data,Analytical,2,1,No,Statistics,Junior Data Scientist
+S0599,17,Male,79.64,60.9,62,42,64,58,70,78,62,76,2,4,2,3,1,5,Technical,Cloud,Logical,3,1,No,Web,Cloud Operations Engineer
+S0190,19,Male,85.05,68.02,99,100,63,79,43,32,55,83,9,3,6,2,4,1,Technical,AI-ML,Logical,2,3,Yes,Python,Junior ML Engineer
+S1024,18,Female,73.8,75.25,60,98,88,84,69,75,75,93,1,6,7,1,2,5,Technical,Data,Logical,5,1,No,DBMS,Database Administrator
+S0748,19,Female,87.64,79.54,64,75,62,58,93,35,70,88,6,7,3,5,1,6,Creative,Web,Creative,2,2,Yes,Web,UI/UX Designer
+S0239,18,Female,96.79,78.15,75,74,78,75,40,41,51,84,3,1,8,4,1,4,Technical,AI-ML,Logical,2,2,No,Math,AI/ML Engineer Trainee
+S0281,20,Male,97.94,74.73,64,77,56,90,46,41,61,82,1,3,9,3,4,4,Technical,AI-ML,Logical,1,3,No,Python,AI/ML Engineer Trainee
+S0231,17,Male,79.02,60.24,78,100,79,95,76,67,79,95,2,5,7,5,2,2,Technical,AI-ML,Logical,4,3,No,Python,AI/ML Engineer Trainee
+S0845,19,Male,76.74,77.15,75,80,75,73,74,51,69,93,9,4,5,6,2,6,Technical,Web,Analytical,2,4,No,Python,Quality Assurance Tester
+S0901,19,Other,88.0,70.94,51,70,91,78,71,71,76,55,1,5,2,10,4,1,Management,Data,Leader,1,4,No,DBMS,Junior Business Analyst
+S0002,20,Male,81.28,70.1,80,47,69,76,44,41,56,86,4,1,9,1,5,1,Analytical,Data,Analytical,1,5,Yes,Math,Junior Data Scientist
+S0454,21,Female,72.69,82.75,95,66,69,71,54,49,96,88,8,4,6,3,6,1,Technical,Web,Logical,1,1,No,Python,Backend Developer
+S0268,20,Male,72.4,82.5,65,74,83,97,35,62,88,95,3,4,10,6,2,2,Technical,AI-ML,Logical,1,2,No,Math,AI/ML Engineer Trainee
+S0365,18,Male,89.51,98.82,71,74,56,81,83,66,51,61,5,8,3,3,6,3,Creative,Web,Creative,1,5,Yes,Web,Frontend Developer
+S0532,20,Female,79.27,67.23,60,73,78,94,57,42,94,74,8,4,2,3,3,5,Technical,Web,Logical,4,4,No,Web,Full Stack Developer
+S0655,19,Female,79.87,77.65,88,79,55,76,83,75,57,71,1,6,2,3,7,3,Technical,Security,Logical,2,4,Yes,DBMS,Security Analyst Trainee
+S0933,20,Male,88.43,75.54,94,83,48,91,39,55,54,77,6,1,1,4,1,7,Technical,Cloud,Logical,3,3,Yes,Python,Junior DevOps Engineer
+S1008,18,Male,81.59,76.05,77,75,57,83,74,77,57,77,1,6,10,2,4,1,Technical,Data,Logical,2,4,Yes,DBMS,Database Administrator
+S0936,20,Female,75.68,66.98,67,92,89,93,45,74,56,87,2,5,3,1,5,10,Technical,Cloud,Logical,5,5,Yes,DBMS,Junior DevOps Engineer
+S0154,19,Female,82.83,75.57,76,76,91,78,54,76,61,75,7,2,4,1,6,6,Technical,AI-ML,Logical,2,4,No,Math,Junior ML Engineer
+S0636,18,Female,88.81,75.15,76,78,51,92,52,61,81,71,5,3,5,1,5,8,Technical,Cloud,Logical,2,4,No,Python,Cloud Operations Engineer
+S0794,20,Female,80.87,90.36,97,65,71,68,71,58,60,87,9,3,6,1,4,6,Technical,Web,Analytical,3,2,No,Web,Quality Assurance Tester
+S0557,21,Female,79.59,76.74,70,44,81,47,69,71,84,73,2,1,3,1,5,5,Technical,Cloud,Logical,1,2,No,DBMS,Full Stack Developer
+S0006,18,Male,78.78,76.8,89,64,59,70,53,55,53,83,2,1,7,4,1,2,Analytical,Data,Analytical,0,4,No,Statistics,Junior Data Scientist
+S0288,20,Female,88.62,71.66,91,71,47,83,71,73,59,88,1,1,8,4,4,1,Technical,AI-ML,Logical,5,4,No,Math,AI/ML Engineer Trainee
+S0590,22,Male,76.16,67.28,44,62,87,44,62,30,72,71,3,1,5,1,6,4,Technical,Data,Logical,3,1,No,DBMS,Cloud Operations Engineer
+S1000,23,Female,75.52,78.74,100,73,87,82,63,46,91,86,3,2,9,1,1,5,Technical,Data,Logical,1,6,Yes,DBMS,Database Administrator
+S0787,20,Male,80.51,75.72,42,58,60,70,44,47,57,84,3,6,6,2,4,1,Technical,Web,Analytical,0,0,No,Python,Quality Assurance Tester
+S0840,17,Female,73.41,65.06,57,60,50,55,68,60,81,71,5,6,6,5,2,6,Technical,Web,Analytical,1,3,No,Web,Quality Assurance Tester
+S0032,20,Female,75.21,71.11,64,58,76,61,41,76,89,84,6,3,10,5,4,4,Analytical,Data,Analytical,3,1,No,Python,Junior Data Scientist
+S0834,19,Female,77.75,75.39,66,66,67,57,74,61,99,76,10,3,3,5,4,5,Technical,Web,Analytical,3,3,No,Python,Quality Assurance Tester
+S0978,23,Male,89.67,99.0,70,67,62,98,39,42,65,78,2,1,2,3,2,7,Technical,Cloud,Logical,2,3,No,DBMS,Junior DevOps Engineer
+S0911,20,Female,91.83,74.98,72,54,74,77,58,74,71,55,4,5,4,9,3,4,Management,Data,Leader,0,1,Yes,Statistics,Junior Business Analyst
+S0072,21,Female,94.32,58.33,85,73,92,73,84,69,73,79,1,3,10,5,3,1,Analytical,Data,Analytical,1,2,No,DBMS,Associate Data Analyst
+S0094,18,Male,79.31,75.02,98,74,66,83,77,77,61,76,5,1,7,5,1,1,Analytical,Data,Analytical,4,0,No,DBMS,Associate Data Analyst
+S0436,22,Female,74.72,97.7,78,93,47,91,78,56,54,82,8,2,6,4,5,3,Technical,Web,Logical,1,1,No,Python,Backend Developer
+S0249,21,Female,86.38,76.33,79,92,86,87,68,65,92,78,4,5,9,4,2,4,Technical,AI-ML,Logical,2,4,No,Python,AI/ML Engineer Trainee
+S0101,20,Female,68.16,67.06,77,43,87,78,38,73,86,91,2,1,9,5,5,1,Analytical,Data,Analytical,4,0,No,Statistics,Associate Data Analyst
+S0012,19,Female,57.79,72.17,85,75,83,64,69,71,79,94,1,3,10,2,6,3,Analytical,Data,Analytical,3,3,No,Python,Junior Data Scientist
+S0719,20,Female,74.13,74.33,64,69,69,86,84,39,80,71,5,7,2,1,1,4,Creative,Web,Creative,3,1,No,Web,UI/UX Designer
+S0488,21,Male,76.93,71.64,84,95,53,99,55,37,50,71,10,4,2,3,2,1,Technical,Web,Logical,2,0,No,DBMS,Full Stack Developer
+S0486,18,Female,76.0,78.06,80,91,54,88,83,71,74,77,7,6,4,2,4,1,Technical,Web,Logical,0,6,Yes,Python,Backend Developer
+S0929,20,Male,83.51,93.11,85,74,57,92,66,54,72,86,5,1,1,4,4,9,Technical,Cloud,Logical,1,2,No,DBMS,Junior DevOps Engineer
+S0464,17,Male,80.15,94.94,86,68,56,98,61,67,68,83,8,6,4,5,1,1,Technical,Web,Logical,3,5,Yes,Python,Backend Developer
+S0975,19,Female,71.41,74.99,95,71,88,75,83,66,93,89,2,2,5,6,2,10,Technical,Cloud,Logical,6,2,No,Python,Junior DevOps Engineer
+S0823,22,Male,67.1,90.2,61,94,45,72,73,64,63,92,10,6,4,3,5,3,Technical,Web,Analytical,0,3,No,Python,Quality Assurance Tester
+S0176,19,Male,69.06,76.76,64,69,77,72,66,70,85,70,7,3,4,6,2,4,Technical,AI-ML,Logical,2,5,Yes,Python,Junior ML Engineer
+S0568,20,Male,76.05,84.98,63,89,71,100,44,64,76,83,9,6,1,2,4,4,Technical,Web,Logical,2,6,Yes,Web,Full Stack Developer
+S0576,20,Male,78.03,81.83,72,90,45,76,51,31,96,92,3,4,2,3,6,9,Technical,Cloud,Logical,2,2,No,Python,Cloud Operations Engineer
+S0126,18,Female,78.06,77.48,65,70,56,44,45,67,52,74,5,4,3,2,2,3,Analytical,Data,Analytical,2,3,Yes,DBMS,Associate Data Analyst
+S0199,18,Female,78.91,78.9,97,92,72,94,67,48,58,95,10,4,1,3,1,3,Technical,AI-ML,Logical,2,1,No,Math,Junior ML Engineer
+S0876,19,Female,73.82,64.74,65,54,76,71,76,90,63,60,4,4,6,10,4,3,Management,Data,Leader,1,2,Yes,DBMS,Junior Business Analyst
+S0833,18,Male,83.36,67.19,68,87,70,83,52,40,58,97,8,4,1,2,3,1,Technical,Web,Analytical,2,2,Yes,Python,Quality Assurance Tester
+S0918,21,Female,89.3,90.49,97,77,61,89,35,49,95,95,1,5,3,3,1,7,Technical,Cloud,Logical,4,3,No,DBMS,Junior DevOps Engineer
+S0013,20,Male,82.92,74.55,61,45,57,62,81,74,99,76,2,6,3,6,4,3,Analytical,AI-ML,Analytical,1,2,No,Math,Junior Data Scientist
+S0235,21,Male,81.76,95.25,98,86,61,78,65,34,95,85,6,1,7,2,5,3,Technical,AI-ML,Logical,2,2,No,Math,AI/ML Engineer Trainee
+S0316,19,Male,77.76,87.65,98,98,81,84,76,64,86,89,10,2,5,5,5,1,Technical,Web,Logical,2,3,No,Python,Junior Web Developer
+S1039,19,Male,73.29,65.99,61,53,74,44,64,71,62,93,4,6,5,1,1,5,Technical,Web,Logical,0,2,No,Web,Database Administrator
+S0886,19,Female,75.59,91.39,57,68,88,42,67,100,59,64,2,2,6,3,2,3,Management,Security,Leader,0,4,No,Python,Junior Business Analyst
+S0447,19,Male,82.84,91.04,98,91,52,81,66,48,95,86,7,1,1,6,6,2,Technical,Web,Logical,2,4,Yes,Python,Backend Developer
+S0254,23,Female,71.61,66.06,69,93,77,90,64,50,67,72,2,3,10,2,4,5,Technical,AI-ML,Logical,1,2,No,Math,AI/ML Engineer Trainee
+S0650,20,Female,71.02,68.64,90,76,68,77,81,30,57,100,1,6,4,6,7,5,Technical,Security,Logical,0,5,Yes,DBMS,Security Analyst Trainee
+S0342,21,Female,80.66,97.8,96,75,52,100,61,41,94,80,9,1,3,2,5,5,Technical,Web,Logical,4,5,Yes,Python,Junior Web Developer
+S0902,21,Female,64.17,75.56,70,53,76,55,35,93,91,86,1,5,6,2,3,6,Management,Cloud,Leader,0,1,Yes,Math,Junior Business Analyst
+S0202,22,Female,79.4,85.75,70,81,92,74,76,66,83,81,8,5,3,1,4,1,Technical,AI-ML,Logical,0,5,Yes,Math,Junior ML Engineer
+S0170,17,Male,79.58,78.85,94,66,54,89,83,74,67,96,8,2,2,6,4,4,Technical,AI-ML,Logical,1,4,No,Python,Junior ML Engineer
+S0932,17,Male,73.4,62.98,89,68,80,71,74,70,86,99,3,4,4,4,5,9,Technical,Cloud,Logical,1,2,No,Python,Junior DevOps Engineer
+S0323,19,Female,81.52,88.46,67,68,52,40,36,52,70,80,4,6,3,3,5,2,Technical,Cloud,Logical,2,7,Yes,Python,Junior Web Developer
+S0123,20,Female,83.65,72.58,79,66,95,57,83,35,84,71,6,5,9,6,5,4,Analytical,Data,Analytical,1,10,Yes,DBMS,Associate Data Analyst
+S0445,18,Female,88.93,85.41,83,83,88,85,71,43,92,87,8,6,2,4,4,5,Technical,Web,Logical,4,3,No,Python,Backend Developer
+S0652,20,Male,78.72,87.03,80,74,94,91,47,40,82,74,4,2,5,1,8,2,Technical,Security,Logical,1,7,Yes,DBMS,Security Analyst Trainee
+S1015,17,Female,81.56,63.58,79,98,65,76,76,31,98,78,4,3,9,1,4,1,Technical,Data,Logical,4,6,Yes,DBMS,Database Administrator
+S0635,18,Female,73.7,66.74,66,76,93,94,62,39,84,72,6,5,1,3,3,7,Technical,Cloud,Logical,1,3,Yes,DBMS,Cloud Operations Engineer
+S0693,19,Female,97.83,92.3,46,52,85,52,65,55,81,92,4,5,5,6,6,4,Technical,Security,Logical,1,3,No,Web,Security Analyst Trainee
+S0188,19,Male,84.81,75.55,85,70,93,80,81,47,51,95,7,6,2,3,2,2,Technical,AI-ML,Logical,0,4,No,Python,Junior ML Engineer
+S0616,19,Female,69.01,73.7,70,89,84,87,74,41,58,79,3,6,5,6,2,7,Technical,Cloud,Logical,0,2,Yes,Python,Cloud Operations Engineer
+S0821,21,Male,67.5,67.24,85,69,90,89,50,66,90,85,9,3,3,6,4,3,Technical,Web,Analytical,5,3,Yes,Web,Quality Assurance Tester
+S0998,19,Male,90.17,63.89,85,70,61,97,35,43,76,100,6,4,7,5,3,3,Technical,Data,Logical,7,3,No,DBMS,Database Administrator
+S0871,17,Female,89.43,79.36,53,63,80,55,48,85,67,89,3,4,4,9,6,5,Management,Data,Leader,2,2,No,DBMS,Junior Business Analyst
+S1003,21,Female,72.87,96.93,79,89,87,70,55,31,61,85,1,4,10,6,2,2,Technical,Data,Logical,2,2,Yes,DBMS,Database Administrator
+S0717,20,Female,92.07,72.25,82,67,94,72,75,67,75,83,4,8,1,3,5,1,Creative,Web,Creative,2,4,Yes,Web,UI/UX Designer
+S1004,19,Female,80.08,85.2,89,65,67,96,46,67,86,89,1,3,8,2,5,5,Technical,Data,Logical,3,6,Yes,DBMS,Database Administrator
+S0807,20,Female,72.98,64.12,70,90,79,69,83,60,56,93,7,5,1,6,3,6,Technical,Web,Analytical,2,1,No,Python,Quality Assurance Tester
+S0815,21,Female,69.68,82.08,85,71,58,56,81,60,74,86,9,2,1,3,4,3,Technical,Web,Analytical,3,7,Yes,Python,Quality Assurance Tester
+S0795,20,Male,77.48,59.92,74,89,54,76,83,73,96,91,9,3,3,4,4,3,Technical,Web,Analytical,2,4,No,Python,Quality Assurance Tester
+S0578,18,Male,69.3,60.97,79,94,55,92,39,69,76,93,4,3,5,5,6,7,Technical,Cloud,Logical,1,4,No,DBMS,Cloud Operations Engineer
+S0494,18,Male,80.3,80.13,96,90,46,71,40,60,91,78,7,1,4,6,5,6,Technical,Web,Logical,1,1,No,Python,Full Stack Developer
+S0930,21,Female,78.87,93.45,91,82,82,98,42,64,56,76,1,1,3,1,3,7,Technical,Cloud,Logical,1,3,No,DBMS,Junior DevOps Engineer
+S0887,22,Male,80.89,77.5,79,53,95,73,40,99,55,85,2,1,4,9,1,4,Management,Data,Leader,3,2,No,Statistics,Junior Business Analyst
+S0024,21,Male,94.9,92.17,67,56,49,88,78,42,70,95,2,1,8,4,1,5,Analytical,Data,Analytical,1,4,No,Math,Junior Data Scientist
+S0979,20,Male,70.3,80.52,62,88,83,77,47,50,87,71,2,3,4,2,2,7,Technical,Cloud,Logical,2,3,Yes,Python,Junior DevOps Engineer
+S0580,20,Female,81.61,89.1,90,91,85,97,84,76,91,92,2,5,2,1,5,8,Technical,Cloud,Logical,2,2,No,Python,Cloud Operations Engineer
+S0547,18,Female,71.34,82.14,84,96,75,89,68,64,90,74,7,5,6,2,5,1,Technical,Web,Logical,3,4,No,Web,Full Stack Developer
+S0760,17,Male,76.0,84.16,82,71,74,80,88,60,61,79,4,8,4,2,5,2,Creative,Web,Creative,0,2,No,Web,UI/UX Designer
+S0912,19,Male,72.79,75.15,59,46,82,58,38,73,63,68,6,6,1,8,5,1,Management,Data,Leader,4,3,No,DBMS,Junior Business Analyst
+S0959,19,Female,69.39,77.35,92,87,90,81,67,61,76,75,3,5,6,5,6,7,Technical,Cloud,Logical,1,0,No,Python,Junior DevOps Engineer
+S0337,20,Male,69.69,62.71,61,68,74,98,73,58,60,90,9,6,6,5,5,6,Technical,Web,Logical,1,5,Yes,Web,Junior Web Developer
+S0482,20,Male,81.36,75.59,94,80,65,91,63,50,74,95,7,1,1,4,2,3,Technical,Web,Logical,0,1,No,Python,Backend Developer
+S0622,20,Male,70.44,83.86,57,46,90,65,84,48,87,93,2,6,5,5,6,2,Technical,AI-ML,Logical,3,2,No,Statistics,Cloud Operations Engineer
+S0290,18,Male,88.74,80.43,90,68,71,93,66,59,71,95,1,5,9,6,1,2,Technical,AI-ML,Logical,1,3,Yes,Python,AI/ML Engineer Trainee
+S0611,18,Male,62.68,83.64,82,82,91,71,68,36,55,100,1,6,1,6,3,9,Technical,Cloud,Logical,1,3,No,Python,Cloud Operations Engineer
+S0947,22,Female,72.68,69.72,84,98,57,77,48,68,96,86,2,6,5,3,4,9,Technical,Cloud,Logical,0,3,No,DBMS,Junior DevOps Engineer
+S0961,19,Male,86.88,85.66,89,93,63,90,63,79,73,83,2,5,3,1,4,7,Technical,Cloud,Logical,7,2,No,Python,Junior DevOps Engineer
+S0682,20,Male,76.83,57.05,85,74,95,76,77,68,95,85,3,6,5,3,10,6,Technical,Security,Logical,1,3,No,DBMS,Security Analyst Trainee
+S0880,19,Female,80.14,87.85,71,63,74,70,84,83,62,74,3,3,3,7,6,6,Management,Data,Leader,2,5,Yes,DBMS,Junior Business Analyst
+S0015,20,Female,67.3,81.54,99,40,47,63,74,43,86,85,3,4,7,3,6,5,Analytical,Data,Analytical,3,5,Yes,Statistics,Junior Data Scientist
+S0338,19,Female,87.67,72.68,66,84,49,88,54,39,98,89,7,1,2,2,5,2,Technical,Web,Logical,3,4,No,Web,Junior Web Developer
+S0549,21,Male,83.03,77.12,94,68,45,86,56,41,55,78,7,4,3,5,5,1,Technical,Web,Logical,1,2,No,Web,Full Stack Developer
+S0782,21,Female,90.02,75.22,71,66,66,61,60,39,53,91,8,2,2,4,2,6,Technical,Web,Analytical,1,4,No,Web,Quality Assurance Tester
+S0336,21,Female,76.25,76.96,90,100,88,83,47,52,79,75,7,4,1,3,2,1,Technical,Web,Logical,4,1,No,Python,Junior Web Developer
+S0518,19,Female,80.78,68.53,100,90,59,79,37,53,78,78,8,6,2,3,4,4,Technical,Web,Logical,2,3,No,DBMS,Full Stack Developer
+S0258,18,Other,84.92,86.13,94,65,48,85,57,77,80,81,4,4,7,3,5,6,Technical,AI-ML,Logical,3,2,No,Math,AI/ML Engineer Trainee
+S0935,22,Female,79.16,75.51,66,69,63,100,51,39,81,70,6,6,6,3,6,7,Technical,Cloud,Logical,0,1,Yes,Python,Junior DevOps Engineer
+S0423,19,Female,90.13,89.23,46,42,93,70,88,40,96,59,2,8,6,6,3,3,Creative,Web,Creative,2,4,No,Web,Frontend Developer
+S0540,20,Male,66.11,85.47,82,77,46,75,39,57,99,98,7,6,4,2,4,3,Technical,Web,Logical,3,1,No,Python,Full Stack Developer
+S0777,21,Female,67.05,96.2,85,83,78,68,76,64,53,93,7,5,1,1,5,5,Technical,Web,Analytical,1,2,No,Python,Quality Assurance Tester
+S0399,17,Female,79.17,77.21,78,41,71,58,82,61,98,67,3,9,1,6,3,3,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S0228,20,Male,74.8,81.66,92,92,54,83,49,61,92,94,5,4,8,2,2,1,Technical,AI-ML,Logical,1,6,Yes,Math,AI/ML Engineer Trainee
+S0525,20,Male,75.11,73.34,61,69,72,95,56,51,69,75,9,6,6,2,1,5,Technical,Web,Logical,1,2,No,Web,Full Stack Developer
+S0555,22,Male,80.64,68.16,73,65,49,88,79,60,70,77,9,2,1,5,4,1,Technical,Web,Logical,4,0,No,DBMS,Full Stack Developer
+S0553,19,Male,71.08,76.02,89,92,91,85,78,66,75,95,9,1,4,6,3,3,Technical,Web,Logical,1,4,No,DBMS,Full Stack Developer
+S0353,18,Male,78.31,99.0,90,96,55,91,70,78,94,74,7,2,5,2,5,6,Technical,Web,Logical,2,5,Yes,Web,Junior Web Developer
+S0064,18,Other,72.78,78.15,75,49,68,62,57,71,95,73,6,3,7,6,5,1,Analytical,Data,Analytical,0,3,No,DBMS,Associate Data Analyst
+S0661,22,Male,66.11,72.15,77,100,90,98,36,51,93,97,2,5,5,1,10,1,Technical,Security,Logical,5,0,No,DBMS,Security Analyst Trainee
+S0757,20,Male,84.16,63.41,67,59,52,56,82,41,66,51,6,4,6,5,3,2,Creative,AI-ML,Creative,1,0,No,Web,UI/UX Designer
+S0332,21,Female,76.46,67.22,82,92,94,71,53,77,57,78,10,2,1,6,1,5,Technical,Web,Logical,1,2,Yes,Web,Junior Web Developer
+S0158,17,Male,83.7,84.03,69,97,75,91,54,53,77,89,7,2,5,4,3,4,Technical,AI-ML,Logical,2,4,Yes,Math,Junior ML Engineer
+S0211,19,Female,65.02,83.6,62,68,53,86,73,33,52,99,5,6,9,3,4,5,Technical,AI-ML,Logical,2,2,No,Python,AI/ML Engineer Trainee
+S0742,19,Female,81.65,92.93,54,65,71,59,91,50,72,61,3,6,3,2,5,3,Creative,Security,Creative,4,2,Yes,Python,UI/UX Designer
+S0408,19,Female,68.07,72.38,74,62,90,61,84,50,58,90,2,8,4,1,5,5,Creative,Web,Creative,1,8,Yes,Web,Frontend Developer
+S0054,21,Male,89.39,62.49,78,42,88,74,39,68,62,78,1,5,10,2,5,1,Analytical,Data,Analytical,3,1,No,Math,Junior Data Scientist
+S0891,20,Male,69.21,68.33,59,63,91,56,48,86,66,67,2,3,6,9,5,1,Management,Data,Leader,1,7,Yes,DBMS,Junior Business Analyst
+S0541,17,Male,86.64,74.07,68,91,80,72,46,38,72,74,7,3,6,1,5,1,Technical,Web,Logical,1,1,No,Python,Full Stack Developer
+S0747,18,Male,74.62,73.1,55,54,66,81,99,55,69,68,4,7,3,5,2,2,Creative,Web,Creative,3,2,No,Web,UI/UX Designer
+S0411,20,Female,83.22,73.88,49,73,63,62,87,42,58,84,6,7,6,3,4,1,Creative,Web,Creative,2,5,Yes,Web,Frontend Developer
+S0861,20,Female,86.36,92.9,48,64,92,83,78,93,75,78,2,4,2,10,1,1,Management,Data,Leader,2,2,No,DBMS,Junior Business Analyst
+S0167,19,Female,80.83,77.52,62,93,82,100,66,74,68,79,8,5,3,5,2,6,Technical,AI-ML,Logical,2,2,No,Python,Junior ML Engineer
+S0118,19,Female,78.65,83.31,88,78,49,61,84,44,70,73,4,2,8,2,1,6,Analytical,Data,Analytical,0,2,Yes,DBMS,Associate Data Analyst
+S0564,20,Female,79.96,74.38,94,65,65,73,37,40,70,88,9,6,2,6,5,5,Technical,Web,Logical,1,4,No,Python,Full Stack Developer
+S0966,20,Male,77.14,67.79,62,85,69,75,55,62,69,96,5,1,5,2,4,8,Technical,Cloud,Logical,1,4,No,Python,Junior DevOps Engineer
+S0244,21,Male,82.39,72.05,62,91,87,71,54,38,74,78,3,3,10,2,4,1,Technical,AI-ML,Logical,2,1,No,Python,AI/ML Engineer Trainee
+S0297,20,Female,95.76,93.5,84,67,49,85,46,36,73,82,7,1,1,2,1,3,Technical,Web,Logical,2,3,No,Web,Junior Web Developer
+S0572,19,Male,85.74,97.09,82,83,52,94,35,30,51,96,3,6,4,4,5,10,Technical,Cloud,Logical,4,1,Yes,DBMS,Cloud Operations Engineer
+S0285,19,Female,68.13,68.94,75,88,79,93,64,71,85,92,1,1,10,1,6,4,Technical,AI-ML,Logical,1,2,No,Math,AI/ML Engineer Trainee
+S0926,19,Other,67.42,98.26,73,76,74,77,53,67,79,97,2,2,4,2,3,8,Technical,Cloud,Logical,3,3,No,Python,Junior DevOps Engineer
+S0789,17,Male,76.77,77.21,66,87,77,64,74,40,77,72,7,4,2,5,4,5,Technical,Web,Analytical,3,3,No,Python,Quality Assurance Tester
+S0133,19,Female,82.45,60.01,61,96,83,72,59,50,69,98,7,2,3,5,3,1,Technical,AI-ML,Logical,5,3,No,Python,Junior ML Engineer
+S0405,21,Male,74.48,77.31,81,65,46,64,100,66,96,69,3,9,2,4,2,5,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S0567,20,Male,72.93,74.84,78,65,87,88,76,31,93,93,7,5,6,3,1,5,Technical,Web,Logical,3,3,No,Web,Full Stack Developer
+S0721,18,Female,84.62,85.31,80,54,80,69,89,79,93,80,4,7,2,2,5,6,Creative,Web,Creative,1,3,Yes,Web,UI/UX Designer
+S0657,19,Female,73.62,62.04,61,74,49,75,71,78,64,79,3,2,3,5,10,4,Technical,Security,Logical,2,4,No,DBMS,Security Analyst Trainee
+S0194,19,Male,77.53,83.22,65,92,76,82,72,62,78,73,7,6,4,6,5,1,Technical,AI-ML,Logical,4,1,Yes,Math,Junior ML Engineer
+S0585,18,Female,70.99,73.28,92,76,88,76,71,70,61,79,5,2,2,3,3,10,Technical,Cloud,Logical,2,4,No,Python,Cloud Operations Engineer
+S0487,20,Female,62.12,81.5,79,94,84,97,62,62,79,88,7,6,2,6,1,1,Technical,Web,Logical,1,0,No,Python,Backend Developer
+S0419,19,Male,72.54,77.6,70,79,81,71,82,37,81,84,1,7,6,1,4,5,Creative,Web,Creative,2,4,No,Web,Frontend Developer
+S0931,20,Female,87.75,84.26,75,86,59,91,76,60,95,84,4,6,2,5,1,8,Technical,Cloud,Logical,5,2,No,Python,Junior DevOps Engineer
+S0624,21,Other,72.19,87.64,100,80,62,78,64,49,63,81,1,5,6,1,1,7,Technical,Cloud,Logical,3,3,No,DBMS,Cloud Operations Engineer
+S0499,18,Male,81.91,86.03,55,45,87,45,68,76,50,77,2,4,2,1,5,4,Technical,Security,Logical,0,5,Yes,DBMS,Full Stack Developer
+S0755,23,Female,77.14,84.24,68,64,58,83,82,71,63,84,5,9,3,6,3,1,Creative,Web,Creative,3,3,No,Web,UI/UX Designer
+S0565,19,Other,78.16,87.59,88,80,83,79,59,63,62,99,10,3,1,3,2,4,Technical,Web,Logical,7,1,No,Python,Full Stack Developer
+S0818,22,Male,75.09,71.55,69,88,75,55,59,58,81,79,8,6,6,2,4,1,Technical,Web,Analytical,2,4,No,Python,Quality Assurance Tester
+S0516,22,Other,75.71,84.43,81,94,88,85,70,39,66,71,9,2,3,5,2,3,Technical,Web,Logical,4,0,No,DBMS,Full Stack Developer
+S0714,20,Female,87.32,80.31,74,53,81,84,97,32,84,68,5,9,3,5,5,3,Creative,Web,Creative,1,2,No,Web,UI/UX Designer
+S0799,20,Female,86.47,85.65,76,76,63,90,49,48,96,94,10,2,5,6,4,1,Technical,Web,Analytical,1,5,Yes,Web,Quality Assurance Tester
+S0779,18,Female,84.86,75.64,80,86,92,83,38,53,78,85,8,3,2,4,2,4,Technical,Web,Analytical,1,3,No,Web,Quality Assurance Tester
+S0205,18,Female,85.42,74.44,82,92,82,98,75,75,62,84,10,2,1,2,1,6,Technical,AI-ML,Logical,2,3,No,Math,Junior ML Engineer
+S0638,18,Female,69.31,90.13,62,60,62,68,80,59,85,90,4,3,2,5,1,2,Technical,Security,Logical,1,3,No,DBMS,Security Analyst Trainee
+S0329,19,Male,83.64,68.85,72,75,61,70,61,48,99,88,9,3,4,3,4,1,Technical,Web,Logical,5,2,No,Web,Junior Web Developer
+S0393,19,Female,75.2,86.5,85,67,67,86,78,55,87,69,3,7,4,5,5,2,Creative,Web,Creative,3,3,No,Web,Frontend Developer
+S0501,21,Female,77.12,58.04,81,94,61,97,74,46,83,89,10,3,4,4,1,2,Technical,Web,Logical,3,1,No,Python,Full Stack Developer
+S0842,23,Male,77.03,66.66,91,91,72,64,50,74,68,79,8,3,3,2,6,5,Technical,Web,Analytical,2,3,No,Python,Quality Assurance Tester
+S0115,18,Male,69.89,85.5,62,61,51,80,75,70,79,94,3,2,9,5,6,2,Analytical,Data,Analytical,2,5,Yes,Statistics,Associate Data Analyst
+S0112,17,Female,71.15,69.76,70,77,79,82,60,60,62,81,4,3,10,6,5,1,Analytical,Data,Analytical,1,2,No,DBMS,Associate Data Analyst
+S0909,21,Male,93.35,71.51,57,41,83,52,57,86,50,81,1,3,4,4,6,1,Management,Web,Leader,1,0,No,Python,Junior Business Analyst
+S0773,20,Male,72.53,75.29,73,88,77,56,60,60,80,78,8,5,1,4,3,5,Technical,Web,Analytical,1,1,Yes,Web,Quality Assurance Tester
+S0574,22,Female,81.18,75.95,52,45,59,52,53,50,79,73,5,6,5,2,3,4,Technical,AI-ML,Logical,0,5,Yes,DBMS,Cloud Operations Engineer
+S0236,19,Female,74.4,68.81,86,75,54,99,36,59,85,100,3,4,9,4,4,2,Technical,AI-ML,Logical,2,1,Yes,Math,AI/ML Engineer Trainee
+S0884,20,Male,63.77,76.43,73,66,94,86,74,75,97,79,6,5,5,9,6,1,Management,Data,Leader,2,2,No,DBMS,Junior Business Analyst
+S0277,19,Female,93.01,81.24,90,84,84,93,69,59,89,73,6,3,9,6,6,2,Technical,AI-ML,Logical,1,4,No,Python,AI/ML Engineer Trainee
+S0708,22,Female,99.0,87.92,82,49,58,79,91,60,67,64,6,10,5,1,2,1,Creative,Web,Creative,1,1,No,Web,UI/UX Designer
+S0688,20,Female,73.21,80.18,49,69,51,63,61,35,91,89,6,1,6,1,2,4,Technical,Security,Logical,2,2,No,DBMS,Security Analyst Trainee
+S0475,19,Male,79.47,84.66,50,63,74,58,38,67,71,98,4,4,2,4,2,4,Technical,AI-ML,Logical,7,3,No,Python,Backend Developer
+S0442,20,Female,78.48,65.05,67,97,77,78,36,36,70,91,8,6,1,3,6,2,Technical,Web,Logical,1,4,No,DBMS,Backend Developer
+S0130,20,Other,74.08,76.07,43,65,74,57,43,73,78,88,6,6,4,2,1,5,Technical,Security,Logical,2,4,Yes,Math,Junior ML Engineer
+S0839,20,Male,74.07,67.99,72,71,70,79,75,43,80,88,9,6,2,5,2,3,Technical,Web,Analytical,2,4,No,Web,Quality Assurance Tester
+S0219,18,Male,78.67,95.59,88,76,56,90,61,53,58,80,2,6,9,6,3,6,Technical,AI-ML,Logical,1,3,No,Python,AI/ML Engineer Trainee
+S0895,22,Female,69.46,81.43,54,74,87,57,67,85,79,88,4,4,2,9,5,1,Management,Data,Leader,3,2,No,DBMS,Junior Business Analyst
+S0980,22,Female,72.37,82.99,93,75,89,97,46,44,57,85,2,2,3,3,4,9,Technical,Cloud,Logical,2,2,No,DBMS,Junior DevOps Engineer
+S0759,19,Male,68.25,90.87,63,43,86,41,79,57,71,67,6,3,1,2,6,2,Creative,Security,Creative,4,3,No,DBMS,UI/UX Designer
+S0899,18,Male,82.53,74.94,67,53,89,86,68,96,54,74,5,6,3,8,1,1,Management,Data,Leader,0,4,No,Statistics,Junior Business Analyst
+S0829,19,Male,82.86,65.39,85,100,80,63,81,43,90,80,8,1,2,6,3,1,Technical,Web,Analytical,4,5,Yes,Python,Quality Assurance Tester
+S0208,18,Female,85.56,66.37,84,72,75,89,80,34,58,99,8,5,4,6,3,6,Technical,AI-ML,Logical,4,3,No,Math,Junior ML Engineer
+S0470,19,Female,87.13,92.25,85,69,46,74,48,41,91,96,8,4,4,4,5,4,Technical,Web,Logical,0,4,No,Python,Backend Developer
+S0008,17,Male,86.66,62.61,100,51,69,84,60,63,84,80,2,5,8,4,5,4,Analytical,Data,Analytical,4,2,No,Statistics,Junior Data Scientist
+S0421,18,Female,95.12,65.71,70,78,57,68,79,30,52,58,4,8,6,4,2,1,Creative,Web,Creative,3,3,No,Web,Frontend Developer
+S0455,18,Male,85.2,58.18,97,75,68,85,46,66,97,76,8,6,3,3,5,2,Technical,Web,Logical,1,1,Yes,DBMS,Backend Developer
+S0088,17,Female,87.15,71.19,82,71,82,87,79,47,78,81,1,1,10,2,6,3,Analytical,Data,Analytical,2,6,Yes,DBMS,Associate Data Analyst
+S1006,17,Female,71.16,71.68,91,71,85,86,60,72,71,78,2,5,9,5,6,4,Technical,Data,Logical,1,2,No,DBMS,Database Administrator
+S1011,19,Male,91.24,77.51,62,87,74,85,50,54,73,81,4,2,9,4,2,2,Technical,Data,Logical,2,1,No,DBMS,Database Administrator
+S0566,19,Male,68.89,80.4,89,75,94,93,85,67,98,73,10,3,5,4,3,5,Technical,Web,Logical,1,3,Yes,DBMS,Full Stack Developer
+S0361,17,Female,67.63,67.25,70,68,72,83,94,76,78,70,3,7,4,2,6,1,Creative,Web,Creative,1,0,Yes,Web,Frontend Developer
+S0047,23,Male,74.77,55.0,81,42,92,55,39,59,52,79,4,2,8,2,4,4,Analytical,Data,Analytical,2,3,Yes,Statistics,Junior Data Scientist
+S0164,21,Female,87.41,69.9,94,68,55,93,56,74,54,78,10,6,6,1,2,5,Technical,AI-ML,Logical,2,1,No,Python,Junior ML Engineer
+S0251,23,Female,76.04,72.87,60,74,82,78,62,79,60,74,5,2,8,6,1,5,Technical,AI-ML,Logical,2,3,No,Math,AI/ML Engineer Trainee
+S0722,21,Female,87.41,85.34,53,75,51,77,91,64,84,53,2,8,2,6,6,2,Creative,Web,Creative,5,1,No,Web,UI/UX Designer
+S0253,21,Female,87.32,75.93,73,78,58,71,85,61,88,84,4,1,10,3,3,4,Technical,AI-ML,Logical,1,2,No,Math,AI/ML Engineer Trainee
+S0800,20,Male,62.66,79.55,86,93,63,58,68,68,54,82,8,1,4,1,2,1,Technical,Web,Analytical,0,5,Yes,Python,Quality Assurance Tester
+S0889,21,Male,72.48,99.0,46,65,95,66,80,81,67,59,6,3,4,8,1,1,Management,Data,Leader,4,4,No,DBMS,Junior Business Analyst
+S1029,17,Male,87.67,83.69,73,75,90,85,52,55,64,72,5,1,10,4,5,3,Technical,Data,Logical,0,1,No,DBMS,Database Administrator
+S0923,19,Female,91.41,84.06,67,91,47,99,69,58,71,83,3,1,5,3,4,10,Technical,Cloud,Logical,1,4,No,DBMS,Junior DevOps Engineer
+S0080,19,Male,86.78,82.18,52,50,53,62,39,51,92,78,6,3,2,6,4,6,Analytical,Web,Analytical,4,1,No,DBMS,Associate Data Analyst
+S0498,22,Female,76.13,70.97,89,71,48,82,50,65,66,91,8,6,4,5,6,4,Technical,Web,Logical,2,5,Yes,DBMS,Full Stack Developer
+S0561,19,Male,66.1,84.49,97,66,93,73,54,73,98,89,9,3,2,4,4,6,Technical,Web,Logical,3,2,No,Web,Full Stack Developer
+S0333,17,Male,68.36,97.38,62,84,59,91,65,38,100,72,7,1,6,5,4,4,Technical,Web,Logical,2,2,No,Web,Junior Web Developer
+S0317,21,Male,76.4,86.24,65,54,64,46,69,43,90,80,6,3,2,1,1,3,Technical,Cloud,Logical,3,6,Yes,Python,Junior Web Developer
+S0804,20,Male,87.09,79.46,82,80,59,72,85,60,80,82,8,1,6,2,2,4,Technical,Web,Analytical,1,4,No,Python,Quality Assurance Tester
+S0736,19,Other,78.91,83.23,66,70,80,74,79,68,80,68,5,10,5,4,6,1,Creative,Web,Creative,2,3,Yes,Web,UI/UX Designer
+S0490,20,Female,76.99,76.69,68,67,66,99,64,41,53,80,10,3,1,4,1,5,Technical,Web,Logical,2,4,Yes,Python,Full Stack Developer
+S0402,18,Female,74.89,98.96,53,55,61,76,77,34,82,76,1,8,2,5,3,1,Creative,Web,Creative,3,2,No,Web,Frontend Developer
+S0433,22,Other,55.0,78.0,47,61,93,48,72,43,71,81,2,1,2,5,5,6,Technical,Data,Logical,1,2,No,Statistics,Backend Developer
+S0215,21,Male,73.59,81.09,72,93,67,81,71,36,77,90,1,5,10,1,1,5,Technical,AI-ML,Logical,1,4,No,Math,AI/ML Engineer Trainee
+S0805,20,Female,82.58,79.09,79,96,69,73,45,34,61,89,10,1,2,5,1,1,Technical,Web,Analytical,3,6,Yes,Web,Quality Assurance Tester
+S1042,17,Male,81.5,89.91,85,89,64,96,50,32,50,79,2,6,9,3,6,6,Technical,Data,Logical,1,3,No,DBMS,Database Administrator
+S0676,20,Female,84.6,74.46,75,92,79,90,65,39,77,87,2,3,2,5,9,4,Technical,Security,Logical,2,5,Yes,DBMS,Security Analyst Trainee
+S0535,19,Female,77.08,74.84,91,87,95,98,67,40,59,83,7,1,2,1,5,6,Technical,Web,Logical,1,1,No,DBMS,Full Stack Developer
+S0058,20,Female,86.72,77.34,98,74,94,84,81,77,87,92,1,2,8,1,3,5,Analytical,Data,Analytical,1,2,No,Statistics,Junior Data Scientist
+S0098,19,Male,78.27,67.22,91,69,61,66,85,43,57,98,6,5,8,5,3,1,Analytical,Data,Analytical,1,1,No,DBMS,Associate Data Analyst
+S0560,18,Female,88.41,79.46,88,71,72,73,57,39,70,81,8,3,2,6,3,6,Technical,Web,Logical,1,6,Yes,Web,Full Stack Developer
+S0892,20,Female,72.57,84.62,57,62,71,61,36,78,78,61,6,6,5,5,3,5,Management,Data,Leader,1,3,No,DBMS,Junior Business Analyst
+S0271,19,Female,63.95,86.33,74,69,53,84,52,30,100,76,5,4,8,3,1,5,Technical,AI-ML,Logical,1,1,No,Math,AI/ML Engineer Trainee
+S0043,20,Female,68.91,71.33,41,56,92,58,54,34,59,88,3,5,2,1,2,4,Analytical,Security,Analytical,0,1,No,Statistics,Junior Data Scientist
+S0793,18,Female,85.94,75.93,81,82,93,75,51,69,91,86,10,1,2,4,6,3,Technical,Web,Analytical,1,4,No,Web,Quality Assurance Tester
+S1001,20,Female,73.77,79.43,77,89,62,75,50,72,82,71,3,6,7,5,1,2,Technical,Data,Logical,0,3,No,DBMS,Database Administrator
+S0042,21,Female,91.65,96.5,66,73,84,81,71,76,76,86,1,1,10,2,2,2,Analytical,Data,Analytical,3,3,No,Statistics,Junior Data Scientist
+S0991,21,Male,80.97,85.26,99,83,81,83,85,66,88,70,3,4,8,4,5,3,Technical,Data,Logical,1,2,No,DBMS,Database Administrator
+S0692,18,Male,80.96,79.94,64,75,75,91,47,33,85,75,2,2,6,2,7,5,Technical,Security,Logical,1,3,No,DBMS,Security Analyst Trainee
+S0653,18,Other,64.04,88.28,69,72,70,85,53,76,75,77,5,5,4,2,8,2,Technical,Security,Logical,0,4,No,DBMS,Security Analyst Trainee
+S0305,20,Male,77.74,83.41,61,95,56,79,77,79,51,91,9,1,2,2,5,2,Technical,Web,Logical,1,4,No,Web,Junior Web Developer
+S0151,19,Female,84.87,68.34,79,92,85,79,40,40,62,85,7,3,6,1,6,2,Technical,AI-ML,Logical,3,4,No,Math,Junior ML Engineer
+S0589,20,Male,83.05,94.42,88,94,78,89,72,69,81,93,4,6,1,3,5,10,Technical,Cloud,Logical,1,4,No,DBMS,Cloud Operations Engineer
+S0752,17,Male,92.49,99.0,74,43,61,58,76,56,76,54,6,9,1,3,3,1,Creative,Web,Creative,1,1,Yes,Web,UI/UX Designer
+S0668,21,Female,93.13,75.97,75,69,83,95,63,74,88,97,2,6,3,1,9,2,Technical,Security,Logical,0,0,No,DBMS,Security Analyst Trainee
+S0222,17,Male,97.18,88.85,99,87,77,77,71,52,57,77,5,1,7,3,6,1,Technical,AI-ML,Logical,1,0,No,Python,AI/ML Engineer Trainee
+S0715,19,Female,88.24,68.91,49,65,62,66,79,35,61,50,3,8,3,2,1,5,Creative,Web,Creative,3,4,Yes,Web,UI/UX Designer
+S0287,21,Male,92.12,83.39,76,99,54,78,54,37,69,78,6,1,8,6,1,2,Technical,AI-ML,Logical,3,3,No,Python,AI/ML Engineer Trainee
+S0860,21,Female,79.04,72.47,55,47,97,89,61,81,86,52,3,2,1,7,5,1,Management,Data,Leader,1,3,No,DBMS,Junior Business Analyst
+S1044,17,Male,85.66,90.08,58,49,52,42,65,52,52,79,1,6,6,5,4,2,Technical,Data,Logical,3,1,No,Statistics,Database Administrator
+S0952,17,Male,79.72,71.14,61,67,53,85,43,37,88,83,3,6,3,3,3,7,Technical,Cloud,Logical,5,3,No,DBMS,Junior DevOps Engineer
+S0414,21,Female,76.03,84.38,52,66,57,89,87,71,65,75,1,9,5,3,4,3,Creative,Web,Creative,2,4,No,Web,Frontend Developer
+S0141,18,Female,87.32,76.66,96,92,69,99,75,66,69,87,7,4,2,6,5,4,Technical,AI-ML,Logical,2,7,Yes,Math,Junior ML Engineer
+S0687,17,Male,73.62,71.94,69,89,92,78,45,30,97,99,5,4,2,4,9,3,Technical,Security,Logical,1,5,Yes,DBMS,Security Analyst Trainee
+S0364,21,Male,77.39,86.28,85,72,80,80,86,63,90,73,3,10,4,2,2,1,Creative,Web,Creative,2,5,Yes,Web,Frontend Developer
+S0939,17,Female,60.58,65.26,65,58,69,61,49,63,99,81,4,6,6,3,1,2,Technical,Security,Logical,5,2,No,Math,Junior DevOps Engineer
+S0877,18,Female,86.91,77.71,76,50,86,82,68,78,80,50,3,1,2,7,4,1,Management,Data,Leader,4,2,No,DBMS,Junior Business Analyst
+S0905,19,Female,75.82,75.72,75,75,85,81,64,75,90,88,5,2,1,7,2,2,Management,Data,Leader,2,2,No,Statistics,Junior Business Analyst
+S0922,20,Female,80.31,82.48,83,73,93,76,45,73,79,73,4,5,3,2,4,8,Technical,Cloud,Logical,0,5,Yes,DBMS,Junior DevOps Engineer
+S0340,20,Female,78.39,67.87,86,83,90,100,41,33,69,77,9,3,1,5,5,6,Technical,Web,Logical,1,3,No,Web,Junior Web Developer
+S0403,18,Male,89.47,85.83,57,66,77,55,75,61,63,78,4,9,1,6,3,5,Creative,Web,Creative,3,4,Yes,Web,Frontend Developer
+S0511,17,Male,76.65,67.36,92,81,74,93,42,58,58,81,7,1,1,1,6,3,Technical,Web,Logical,2,4,Yes,Python,Full Stack Developer
+S0728,20,Male,75.48,65.82,53,43,89,68,78,74,94,55,5,10,3,1,2,5,Creative,Web,Creative,1,0,No,Web,UI/UX Designer
+S0988,21,Female,83.21,73.21,80,93,89,80,64,55,66,81,4,4,1,5,5,10,Technical,Cloud,Logical,4,5,Yes,Python,Junior DevOps Engineer
+S0644,19,Male,69.73,69.47,71,97,82,70,38,46,67,71,3,4,1,6,10,3,Technical,Security,Logical,1,2,Yes,DBMS,Security Analyst Trainee
+S0172,19,Female,95.51,73.64,87,75,87,99,80,61,63,76,10,3,2,4,5,1,Technical,AI-ML,Logical,3,6,Yes,Math,Junior ML Engineer
+S0108,21,Female,68.19,87.89,95,77,69,79,75,41,99,82,2,1,8,2,3,5,Analytical,Data,Analytical,4,3,No,DBMS,Associate Data Analyst
+S0853,17,Female,75.66,80.75,63,77,77,76,61,41,80,75,9,5,6,1,1,5,Technical,Web,Analytical,0,2,Yes,Web,Quality Assurance Tester
+S0387,21,Female,87.02,75.16,85,73,72,57,86,39,71,87,1,9,4,3,6,5,Creative,Web,Creative,2,2,No,Web,Frontend Developer
+S1021,17,Female,65.69,55.92,93,86,94,88,84,53,97,80,3,1,8,4,1,1,Technical,Data,Logical,1,5,Yes,DBMS,Database Administrator
+S0046,17,Male,90.28,75.95,65,60,65,70,84,76,55,71,6,2,6,5,6,4,Analytical,AI-ML,Analytical,2,2,Yes,Web,Junior Data Scientist
+S0904,22,Female,85.07,81.53,73,71,72,67,70,94,83,52,1,5,6,9,4,1,Management,Data,Leader,1,4,Yes,DBMS,Junior Business Analyst
+S0627,20,Female,86.05,92.31,63,97,57,71,46,33,100,77,3,1,6,1,2,10,Technical,Cloud,Logical,4,4,No,Python,Cloud Operations Engineer
+S0266,17,Male,68.72,76.26,40,55,94,68,85,62,50,81,4,2,3,2,3,3,Technical,Data,Logical,1,2,Yes,Math,AI/ML Engineer Trainee
+S0691,19,Female,81.99,70.91,60,42,94,64,45,68,51,98,6,6,3,2,2,4,Technical,Data,Logical,1,1,Yes,Statistics,Security Analyst Trainee
+S0808,18,Female,76.61,90.99,60,87,93,68,71,55,89,87,10,6,2,2,3,3,Technical,Web,Analytical,1,4,No,Python,Quality Assurance Tester
+S0028,19,Female,74.57,68.78,66,68,51,85,76,48,89,72,3,5,9,2,3,5,Analytical,Data,Analytical,3,2,Yes,Python,Junior Data Scientist
+S0259,22,Female,76.38,83.94,43,62,49,44,36,42,58,100,5,6,3,4,2,6,Technical,AI-ML,Logical,2,3,Yes,Math,AI/ML Engineer Trainee
+S0940,20,Male,84.73,69.93,85,75,49,75,60,34,77,74,1,5,1,1,2,9,Technical,Cloud,Logical,3,3,No,Python,Junior DevOps Engineer
+S0702,19,Female,68.06,80.57,64,66,72,70,94,37,85,59,3,9,2,1,6,1,Creative,Web,Creative,2,5,Yes,Web,UI/UX Designer
+S0071,17,Female,87.85,80.34,77,76,72,55,58,57,93,93,3,1,9,3,3,6,Analytical,Data,Analytical,1,2,No,DBMS,Associate Data Analyst
+S0497,18,Other,80.21,99.0,97,65,50,91,84,36,88,72,7,6,6,6,2,6,Technical,Web,Logical,2,2,No,DBMS,Full Stack Developer
+S0985,17,Male,76.27,63.88,80,75,87,78,36,73,69,100,4,2,6,6,1,8,Technical,Cloud,Logical,4,3,No,DBMS,Junior DevOps Engineer
+S0925,20,Male,90.41,84.41,75,89,57,73,37,40,53,79,4,3,5,1,1,8,Technical,Cloud,Logical,1,3,No,DBMS,Junior DevOps Engineer
+S0707,22,Male,84.64,85.12,74,57,64,81,98,46,74,60,2,9,3,2,2,1,Creative,Web,Creative,1,2,Yes,Web,UI/UX Designer
+S0085,17,Female,77.94,88.69,67,53,70,69,70,40,83,84,5,5,8,1,6,6,Analytical,Data,Analytical,3,0,Yes,Statistics,Associate Data Analyst
+S0783,17,Male,75.55,96.99,82,66,47,82,59,63,89,97,9,5,2,4,6,3,Technical,Web,Analytical,1,3,No,Python,Quality Assurance Tester
+S0977,22,Female,68.35,73.72,78,87,77,99,37,30,51,90,5,1,3,1,3,8,Technical,Cloud,Logical,0,2,No,Python,Junior DevOps Engineer
+S0291,19,Male,90.24,76.08,70,70,90,96,76,41,85,98,6,2,9,4,4,1,Technical,AI-ML,Logical,1,7,Yes,Math,AI/ML Engineer Trainee
+S0484,19,Male,81.98,69.75,89,94,65,100,84,61,97,92,7,2,4,5,6,5,Technical,Web,Logical,3,2,No,Python,Backend Developer
+S0039,17,Female,86.38,55.0,57,48,83,41,35,66,96,98,5,4,3,6,1,5,Analytical,Data,Analytical,1,4,No,Statistics,Junior Data Scientist
+S0477,20,Female,93.8,71.04,76,86,85,87,64,33,67,100,7,4,1,1,6,1,Technical,Web,Logical,7,2,Yes,Python,Backend Developer
+S0699,20,Male,71.8,64.65,45,59,48,45,99,41,82,87,6,5,4,4,2,5,Creative,Cloud,Creative,2,5,Yes,DBMS,UI/UX Designer
+S0200,19,Female,90.15,84.72,64,67,46,86,60,54,55,77,10,5,4,3,5,2,Technical,AI-ML,Logical,0,4,No,Python,Junior ML Engineer
+S0509,19,Male,99.0,57.65,63,70,68,88,42,73,87,80,10,2,3,5,3,1,Technical,Web,Logical,2,2,No,DBMS,Full Stack Developer
+S0915,17,Male,76.89,86.04,73,69,77,78,83,92,86,82,4,6,1,7,2,3,Management,Data,Leader,0,4,No,Statistics,Junior Business Analyst
+S0056,17,Male,87.59,68.47,78,70,92,60,73,51,70,76,3,1,7,4,4,2,Analytical,Data,Analytical,1,2,No,Statistics,Junior Data Scientist
+S0461,20,Female,71.27,75.78,84,90,93,70,56,45,64,96,7,3,1,6,2,6,Technical,Web,Logical,3,1,No,DBMS,Backend Developer
+S0102,20,Male,84.26,60.9,43,42,59,59,84,79,84,70,2,3,4,4,4,3,Analytical,Cloud,Analytical,2,3,No,Web,Associate Data Analyst
+S0956,18,Female,80.95,87.86,85,76,91,90,70,70,53,94,4,6,2,4,2,10,Technical,Cloud,Logical,1,1,No,DBMS,Junior DevOps Engineer
+S0587,22,Male,91.35,57.36,67,75,82,87,65,72,82,97,5,3,4,2,6,7,Technical,Cloud,Logical,4,0,No,DBMS,Cloud Operations Engineer
+S0309,17,Male,82.18,84.25,100,76,58,71,40,40,96,89,9,4,4,5,4,1,Technical,Web,Logical,3,3,No,Python,Junior Web Developer
+S0078,19,Male,87.19,77.67,99,48,79,80,58,57,94,71,6,4,10,6,5,5,Analytical,Data,Analytical,3,4,No,Statistics,Associate Data Analyst
+S0607,20,Other,61.35,81.59,90,77,78,94,81,76,70,75,2,2,2,3,4,9,Technical,Cloud,Logical,4,5,Yes,Python,Cloud Operations Engineer
+S0792,18,Male,84.61,59.94,84,73,94,56,61,54,59,93,8,5,4,1,6,6,Technical,Web,Analytical,4,2,No,Python,Quality Assurance Tester
+S0186,17,Male,84.48,73.2,99,83,79,73,53,63,88,79,9,2,5,2,4,1,Technical,AI-ML,Logical,1,4,No,Math,Junior ML Engineer
+S0061,20,Female,70.42,74.42,100,71,86,83,37,40,84,96,2,2,10,1,1,1,Analytical,Data,Analytical,1,6,Yes,DBMS,Associate Data Analyst
+S0300,21,Female,71.79,72.47,75,75,83,88,61,79,75,97,9,3,6,1,3,5,Technical,Web,Logical,3,3,No,Python,Junior Web Developer
+S0613,20,Female,69.76,78.16,61,53,55,67,83,45,99,84,5,4,6,2,3,4,Technical,Cloud,Logical,1,1,No,Statistics,Cloud Operations Engineer
+S0700,19,Male,79.12,60.51,45,78,73,73,97,60,90,68,1,9,5,4,5,4,Creative,Web,Creative,1,7,Yes,Web,UI/UX Designer
+S0428,21,Male,84.32,55.0,68,71,82,82,63,68,88,75,10,5,6,6,2,6,Technical,Web,Logical,2,4,No,Python,Backend Developer
+S0666,22,Male,94.57,76.82,82,70,91,95,67,74,75,75,2,1,3,1,7,4,Technical,Security,Logical,4,4,No,DBMS,Security Analyst Trainee
+S0530,20,Male,80.46,60.02,64,98,70,74,60,41,69,75,9,6,2,3,4,2,Technical,Web,Logical,5,3,No,Web,Full Stack Developer
+S0143,20,Female,82.39,93.25,77,72,50,93,71,72,93,89,8,1,5,2,2,6,Technical,AI-ML,Logical,5,2,No,Python,Junior ML Engineer
+S0033,18,Male,83.91,63.76,60,45,50,63,62,53,54,90,5,2,8,1,1,4,Analytical,Data,Analytical,0,3,No,Math,Junior Data Scientist
+S0604,17,Male,62.75,87.46,96,97,83,86,44,70,82,80,2,2,2,1,6,9,Technical,Cloud,Logical,3,3,No,DBMS,Cloud Operations Engineer
+S0640,18,Male,67.38,77.37,93,85,71,78,64,48,78,80,4,1,1,5,8,6,Technical,Security,Logical,2,6,Yes,DBMS,Security Analyst Trainee
+S0458,18,Male,90.6,89.35,87,69,67,70,52,51,91,71,10,1,4,5,3,5,Technical,Web,Logical,0,3,No,DBMS,Backend Developer
+S0370,18,Male,75.63,66.16,69,61,65,88,81,60,83,74,6,9,1,1,3,2,Creative,Web,Creative,4,3,No,Web,Frontend Developer
+S0038,19,Female,65.18,73.75,84,52,68,90,80,73,55,82,4,1,10,6,5,6,Analytical,Data,Analytical,0,2,No,Math,Junior Data Scientist
+S0965,20,Male,80.66,63.98,75,94,91,72,70,73,91,78,6,2,3,5,1,9,Technical,Cloud,Logical,0,1,No,DBMS,Junior DevOps Engineer
+S0864,20,Female,76.13,65.87,48,54,86,90,60,100,67,64,5,3,2,10,5,6,Management,Data,Leader,1,2,No,Statistics,Junior Business Analyst
+S0073,22,Male,71.51,73.02,45,59,92,59,35,34,75,74,5,6,2,2,3,4,Analytical,AI-ML,Analytical,2,4,Yes,Web,Associate Data Analyst
+S0241,20,Male,63.85,79.53,86,70,69,88,75,40,68,79,1,1,10,2,4,4,Technical,AI-ML,Logical,3,2,Yes,Python,AI/ML Engineer Trainee
+S0462,20,Female,76.41,64.7,77,73,66,85,36,42,82,77,9,1,6,3,6,5,Technical,Web,Logical,2,1,Yes,Python,Backend Developer
+S0914,20,Male,87.13,83.04,77,56,93,88,58,99,89,78,4,1,5,10,2,1,Management,Data,Leader,2,2,No,DBMS,Junior Business Analyst
+S0883,19,Male,75.31,65.04,80,57,89,56,54,87,61,75,2,5,4,7,3,4,Management,Data,Leader,3,4,No,Statistics,Junior Business Analyst
+S0745,21,Male,88.77,73.78,54,54,71,56,100,61,63,72,3,10,6,5,1,5,Creative,Web,Creative,4,5,Yes,Web,UI/UX Designer
+S0439,17,Female,82.78,75.77,70,93,70,73,52,36,93,97,9,4,6,3,1,1,Technical,Web,Logical,3,2,Yes,Python,Backend Developer
+S0400,18,Female,65.86,65.31,57,58,76,65,81,31,86,64,3,8,2,2,6,6,Creative,Web,Creative,1,4,No,Web,Frontend Developer
+S0233,20,Male,82.76,94.25,72,70,52,92,37,68,82,100,6,2,10,3,1,2,Technical,AI-ML,Logical,2,4,No,Math,AI/ML Engineer Trainee
+S0191,19,Other,86.18,63.98,82,85,75,95,57,38,98,87,7,5,2,4,2,4,Technical,AI-ML,Logical,2,1,No,Python,Junior ML Engineer
+S0600,20,Male,79.4,66.07,93,79,64,96,70,72,76,81,4,5,3,6,5,7,Technical,Cloud,Logical,3,2,No,Python,Cloud Operations Engineer
+S0206,20,Female,81.07,82.69,69,71,52,78,36,45,88,90,7,1,1,6,2,3,Technical,AI-ML,Logical,5,4,No,Math,Junior ML Engineer
+S0771,21,Female,81.18,74.87,74,77,89,86,79,79,55,96,9,4,1,2,5,1,Technical,Web,Analytical,0,2,No,Web,Quality Assurance Tester
+S0928,22,Female,76.69,93.63,85,66,48,73,49,54,96,95,5,1,5,4,3,9,Technical,Cloud,Logical,0,1,Yes,Python,Junior DevOps Engineer
+S0628,20,Male,76.92,62.4,63,96,66,94,54,67,74,79,6,4,6,3,1,7,Technical,Cloud,Logical,1,3,No,DBMS,Cloud Operations Engineer
+S0737,19,Female,75.5,73.96,68,41,95,88,78,69,78,67,2,7,3,6,5,3,Creative,Web,Creative,3,4,No,Web,UI/UX Designer
+S0987,19,Female,82.1,91.67,97,75,93,93,62,45,75,93,4,5,5,6,3,7,Technical,Cloud,Logical,3,3,No,Python,Junior DevOps Engineer
+S0189,19,Female,61.54,56.83,70,54,54,40,36,37,68,94,1,2,3,2,3,3,Technical,Web,Logical,2,1,Yes,Python,Junior ML Engineer
+S0044,21,Male,82.39,79.37,82,42,72,69,81,33,68,100,1,4,10,5,1,4,Analytical,Data,Analytical,1,4,No,Python,Junior Data Scientist
+S0559,20,Female,72.28,76.58,77,72,64,100,39,31,79,85,10,6,6,3,4,3,Technical,Web,Logical,2,3,No,Python,Full Stack Developer
+S0371,21,Male,66.99,99.0,65,68,90,48,86,77,74,82,3,6,1,4,2,5,Creative,AI-ML,Creative,2,4,No,Math,Frontend Developer
+S0378,19,Female,76.95,84.71,61,56,82,69,83,64,90,51,2,10,5,6,3,6,Creative,Web,Creative,0,1,No,Web,Frontend Developer
+S0733,22,Female,69.43,82.3,63,46,45,56,84,67,73,82,6,9,5,5,2,2,Creative,Web,Creative,1,4,No,Web,UI/UX Designer
+S0286,19,Female,79.78,73.87,79,96,66,80,55,50,69,84,4,1,10,4,1,1,Technical,AI-ML,Logical,4,2,No,Python,AI/ML Engineer Trainee
+S0366,20,Male,82.52,71.85,67,79,65,77,84,72,75,54,2,10,1,1,5,5,Creative,Web,Creative,4,0,No,Web,Frontend Developer
+S0100,19,Female,84.72,60.87,78,53,48,63,78,52,83,74,2,3,10,5,2,5,Analytical,Data,Analytical,1,2,No,Statistics,Associate Data Analyst
+S0334,20,Female,69.93,71.93,83,88,84,85,58,67,66,83,10,6,1,1,4,3,Technical,Web,Logical,0,1,Yes,Python,Junior Web Developer
+S0579,18,Male,82.61,84.47,72,82,69,75,53,75,58,70,6,4,5,5,3,7,Technical,Cloud,Logical,0,1,No,Python,Cloud Operations Engineer
+S0776,21,Female,89.32,79.89,40,57,55,44,80,65,77,82,6,6,5,2,6,6,Technical,Data,Analytical,0,3,No,Statistics,Quality Assurance Tester
+S0027,18,Male,72.47,83.24,41,69,93,52,35,59,71,80,4,4,1,6,3,3,Analytical,Security,Analytical,1,1,No,Python,Junior Data Scientist
+S1047,19,Male,75.31,94.82,93,76,89,75,54,38,56,94,3,1,9,1,5,1,Technical,Data,Logical,1,5,Yes,DBMS,Database Administrator
+S0545,19,Male,69.52,69.18,72,97,49,71,48,64,50,72,9,2,6,5,5,2,Technical,Web,Logical,0,4,No,Python,Full Stack Developer
+S0295,23,Female,81.42,83.24,61,78,53,87,54,34,67,91,10,5,4,1,3,5,Technical,Web,Logical,2,3,No,Web,Junior Web Developer
+S0630,19,Female,88.83,89.34,66,76,62,81,76,74,68,90,3,1,4,2,3,10,Technical,Cloud,Logical,2,7,Yes,Python,Cloud Operations Engineer
+S0148,20,Female,83.34,67.07,94,76,88,73,55,61,77,72,8,2,1,1,5,3,Technical,AI-ML,Logical,1,3,No,Python,Junior ML Engineer
+S0869,21,Female,76.19,78.35,58,47,85,89,52,93,71,90,1,5,3,9,1,3,Management,Data,Leader,1,4,No,DBMS,Junior Business Analyst
+S0182,20,Female,72.21,80.38,94,82,45,85,81,48,53,81,9,1,4,6,2,6,Technical,AI-ML,Logical,2,4,No,Python,Junior ML Engineer
+S0474,17,Female,61.57,90.58,79,77,91,93,50,73,66,98,10,1,6,4,4,6,Technical,Web,Logical,2,2,No,Python,Backend Developer
+S0598,19,Male,79.18,79.63,92,65,76,98,80,54,66,99,5,5,3,6,4,10,Technical,Cloud,Logical,1,4,No,Python,Cloud Operations Engineer
+S0352,22,Male,69.39,99.0,98,77,94,99,45,53,91,99,10,6,4,5,3,4,Technical,Web,Logical,0,0,No,Web,Junior Web Developer
+S0003,20,Female,67.12,84.7,96,63,91,57,49,45,96,76,2,5,9,3,4,4,Analytical,Data,Analytical,4,6,Yes,Python,Junior Data Scientist
+S0955,25,Male,93.54,71.29,75,91,73,80,48,72,75,75,2,3,1,6,4,9,Technical,Cloud,Logical,1,5,Yes,Python,Junior DevOps Engineer
+S0720,17,Other,60.99,90.81,56,68,59,89,100,41,60,72,5,9,3,3,2,3,Creative,Web,Creative,1,0,Yes,Web,UI/UX Designer
+S0294,19,Male,73.13,66.09,88,81,49,83,65,55,79,82,10,6,4,5,5,2,Technical,Web,Logical,3,3,No,Python,Junior Web Developer
+S0218,20,Male,83.62,80.81,95,95,57,98,65,39,58,72,2,1,10,6,2,2,Technical,AI-ML,Logical,3,2,No,Python,AI/ML Engineer Trainee
+S0363,18,Male,84.98,72.29,73,47,80,60,94,30,65,74,1,8,2,6,3,1,Creative,Web,Creative,3,2,No,Web,Frontend Developer
+S0974,19,Male,68.13,72.5,73,75,75,84,59,79,70,74,2,4,6,6,5,9,Technical,Cloud,Logical,0,2,No,Python,Junior DevOps Engineer
+S0451,20,Other,81.37,95.75,65,78,66,81,82,61,51,92,8,5,5,1,1,6,Technical,Web,Logical,2,4,No,DBMS,Backend Developer
+S0867,23,Female,78.25,81.09,54,74,72,67,68,79,87,75,3,1,5,7,2,5,Management,Data,Leader,3,7,Yes,Statistics,Junior Business Analyst
+S0741,18,Male,91.81,81.21,59,64,85,88,86,30,82,68,1,7,1,5,5,5,Creative,Web,Creative,2,0,No,Web,UI/UX Designer
+S0409,22,Male,81.37,87.06,62,44,46,69,88,58,74,70,1,7,4,5,3,2,Creative,Web,Creative,0,2,No,Web,Frontend Developer
+S0571,23,Female,85.24,74.38,75,84,61,95,36,34,86,87,4,6,1,2,2,8,Technical,Cloud,Logical,1,3,No,Python,Cloud Operations Engineer
+S0252,21,Male,92.81,79.2,79,100,52,76,85,76,60,77,5,2,7,4,5,5,Technical,AI-ML,Logical,1,1,Yes,Math,AI/ML Engineer Trainee
+S0713,17,Female,87.52,93.83,69,76,54,82,99,40,58,83,6,10,4,5,6,5,Creative,Web,Creative,3,6,Yes,Web,UI/UX Designer
+S1040,19,Female,78.02,93.3,82,98,74,93,35,59,73,83,1,1,7,6,1,1,Technical,Data,Logical,1,1,No,DBMS,Database Administrator
+S0521,19,Female,79.38,99.0,73,80,71,87,57,65,51,85,10,2,6,1,2,5,Technical,Web,Logical,1,4,No,Python,Full Stack Developer
+S0836,20,Male,94.54,92.11,97,97,63,84,62,44,78,94,9,5,5,6,5,3,Technical,Web,Analytical,1,2,No,Python,Quality Assurance Tester
+S0531,21,Male,76.94,69.05,84,95,46,99,45,46,75,100,10,3,2,5,2,1,Technical,Web,Logical,0,4,No,Python,Full Stack Developer
+S0483,21,Male,69.74,65.32,93,67,69,84,78,55,56,82,9,5,3,2,4,4,Technical,Web,Logical,3,0,No,DBMS,Backend Developer
+S0091,20,Female,82.98,68.5,63,40,83,83,58,31,73,88,2,5,8,1,4,4,Analytical,Data,Analytical,1,2,Yes,Statistics,Associate Data Analyst
+S0674,19,Male,80.9,88.01,60,65,89,78,64,46,99,96,2,3,6,2,10,2,Technical,Security,Logical,1,3,No,DBMS,Security Analyst Trainee
+S0456,20,Male,75.52,95.45,60,71,73,83,62,50,54,97,9,2,6,4,6,3,Technical,Web,Logical,2,2,No,Python,Backend Developer
+S0791,19,Female,81.68,72.02,70,82,51,73,36,67,50,82,7,6,4,3,3,6,Technical,Web,Analytical,3,4,No,Web,Quality Assurance Tester
+S0969,21,Female,87.91,89.11,84,99,63,72,39,46,97,70,2,3,6,5,4,10,Technical,Cloud,Logical,3,5,Yes,DBMS,Junior DevOps Engineer
+S0472,20,Female,76.06,91.12,74,65,48,86,45,35,62,71,10,3,1,3,3,3,Technical,Web,Logical,2,1,Yes,DBMS,Backend Developer
+S0473,18,Female,82.22,82.09,67,65,72,89,85,37,63,74,10,1,6,5,5,2,Technical,Web,Logical,3,6,Yes,DBMS,Backend Developer
+S0067,20,Male,77.22,69.37,73,40,67,76,71,42,89,86,1,5,7,1,3,6,Analytical,Data,Analytical,2,3,Yes,Statistics,Associate Data Analyst
+S0857,19,Female,86.39,77.96,59,80,84,88,40,71,91,58,2,5,3,8,1,1,Management,Data,Leader,1,3,No,DBMS,Junior Business Analyst
+S0198,22,Female,74.68,95.28,87,74,83,99,70,62,52,91,10,3,4,6,6,3,Technical,AI-ML,Logical,1,1,No,Python,Junior ML Engineer
+S0993,19,Male,62.51,73.36,75,99,49,71,70,33,76,100,5,2,7,3,2,1,Technical,Data,Logical,1,4,No,DBMS,Database Administrator
+S0314,24,Female,92.43,90.53,75,84,92,83,60,53,94,100,8,2,3,6,6,3,Technical,Web,Logical,5,3,No,Web,Junior Web Developer
+S0496,18,Female,74.47,81.22,100,96,50,82,37,73,80,90,8,4,2,4,1,1,Technical,Web,Logical,2,3,No,DBMS,Full Stack Developer
+S0089,22,Male,85.27,79.93,99,64,60,68,55,72,88,89,2,2,8,1,2,3,Analytical,Data,Analytical,3,3,No,DBMS,Associate Data Analyst
+S0324,21,Female,83.95,89.03,98,95,77,89,65,79,87,86,10,5,3,1,3,5,Technical,Web,Logical,1,3,No,Python,Junior Web Developer
+S0045,21,Male,76.18,63.34,93,48,64,71,72,31,87,81,5,1,8,3,2,3,Analytical,Data,Analytical,1,5,Yes,Statistics,Junior Data Scientist
+S0471,20,Female,83.04,63.81,80,75,47,84,83,56,98,87,8,1,4,3,2,6,Technical,Web,Logical,3,3,No,Python,Backend Developer
+S0898,19,Other,91.89,75.65,59,79,78,70,46,92,89,86,2,6,5,10,2,5,Management,Data,Leader,5,5,Yes,Statistics,Junior Business Analyst
+S0066,22,Female,82.97,86.55,81,65,47,60,46,72,55,86,2,2,8,5,1,2,Analytical,Data,Analytical,0,4,No,Statistics,Associate Data Analyst
+S0197,20,Male,73.7,77.2,92,69,66,73,38,40,83,77,7,6,4,4,1,5,Technical,AI-ML,Logical,2,3,No,Python,Junior ML Engineer
+S0534,18,Male,74.96,57.45,89,100,87,90,65,30,65,75,7,5,5,6,1,1,Technical,Web,Logical,3,1,No,DBMS,Full Stack Developer
+S0040,22,Female,71.22,70.87,61,75,82,70,45,60,72,73,2,2,10,2,6,6,Analytical,Data,Analytical,3,4,Yes,Math,Junior Data Scientist
+S0633,19,Male,73.22,72.69,96,71,63,90,50,77,50,80,1,2,1,6,4,8,Technical,Cloud,Logical,0,3,No,DBMS,Cloud Operations Engineer
+S1032,20,Male,84.83,73.79,93,100,59,83,46,33,75,83,2,2,9,4,6,2,Technical,Data,Logical,3,4,No,DBMS,Database Administrator
+S0903,22,Male,79.21,73.18,57,52,87,73,48,86,100,80,5,1,6,9,1,3,Management,Data,Leader,3,3,No,DBMS,Junior Business Analyst
+S0686,22,Male,70.02,79.33,69,69,61,61,85,57,87,71,4,5,2,6,1,3,Technical,Web,Logical,4,1,No,Python,Security Analyst Trainee
+S0434,17,Female,73.18,63.65,65,94,54,90,63,79,94,86,8,6,2,5,4,3,Technical,Web,Logical,1,2,No,DBMS,Backend Developer
+S0963,19,Female,69.07,75.26,91,86,65,81,41,41,79,79,3,4,3,4,3,10,Technical,Cloud,Logical,2,3,No,Python,Junior DevOps Engineer
+S0801,19,Male,93.71,85.84,64,87,65,84,58,61,100,80,9,4,3,3,4,1,Technical,Web,Analytical,2,4,No,Web,Quality Assurance Tester
+S0077,20,Male,76.54,83.88,71,61,52,85,51,78,81,84,5,1,10,1,3,5,Analytical,Data,Analytical,3,2,Yes,Statistics,Associate Data Analyst
+S0711,19,Male,85.49,89.38,79,44,47,83,94,30,77,78,2,7,3,4,4,5,Creative,Web,Creative,3,2,No,Web,UI/UX Designer
+S0310,20,Male,92.02,76.01,70,88,88,72,41,72,79,74,7,5,4,4,1,1,Technical,Web,Logical,3,1,No,Web,Junior Web Developer
+S0872,22,Female,81.82,83.04,46,58,84,79,59,97,63,81,3,4,4,8,2,5,Management,Data,Leader,4,1,No,Statistics,Junior Business Analyst
+S0706,19,Female,81.5,80.89,52,43,45,43,79,74,68,87,6,3,4,5,3,2,Creative,Security,Creative,0,4,No,Web,UI/UX Designer
+S0697,19,Female,74.73,90.97,93,91,50,76,81,47,88,84,6,3,1,5,10,2,Technical,Security,Logical,6,4,Yes,DBMS,Security Analyst Trainee
+S0090,20,Male,78.53,73.86,96,72,88,67,83,31,59,75,3,1,7,3,2,6,Analytical,Data,Analytical,4,3,No,DBMS,Associate Data Analyst
+S0398,21,Male,82.61,79.34,85,53,76,64,82,49,54,79,4,9,4,6,2,4,Creative,Web,Creative,0,3,No,Web,Frontend Developer
+S0874,18,Female,73.9,74.43,60,46,81,69,57,81,97,65,3,1,6,2,3,5,Management,AI-ML,Leader,1,2,No,Python,Junior Business Analyst
+S0114,19,Male,93.28,86.86,74,44,48,78,79,32,86,73,4,1,9,6,6,1,Analytical,Data,Analytical,3,3,Yes,Statistics,Associate Data Analyst
+S0538,19,Male,90.43,55.0,89,90,80,89,43,73,95,73,10,6,2,5,3,2,Technical,Web,Logical,2,2,Yes,DBMS,Full Stack Developer
+S0284,19,Female,69.9,75.84,68,40,70,60,77,76,86,86,2,3,2,6,4,3,Technical,Web,Logical,0,2,No,Python,AI/ML Engineer Trainee
+S0528,19,Female,90.35,73.33,67,87,61,73,64,75,84,99,8,5,1,4,6,5,Technical,Web,Logical,2,2,No,DBMS,Full Stack Developer
+S0174,19,Female,80.42,57.1,75,74,51,89,82,35,53,78,8,5,4,4,2,5,Technical,AI-ML,Logical,1,2,No,Python,Junior ML Engineer
+S0581,20,Female,91.67,80.85,92,99,71,94,61,42,100,78,6,1,1,2,5,9,Technical,Cloud,Logical,2,2,No,DBMS,Cloud Operations Engineer
+S0416,19,Male,72.28,64.82,46,62,47,75,78,58,85,71,2,10,2,6,5,4,Creative,Web,Creative,2,4,Yes,Web,Frontend Developer
+S0137,17,Female,70.97,82.99,62,96,68,88,48,80,64,90,10,3,2,2,5,4,Technical,AI-ML,Logical,0,3,No,Python,Junior ML Engineer
+S0485,19,Male,75.43,83.57,70,100,69,84,61,78,76,87,10,1,1,6,5,1,Technical,Web,Logical,0,1,No,DBMS,Backend Developer
+S0656,21,Female,84.78,94.25,73,75,55,74,83,47,73,77,3,6,2,6,9,6,Technical,Security,Logical,1,4,Yes,DBMS,Security Analyst Trainee
+S0881,21,Female,83.26,83.42,67,45,97,56,39,77,85,71,4,4,6,9,4,3,Management,Data,Leader,4,7,Yes,DBMS,Junior Business Analyst
+S0037,21,Female,77.35,71.3,71,64,53,89,65,32,64,73,5,1,8,4,6,4,Analytical,Data,Analytical,1,3,No,Math,Junior Data Scientist
+S1027,21,Female,86.71,67.81,98,70,80,91,42,57,73,74,4,1,7,2,5,4,Technical,Data,Logical,1,3,No,DBMS,Database Administrator
+S0004,19,Male,63.85,87.69,95,51,63,57,64,59,54,84,4,4,8,2,1,2,Analytical,Data,Analytical,2,2,No,Python,Junior Data Scientist
+S0973,20,Female,84.3,84.79,71,94,67,72,78,41,89,80,1,5,5,3,2,7,Technical,Cloud,Logical,3,2,No,DBMS,Junior DevOps Engineer
+S0992,19,Female,86.51,78.88,49,63,56,50,52,78,62,85,1,4,1,2,6,5,Technical,AI-ML,Logical,2,6,Yes,Python,Database Administrator
+S0388,18,Male,68.44,82.63,57,73,59,64,95,74,91,71,5,8,4,2,6,6,Creative,Web,Creative,0,1,No,Web,Frontend Developer
+S0610,19,Female,77.03,86.9,81,86,46,94,46,30,76,84,1,1,5,4,6,7,Technical,Cloud,Logical,2,4,No,Python,Cloud Operations Engineer
+S0048,21,Female,77.65,79.51,99,42,65,82,53,77,90,82,1,4,10,3,1,5,Analytical,Data,Analytical,2,3,No,Math,Junior Data Scientist
+S0753,20,Male,80.24,76.74,69,47,61,62,86,70,93,56,4,3,6,5,4,6,Creative,Web,Creative,3,5,Yes,Python,UI/UX Designer
+S0001,19,Male,90.99,73.54,94,53,95,83,70,44,70,81,4,5,10,4,5,4,Analytical,Data,Analytical,1,3,No,Statistics,Junior Data Scientist
+S0689,18,Female,76.33,80.71,72,76,87,76,61,58,97,86,6,4,6,6,7,2,Technical,Security,Logical,2,1,Yes,DBMS,Security Analyst Trainee
+S0813,20,Male,76.36,64.75,90,72,48,81,38,42,55,87,8,3,1,5,5,4,Technical,Web,Analytical,3,4,Yes,Web,Quality Assurance Tester
+S0360,19,Male,73.56,72.98,55,70,59,65,80,65,92,76,4,7,2,1,5,4,Creative,Web,Creative,1,5,Yes,Web,Frontend Developer
+S0467,19,Male,90.88,74.47,67,72,54,81,69,57,58,90,8,2,5,3,3,3,Technical,Web,Logical,3,0,Yes,Python,Backend Developer
+S0524,19,Male,69.71,68.25,90,86,86,100,64,46,89,97,7,6,2,1,6,6,Technical,Web,Logical,7,2,No,DBMS,Full Stack Developer
+S0570,20,Male,94.76,81.31,97,70,80,100,60,61,85,93,2,2,1,5,3,8,Technical,Cloud,Logical,0,4,No,Python,Cloud Operations Engineer
+S0763,18,Male,83.27,79.53,72,60,45,73,92,38,54,72,2,10,4,2,4,6,Creative,Web,Creative,6,5,Yes,Web,UI/UX Designer
+S0441,18,Female,89.0,82.89,86,98,68,70,75,42,60,76,9,3,2,4,5,1,Technical,Web,Logical,5,5,Yes,DBMS,Backend Developer
+S1014,22,Female,78.22,73.86,78,67,49,89,68,67,66,77,3,6,7,2,6,2,Technical,Data,Logical,1,4,No,DBMS,Database Administrator
+S0503,17,Female,75.25,70.4,74,96,74,94,81,35,62,92,10,5,3,4,4,4,Technical,Web,Logical,1,2,Yes,Web,Full Stack Developer
+S0764,17,Female,80.51,82.38,46,48,74,73,84,79,56,62,1,8,1,3,1,1,Creative,Web,Creative,0,4,No,Web,UI/UX Designer
+S0307,21,Male,79.17,68.77,79,78,83,81,50,48,84,77,10,5,3,2,6,1,Technical,Web,Logical,4,5,Yes,Web,Junior Web Developer
+S0552,19,Male,73.75,66.01,73,74,85,80,81,60,81,100,10,6,3,6,5,4,Technical,Web,Logical,3,3,No,DBMS,Full Stack Developer
+S0074,23,Female,77.92,71.2,61,61,92,86,68,60,96,96,3,2,7,3,6,1,Analytical,Data,Analytical,2,4,No,Statistics,Associate Data Analyst
+S1038,19,Female,88.29,78.94,66,100,81,81,58,79,86,73,2,2,8,6,6,5,Technical,Data,Logical,1,1,No,DBMS,Database Administrator
+S0079,23,Male,88.45,86.44,91,43,76,60,76,61,74,95,3,5,10,1,5,1,Analytical,Data,Analytical,1,1,No,Statistics,Associate Data Analyst
+S0119,22,Female,73.17,68.88,65,46,88,76,82,64,81,76,1,1,8,2,3,4,Analytical,Data,Analytical,2,4,Yes,Statistics,Associate Data Analyst
+S0327,19,Male,76.58,77.45,66,80,53,97,49,48,57,82,9,2,4,6,2,1,Technical,Web,Logical,1,2,No,Python,Junior Web Developer
+S0075,21,Female,85.2,85.24,77,48,65,70,59,36,71,88,5,2,10,6,6,6,Analytical,Data,Analytical,2,2,No,Statistics,Associate Data Analyst
+S0049,21,Male,64.08,97.77,100,73,56,69,53,55,97,74,3,4,8,1,4,2,Analytical,Data,Analytical,5,4,No,Python,Junior Data Scientist
+S1048,22,Female,80.72,74.77,82,84,70,95,55,74,58,76,2,1,9,5,4,4,Technical,Data,Logical,1,6,Yes,DBMS,Database Administrator
+S0162,20,Male,84.46,73.15,92,85,86,96,37,62,57,90,7,5,3,6,1,2,Technical,AI-ML,Logical,3,3,No,Python,Junior ML Engineer
+S0234,21,Female,85.81,81.59,75,70,76,83,53,57,77,70,2,5,10,2,3,2,Technical,AI-ML,Logical,3,3,No,Math,AI/ML Engineer Trainee
+S1036,19,Male,72.23,85.83,76,91,80,71,57,60,69,80,3,5,10,4,6,4,Technical,Data,Logical,3,2,No,DBMS,Database Administrator
+S0513,19,Male,87.83,86.1,61,97,52,73,73,65,75,95,7,3,1,3,1,5,Technical,Web,Logical,1,7,Yes,Python,Full Stack Developer
+S0380,19,Male,80.49,56.74,65,57,83,72,98,58,81,65,2,9,4,6,1,5,Creative,Web,Creative,3,4,No,Web,Frontend Developer
+S0261,17,Female,83.73,56.57,68,77,66,79,63,42,69,94,6,6,10,5,4,4,Technical,AI-ML,Logical,2,3,No,Math,AI/ML Engineer Trainee
+S0664,18,Male,84.34,83.85,63,45,81,57,42,80,52,81,1,3,5,6,3,6,Technical,Cloud,Logical,3,2,Yes,Web,Security Analyst Trainee
+S0946,21,Other,81.49,84.58,66,96,91,91,68,36,60,86,2,4,2,5,2,8,Technical,Cloud,Logical,3,6,Yes,DBMS,Junior DevOps Engineer
+S0313,18,Male,84.1,91.75,92,97,86,94,61,38,94,72,10,5,2,1,5,5,Technical,Web,Logical,4,2,No,Python,Junior Web Developer
+S0596,20,Male,69.38,79.02,81,80,58,99,53,60,98,96,6,1,3,3,3,10,Technical,Cloud,Logical,2,7,Yes,DBMS,Cloud Operations Engineer
+S0873,19,Male,85.35,74.61,71,78,85,76,51,81,84,76,1,5,3,7,3,5,Management,Data,Leader,0,2,No,DBMS,Junior Business Analyst
+S0359,19,Male,87.3,76.27,60,55,92,74,82,71,55,56,4,8,2,3,6,6,Creative,Web,Creative,1,1,No,Web,Frontend Developer
+S1010,18,Male,83.72,78.2,93,96,74,87,48,56,56,72,6,1,9,5,1,6,Technical,Data,Logical,1,1,Yes,DBMS,Database Administrator
+S0214,21,Female,70.35,90.65,76,85,60,73,54,30,64,84,6,2,8,3,2,1,Technical,AI-ML,Logical,1,5,Yes,Math,AI/ML Engineer Trainee
+S0634,21,Male,86.58,73.16,70,77,85,89,65,54,71,75,3,2,4,3,1,8,Technical,Cloud,Logical,1,0,No,Python,Cloud Operations Engineer
+S0790,20,Female,75.54,89.37,77,77,95,68,80,45,60,76,10,6,1,3,6,6,Technical,Web,Analytical,0,4,Yes,Python,Quality Assurance Tester
+S0125,17,Female,84.22,88.05,56,65,86,70,74,64,88,83,2,6,6,4,4,4,Analytical,Web,Analytical,1,1,No,Python,Associate Data Analyst
+S0035,20,Female,76.13,69.02,65,41,47,61,40,31,91,78,5,4,1,1,6,3,Analytical,AI-ML,Analytical,2,7,Yes,Math,Junior Data Scientist
+S0480,22,Female,73.54,76.98,82,94,94,100,73,34,64,82,10,4,5,1,5,6,Technical,Web,Logical,2,1,No,Python,Backend Developer
+S0335,21,Male,71.07,90.13,69,90,62,73,46,80,58,81,7,1,6,3,5,3,Technical,Web,Logical,1,1,No,Python,Junior Web Developer
+S0303,18,Female,76.42,80.84,96,97,82,73,45,78,79,89,7,6,6,1,2,3,Technical,Web,Logical,0,5,Yes,Python,Junior Web Developer
+S0626,17,Male,67.01,97.66,93,88,67,99,78,56,96,73,1,2,2,2,3,7,Technical,Cloud,Logical,2,3,No,DBMS,Cloud Operations Engineer
+S0577,17,Male,78.66,74.07,87,71,64,89,81,52,55,85,3,2,2,2,4,10,Technical,Cloud,Logical,5,0,Yes,DBMS,Cloud Operations Engineer
+S0953,20,Female,89.15,55.0,77,80,60,97,35,75,98,72,3,6,5,1,3,7,Technical,Cloud,Logical,5,5,Yes,DBMS,Junior DevOps Engineer
+S0537,22,Female,67.5,77.6,71,91,80,85,75,68,57,72,8,5,6,6,2,1,Technical,Web,Logical,5,4,Yes,DBMS,Full Stack Developer
+S0014,17,Male,78.63,76.39,89,49,75,67,45,49,84,99,1,3,10,4,1,1,Analytical,Data,Analytical,1,4,No,Statistics,Junior Data Scientist
+S0788,17,Female,64.82,72.22,48,46,62,41,48,39,71,91,3,1,2,4,5,3,Technical,Web,Analytical,0,2,No,DBMS,Quality Assurance Tester
+S0723,22,Female,75.75,82.28,84,79,92,71,94,37,86,70,5,8,6,5,1,6,Creative,Web,Creative,2,3,Yes,Web,UI/UX Designer
+S0615,19,Female,71.51,92.55,79,75,72,80,83,64,100,96,1,2,5,1,5,9,Technical,Cloud,Logical,3,1,No,DBMS,Cloud Operations Engineer
+S0415,20,Male,79.06,67.88,64,73,60,69,88,57,79,76,2,9,1,5,2,1,Creative,Web,Creative,1,2,No,Web,Frontend Developer
+S0229,21,Male,80.1,57.62,69,99,66,82,79,44,95,88,3,3,10,3,6,6,Technical,AI-ML,Logical,2,5,Yes,Python,AI/ML Engineer Trainee
+S0529,22,Female,91.71,91.01,75,85,79,84,41,75,95,84,7,5,6,3,5,2,Technical,Web,Logical,2,2,No,DBMS,Full Stack Developer
+S0160,17,Female,78.48,75.53,84,89,57,75,66,44,67,75,8,6,3,3,4,3,Technical,AI-ML,Logical,0,4,No,Python,Junior ML Engineer
+S0583,18,Female,78.49,61.38,87,94,72,77,39,46,73,82,5,4,1,2,3,10,Technical,Cloud,Logical,1,2,No,Python,Cloud Operations Engineer
+S1019,18,Male,70.57,77.13,64,51,77,45,36,45,93,95,5,4,2,6,2,1,Technical,Security,Logical,1,4,Yes,Math,Database Administrator
+S0237,20,Female,84.75,67.57,64,99,78,89,79,43,95,89,1,2,9,3,6,1,Technical,AI-ML,Logical,1,1,Yes,Python,AI/ML Engineer Trainee
+S0619,19,Female,79.24,64.75,70,83,95,77,37,78,85,99,3,2,6,5,6,10,Technical,Cloud,Logical,0,3,No,Python,Cloud Operations Engineer
+S0967,21,Female,70.53,87.38,90,72,47,76,64,72,67,92,2,4,2,3,5,7,Technical,Cloud,Logical,3,3,Yes,DBMS,Junior DevOps Engineer
+S0053,20,Female,73.01,81.12,91,79,60,80,66,51,61,83,5,2,7,2,2,5,Analytical,Data,Analytical,1,8,Yes,Math,Junior Data Scientist
+S0109,18,Male,75.26,82.57,84,46,51,73,45,48,51,96,1,5,8,4,3,1,Analytical,Data,Analytical,1,4,Yes,Statistics,Associate Data Analyst
+S0159,20,Male,84.65,89.76,77,69,54,79,58,42,94,70,9,5,2,4,2,2,Technical,AI-ML,Logical,2,3,No,Math,Junior ML Engineer
+S0308,20,Male,86.33,64.37,70,67,54,97,61,37,98,83,9,1,2,3,5,3,Technical,Web,Logical,1,6,Yes,Web,Junior Web Developer
+S0551,20,Female,91.9,77.24,93,89,90,85,49,73,64,90,9,5,3,6,2,4,Technical,Web,Logical,1,2,No,DBMS,Full Stack Developer
+S0238,17,Male,62.27,87.77,77,71,53,76,77,39,55,71,1,5,7,6,1,4,Technical,AI-ML,Logical,1,1,No,Python,AI/ML Engineer Trainee
+S0117,18,Female,67.16,82.81,75,49,83,60,73,41,78,98,4,1,10,1,2,4,Analytical,Data,Analytical,1,3,No,DBMS,Associate Data Analyst
+S0971,20,Male,77.03,77.48,68,57,58,49,68,50,88,89,3,3,5,5,6,3,Technical,Security,Logical,4,2,No,Math,Junior DevOps Engineer
+S0937,18,Male,71.78,83.39,43,46,61,40,59,80,89,91,4,4,1,3,1,4,Technical,Data,Logical,1,5,Yes,DBMS,Junior DevOps Engineer
