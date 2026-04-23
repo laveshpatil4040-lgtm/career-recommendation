@@ -23,10 +23,10 @@ app.config.update(SESSION_COOKIE_HTTPONLY=True, SESSION_COOKIE_SAMESITE="Lax")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "career_app.db")
-MODEL_PATH = os.path.join(BASE_DIR, "model.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "career_pipeline.pkl")
 ENCODER_PATH = os.path.join(BASE_DIR, "label_encoder.pkl")
-MODEL_FALLBACK_PATH = os.path.join(BASE_DIR, "career_model.pkl")
-PIPELINE_FALLBACK_PATH = os.path.join(BASE_DIR, "career_pipeline.pkl")
+MODEL_FALLBACK_PATH = os.path.join(BASE_DIR, "model.pkl")
+PIPELINE_FALLBACK_PATH = os.path.join(BASE_DIR, "career_model.pkl")
 
 model = None
 label_encoder = None
